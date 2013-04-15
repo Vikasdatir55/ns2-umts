@@ -123,9 +123,17 @@ proc printNodeID {node node_name} {
 #     receieve_agent: agent for receiving
 
 proc redirectTraffic {terminal interface send_agent recieve_agent} {
-    puts "handover happening now"
-	$terminal attach-agent $send_agent $interface 
-	$terminal connect-agent $send_agent $recieve_agent $interface  
+	set flag [ checkCurrentDelay 0.05 ]
+	if { $flag == 1 } then {
+    	puts "handover happening now"
+		$terminal attach-agent $send_agent $interface 
+		$terminal connect-agent $send_agent $recieve_agent $interface  
+	} else {
+		set ns [ Simulator instance ]
+		set now [ $ns now ]
+		$ns at [expr $now + 0.2 ] "redirectTraffic $terminal $interface $send_agent $recieve_agent"
+	}
+	
 }
 
 # function: record position of node 
@@ -134,20 +142,37 @@ proc redirectTraffic {terminal interface send_agent recieve_agent} {
 proc record {ue} {
    set ns [Simulator instance]
    set time 0.1;# record 0.5 second
-   set pos_x [$ue set X_]
-   set pos_y [$ue set Y_]
-   set now [$ns now]
+   set pos_x [ $ue set X_ ]
+   set pos_y [ $ue set Y_ ]
+   set now [ $ns now ]
 
-   puts "$pos_x\t$pos_y"
+  # puts "$pos_x\t$pos_y"
    $ns at [expr $now + $time] "record $ue"
 }
+
+proc checkCurrentDelay {delay} {
+	set ns [ Simulator instance ]
+	set time 0.3 ;#slot time to detect delay
+	set realtrace_tmp [ new Agent/RealtimeTrace ]
+	set current_delay [ $realtrace_tmp GetCurrentDelay "5.0.0" "3.0.2" "cbr" ]
+	if { $current_delay >= $delay } then {
+		set flag 1
+	} else {
+		set now [ $ns now ]
+		$ns at [ expr $now + $time ] "checkCurrentDelay $delay"
+		set flag 0
+	}
+}
+
 
 proc getMeanDelay {} {
   set trace_tmp [new Agent/RealtimeTrace]
   set mean_delay [$trace_tmp GetMeanDelay "5.0.0" "3.0.2" "cbr" ]
-  puts "mean_delay is $mean_delay"
+  puts "mean_delay is $mean_delay s"
   set current_delay [$trace_tmp GetCurrentDelay "5.0.0" "3.0.2" "cbr"]
-  puts "current_delay is $current_delay"
+  puts "current_delay is $current_delay s"
+  set mean_throughput [$trace_tmp GetMeanThroughput "5.0.0" "cbr" "1"]
+  puts "mean_throughput is $mean_throughput Mb"
 }
 #当前路径
 set output_dir .

@@ -303,7 +303,7 @@ void Trace::format(int tt, int s, int d, Packet* p)
 			dst_portaddr,
 			seqno,flags,sname);
 
-		rt.TraceType(src_nodeaddr, dst_nodeaddr, tt, th->uid(), Scheduler::instance().clock(), 
+		rt.UpdateTraceMap(src_nodeaddr, dst_nodeaddr, tt, th->uid(), Scheduler::instance().clock(), 
 			Scheduler::instance().clock(),
 			 name, th->size());
 		//current_delay = rt.GetCurrentDelay();
@@ -365,7 +365,7 @@ void Trace::format(int tt, int s, int d, Packet* p)
 				th->uid(), /* was p->uid_ */
 				sctph->SctpTrace()[i].usStreamId,
 				sctph->SctpTrace()[i].usStreamSeqNum);	   
-			rt.TraceType(src_nodeaddr, dst_nodeaddr, tt, 
+			rt.UpdateTraceMap(src_nodeaddr, dst_nodeaddr, tt, 
 			th->uid(), Scheduler::instance().clock(), 
 			Scheduler::instance().clock(),
 			 	name, th->size());
@@ -405,7 +405,7 @@ void Trace::format(int tt, int s, int d, Packet* p)
 			seqno,
 			th->uid() /* was p->uid_ */);
 				//add:h.minghe@gmail.com
-			rt.TraceType(src_nodeaddr, dst_nodeaddr, tt, 
+			rt.UpdateTraceMap(src_nodeaddr, dst_nodeaddr, tt, 
 			th->uid(), Scheduler::instance().clock(), 
 			Scheduler::instance().clock(), name, th->size());
 		//current_delay = rt.GetCurrentDelay();
@@ -437,7 +437,7 @@ void Trace::format(int tt, int s, int d, Packet* p)
 			tcph->flags(),
 			tcph->hlen(),
 			tcph->sa_length());
-		rt.TraceType(src_nodeaddr, dst_nodeaddr, tt, 
+		rt.UpdateTraceMap(src_nodeaddr, dst_nodeaddr, tt, 
 			th->uid(), Scheduler::instance().clock(), 
 			Scheduler::instance().clock(),
 			 name, th->size());
@@ -464,7 +464,7 @@ void Trace::format(int tt, int s, int d, Packet* p)
 			dst_nodeaddr,
 			dst_portaddr,
 			seqno,flags,sname);
-	rt.TraceType(src_nodeaddr, dst_nodeaddr, tt, 
+	rt.UpdateTraceMap(src_nodeaddr, dst_nodeaddr, tt, 
 			th->uid(), Scheduler::instance().clock(), 
 			Scheduler::instance().clock(),
 			 name, th->size());
@@ -633,7 +633,7 @@ DequeTrace::recv(Packet* p, Handler* h)
 
 			pt_->namdump();
 
-			rt.TraceType(src_nodeaddr, dst_nodeaddr, 'h', 
+			rt.UpdateTraceMap(src_nodeaddr, dst_nodeaddr, 'h', 
 			th->uid(), Scheduler::instance().clock(), 
 			Scheduler::instance().clock(),
 			 name, th->size());
@@ -658,7 +658,7 @@ DequeTrace::recv(Packet* p, Handler* h)
 				-1, flags, sname);
 			pt_->dump();
 
-			rt.TraceType(src_nodeaddr, dst_nodeaddr, 'h', 
+			rt.UpdateTraceMap(src_nodeaddr, dst_nodeaddr, 'h', 
 			th->uid(), Scheduler::instance().clock(), 
 			Scheduler::instance().clock(),
 			 name,	th->size());

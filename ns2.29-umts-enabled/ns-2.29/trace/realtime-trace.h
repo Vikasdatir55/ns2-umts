@@ -22,6 +22,34 @@ private:
 	//char* src_nodeaddr;
 	// the destination node
 	//char* dst_nodeaddr;
+	static double current_delay;
+	static double mean_delay;
+	static double current_throughput;
+	static double mean_throughput;
+	static double jitter;
+
+	void TraceSendType(const char* fromNode, 
+					   const char flag, 
+					   const int packedUid, 
+					   const double sendTime,
+					   const char* packetType, 
+					   const int packetSize);
+
+	void TraceRecvType(const char* toNode, 
+                       const char flag, 
+                       const int packedUid, 
+                       const double recvTime, 
+					   const char* packetType, 
+                       const int packetSize);
+	void UpdateMeanDelay(const char* src_nodeaddr, 
+                         const char* dst_nodeaddr, 
+                         const char* pt);
+	void UpdateCurrentDelay(const char* src_nodeaddr, 
+                         	const char* dst_nodeaddr, 
+                         	const char* pt);
+	void UpdateMeanThroughput(const char* nodeaddr,
+							  const char* pt);
+
 public:
 	//map<uid, <send_time, recv_time, packet_size>> to store the trace data
 	static std::map<int, iterm> traceMap;
@@ -30,25 +58,46 @@ public:
     //static double mean_delay_;
 	
 	RealtimeTrace() : Agent(PT_UDP){};
-	~RealtimeTrace();
-	void TraceSend(const char* fromNode, const char flag, const int packedUid,
-					const double sendTime, const int packetSize);
-	void TraceRecv(const char* toNode, const char flag, const int packedUid, 
-					const double recvTime, const int packetSize);
-	void Trace(const char* fromNode, const char* toNode, 
-                const char flag, const int packedUid, const double sendTime, 
-					const double recvTime, const int packetSize);
-	void TraceSendType(const char* fromNode, const char flag, const int packedUid, const double sendTime,
-					const char* packetType, const int packetSize);
-	void TraceRecvType(const char* toNode, const char flag, const int packedUid, const double recvTime, 
-						const char* packetType, const int packetSize);
-	void TraceType(const char* fromNode, const char* toNode, 
-                    const char flag, const int packedUid, 
-					const double sendTime, 	const double recvTime,
-					const char* packetType, const int packetSize);
+	virtual	~RealtimeTrace();
+	void TraceType(const char* fromNode, 
+                   const char* toNode, 
+                   const char flag, 
+                   const int packedUid, 
+				   const double sendTime, 	
+                   const double recvTime,
+				   const char* packetType, 
+                   const int packetSize);
+	void UpdateTraceMap(const char* fromNode,
+						const char* toNode,
+						const char flag,
+						const int packetUid,
+						const double sendTime,
+						const double recvTime,
+						const char* packetType,
+						const int packetSize);
 
-	double GetMeanDelay(const char* src_nodeaddr, const char* dst_nodeaddr, const char* pt);
-	double GetCurrentDelay(const char* src_nodeaddr, const char* dst_nodeaddr, const char* pt);
+	double GetMeanDelay(const char* src_nodeaddr, 
+                        const char* dst_nodeaddr, 
+                        const char* pt) 
+	{ 
+		UpdateMeanDelay(src_nodeaddr, dst_nodeaddr, pt);
+		return mean_delay;
+	}
+
+	double GetCurrentDelay(const char* src_nodeaddr, 
+                           const char* dst_nodeaddr, 
+                           const char* pt)
+	{
+		UpdateCurrentDelay(src_nodeaddr, dst_nodeaddr, pt);
+		return current_delay;
+	}
+
+    double GetMeanThroughput(const char* nodeaddr,
+							 const char* pt)
+	{
+		UpdateMeanThroughput(nodeaddr, pt);
+		return mean_throughput;
+	}
 
 	void WriteDelayOnFile(const char* src_nodeaddr, const char* dst_nodeaddr);
 
@@ -57,4 +106,5 @@ public:
 protected:
     int command(int argc, const char*const* argv);
 };
+
 #endif
