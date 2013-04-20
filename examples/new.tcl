@@ -35,6 +35,7 @@ $ns node-config -addressType hierarchical
 AddrParams set domain_num_  25           	           												;# domain number
 AddrParams set cluster_num_ {1  1 1 1  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1}            		;# cluster number
 AddrParams set nodes_num_   {22 1 1 21 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1}	      			;# nodes number             
+
 #configure RNC 
 puts ""
 puts "Creating RNC"
@@ -156,9 +157,8 @@ set opt(ant)            Antenna/OmniAntenna        			;# antenna model 802.11
 set opt(ifqlen)         50              	   			    ;# max packet in ifq 802.11
 set opt(adhocRouting)   DSDV                       			;# routing protocol 802.11
 set opt(umtsRouting)    ""                         			;# routing for UMTS (to reset node config)
-
-set opt(x)    1000 			   			                        ;# X dimension of the topography
-set opt(y)		1000			   			                        ;# Y dimension of the topography
+set opt(x) 				1000   			                    ;# X dimension of the topography
+set opt(y) 				1000		                        ;# Y dimension of the topography
 
 Mac/802_11 set basicRate_ 11Mb
 Mac/802_11 set dataRate_ 11Mb
@@ -184,9 +184,9 @@ $ns node-config  -multiIf OFF                           		;#reset attribute
 puts "Done multiIf node creation"
 
 # set number of hop between nodes, minimize the calculation time
-$god set-dist 1 2 1 
-$god set-dist 0 2 2 
-$god set-dist 0 1 1 
+#$god set-dist 1 2 1 
+#$god set-dist 0 2 2 
+#$god set-dist 0 1 1 
 set god [God instance]
 
 #配置接入点AP 
@@ -240,6 +240,7 @@ for {set i 0} {$i < 20} {incr i 1} {
 	syncTwoInterfaces $umts_ue($i) $wlan_ue($i)
 	printNodeID $wlan_ue($i) "wlan_ue($i)"
 #	printNodePosition $wlan_ue($i)
+	$ns initial_node_pos $wlan_ue($i) 5
 }
 puts "Done creation of WLAN UEs"
 # add link to backbone
@@ -266,6 +267,9 @@ puts "##############################################################"
 puts "***************Generating traffic: using UDP***************"
 puts ""
 
+puts "creating a real time monitor agent"
+set realtime_monitor [new Agent/RealtimeTrace]
+
 for {set i 0} {$i < 20} {incr i 1} {
 	set src_umts($i)  [new Agent/UDP]
 	$ue($i) attach-agent $src_umts($i) $umts_ue($i)
@@ -288,31 +292,53 @@ for {set i 0} {$i < 20} {incr i 1} {
 	set app($i) [new Application/Traffic/CBR]
 }
 
-for {set i} {$i < 20} {incr i 1} {
-	
+#$ns connect $src_umts(0) $sink_wlan(1)
+#puts [getNodeIpAddress $umts_ue(0)]
+#puts [getNodeIpAddress $wlan_ue(1)]
+#puts "----"
+#set e_app(0) [new Application/Traffic/CBR]
+#$e_app(0) attach-agent $src_umts(0)
+#$e_app(0) set packet_size_ 666
+#$e_app(0) set type_ CBR
+
+#$ns connect $src_wlan(1) $sink_umts(2)
+#puts [getNodeIpAddress $wlan_ue(1)]
+#puts [getNodeIpAddress $umts_ue(2)]
+#puts "----"
+
+#set e_app(1) [new Application/Traffic/CBR]
+#$e_app(1) attach-agent $src_wlan(1)
+#$e_app(1) set packet_size_ 777
+#$e_app(1) set type_ CBR
+
+#$ns connect $src_umts(2) $sink_umts(0)
+#puts [getNodeIpAddress $umts_ue(2)]
+#puts [getNodeIpAddress $umts_ue(0)]
+#puts "BS ipaddress is"
+#puts [getNodeIpAddress $BS]
+#puts "UE0 is [getNodeIpAddress $ue(0)]"
+#puts "----"
+#set e_app(2) [new Application/Traffic/CBR]
+#$e_app(2) attach-agent $src_umts(2)
+#$e_app(2) set packet_size_ 888
+#$e_app(2) set type_ CBR
+
+#$ns at 1.0 "$e_app(1) start"
+#$ns at 1.0 "$e_app(2) start"
+
+for {set i 0} {$i < 18} {incr i 1} {
+	set dst_node_index [expr $i+2]
+	$ns connect $src_umts($i) $sink_wlan($dst_node_index)
+	puts [getNodeIpAddress $umts_ue($i)]
+	puts [getNodeIpAddress $wlan_ue($dst_node_index)]
+	puts "----"
+	$app($i) attach-agent $src_umts($i)
+	$app($i) set packet_size_ 666
+	$app($i) set type_ CBR
+	$ns at 1.0 "$app($i) start"
+	$ns at 10.0 "getCurrentDelay  $ue($i) $wlan_ue($dst_node_index) \"cbr\" $realtime_monitor"
 }
-$ns connect $src_umts(0) $sink_wlan(1)
-set e_app(0) [new Application/Traffic/CBR]
-$e_app(0) attach-agent $src_umts(0)
-$e_app(0) set packet_size_ 666
-$e_app(0) set type_ CBR
 
-$ns connect $src_wlan(1) $sink_umts(2)
-
-set e_app(1) [new Application/Traffic/CBR]
-$e_app(1) attach-agent $src_wlan(1)
-$e_app(1) set packet_size_ 777
-$e_app(1) set type_ CBR
-
-$ns connect $src_umts(2) $sink_umts(0)
-set e_app(2) [new Application/Traffic/CBR]
-$e_app(2) attach-agent $src_umts(2)
-$e_app(2) set packet_size_ 888
-$e_app(2) set type_ CBR
-
-$ns at 1.0 "$e_app(0) start"
-$ns at 1.0 "$e_app(1) start"
-$ns at 1.0 "$e_app(2) start"
 
 puts "finished"
 puts ""
@@ -331,9 +357,12 @@ $ns node-config -llType UMTS/RLC/AM \
 # for the first HS-DSCH, we must create. If any other, then use attach-hsdsch
 
 $ns create-hsdsch $umts_ue(0) $src_umts(0)
-$ns attach-hsdsch $umts_ue(1) $src_umts(1)
-$ns attach-hsdsch $umts_ue(1) $sink_umts(1)
-$ns attach-hsdsch $umts_ue(2) $sink_umts(2)
+for {set i 1} {$i < 19} {incr i 1} {
+	#$ns attach-hsdsch $umts_ue(1) $src_umts(1)
+	#$ns attach-hsdsch $umts_ue(1) $sink_umts(1)
+	$ns attach-hsdsch $umts_ue($i) $src_umts($i)
+	$ns attach-hsdsch $umts_ue($i) $sink_umts($i)
+}
 
 #puts "create hsdsch umts_ue(1) sink(1)"
 
@@ -368,14 +397,16 @@ puts "finished"
 puts "****************************************************************"
 puts "################################################################"
 
-$ns at 2.3 "getMeanDelay"
-$ns at 10.0 "getMeanDelay"
+#$ns at  2.3 "getMeanDelay  $ue(1) $umts_ue(2) \"cbr\" $realtime_monitor "
+#$ns at 12.3 "getMeanDelay  $ue(0) $wlan_ue(1) \"cbr\" $realtime_monitor "
+#$ns at 12.0 "getMeanDelay  $ue(2) $umts_ue(0) \"cbr\" $realtime_monitor"
+#$ns at 12.1 "getMeanThroughput $ue(0) \"cbr\" $realtime_monitor"
 $ns at 3.0 "getDistance $wlan_ue(1) $wlan_ue(4)"
 $ns at 0.1 "record $wlan_ue(1)"
 
 # call to redirect traffic
-$ns at 2 "redirectTraffic $ue(0) $wlan_ue(0) $src_wlan(0) $sink_wlan(1)"
-$ns at 2 "$ns trace-annotate \"Redirecting traffic\""
+#$ns at 2 "redirectTraffic $ue(0) $wlan_ue(0) $src_wlan(0) $sink_wlan(1)"
+#$ns at 2 "$ns trace-annotate \"Redirecting traffic\""
 
 $ns at 15 "finish"
 

@@ -1,3 +1,12 @@
+# Author: Huang Minghe (h.minghe@gmail.com)
+# Date: 2013.4.18
+# Description: 
+# 	This script is the function for the new.tcl, you can copy, modify and use it freely.
+
+set NO_SERVICE 0
+set WIFI_IN_SERVICE 1
+set UMTS_IN_SERVICE 2
+
 # function: finish process 
 proc finish {} {
     global ns f
@@ -90,6 +99,13 @@ proc umtsNodeMove {umts_ue from_time time_slot time_lenght} {
 	}
 }
 
+# function: get node ip address
+# args
+# 	ue: node to get
+proc getNodeIpAddress {ue} {
+	$ue set address_
+}
+
 # function: make two nodes(interfaces) move together, because actually a mobile phone with
 # 	two different network cards but they are at the same position, they are all in the cellphone
 # args
@@ -102,31 +118,189 @@ proc syncTwoInterfaces {wlan_ue umts_ue} {
 
 # function: initial network selection, when network topo done, mobile node will chose an network to stay according to RSSI
 # args
+# 	num: number of multiple nodes
 # 	ue: the mutilple interfaces mobile node
 # 	wlan_ue: the wifi network card
 # 	umts_ue: the umts(3G) network card
 # 	ap: the wifi access point
 # 	bs: the 3G basetation 
 # notice: we select network using the WIFI comes first policy
-proc initNetworkSelection {ue wlan_ue umts_ue ap bs send_agent recv_agent} {
+proc initNetworkSelection {num ue wlan_ue umts_ue ap bs} {
+	for {set i 0} {$i < $num} {
+		scanNetworks $ue($i) $in_service_network($i) $wlan_ue($i) $umts_ue($i) $ap $bs
+	}
+}
+
+# function: scan networks
+# args
+# 	num: number of multiple interfaces mobile node
+# 	ue: the multiple interfaces mobile node
+# 	in_service_network: the network ue is in
+# 	wlan_ue: wifi interface 
+# 	umts_ue: umts interface
+# 	ap: wifi access point
+# 	bs: umts basetation
+# return: a list of network attach 1 for WIFI, 2 for UMTS and 0 for no service
+proc scanNetworks {num ue in_service_network wlan_ue umts_ue ap bs} {
+	upvar $ue UE
+	upvar $in_service_network IN_SERVICE_NETWORK
+	upvar $wlan_ue WLAN_UE
+	upvar $umts_ue UMTS_UE
+	
 	set ap_cover_radiu 70
 	set bs_cover_radiu 1000
-	set ap_distance [getDistance $wlan_ue $ap]
-	set bs_distance [getDistance $umts_ue $bs]
-	if {ap_distance < $ap_cover_radiu} then {
-		#select wifi
-		puts "accessing to WLAN"
-		networkSelection $ue $wlan_ue $send_agent $recv_agent
-		return "WIFI"
-	} else if {bs_distance < $bs_cover_radiu} {
-		#select umts
-		puts "accessing to UMTS"
-		networkSelection $ue $umts_ue $send_agent $recv_agent
-		return "UMTS"
-	} else {
-		puts "No network service"
-		return "NO SERVICE"
+	for {set i 0} {$i < $num} {incr i 1} {
+		set ap_distance [getDistance $WLAN_UE($i) $ap]
+		set bs_distance [getDistance $UMTS_UE($i) $bs]
+	
+		#puts "ap_distance $ap_distance"
+		#puts "bs_distance $bs_distance"
+		if {$ap_distance <= $ap_cover_radiu} {
+			#select wifi
+			puts "scanning WIFI, and it's good"
+		#	set IN_SERVICE_NETWORK($i) $WIFI_IN_SERVICE
+			set IN_SERVICE_NETWORK($i) 1
+		} 
+		if {$bs_distance < $bs_cover_radiu && $ap_distance > $ap_cover_radiu} {
+			#select umts
+			puts "scanning  UMTS, and it's good"
+		#	set IN_SERVICE_NETWORK($i) $UMTS_IN_SERVICE
+			set IN_SERVICE_NETWORK($i) 2
+		} 
+		if {$ap_distance > $ap_cover_radiu && $bs_distance > $bs_cover_radiu} {
+			puts "No network service"
+			#set IN_SERVICE_NETWORK $NO_SERVICE
+			set IN_SERVICE_NETWORK($i) 0
+		} 
+	}
+	puts "IN_SERVICE_NETWORK $IN_SERVICE_NETWORK(1)"
+	#array get IN_SERVICE_NETWORK
+	return [list 0 $IN_SERVICE_NETWORK(0) 1 $IN_SERVICE_NETWORK(1) \
+				 2 $IN_SERVICE_NETWORK(2) 3 $IN_SERVICE_NETWORK(3) \
+				 4 $IN_SERVICE_NETWORK(4) 5 $IN_SERVICE_NETWORK(5) \
+				 6 $IN_SERVICE_NETWORK(6) 7 $IN_SERVICE_NETWORK(7) \
+				 8 $IN_SERVICE_NETWORK(8) 9 $IN_SERVICE_NETWORK(9) \
+				10 $IN_SERVICE_NETWORK(10) 11 $IN_SERVICE_NETWORK(11) \
+				12 $IN_SERVICE_NETWORK(12) 13 $IN_SERVICE_NETWORK(13) \
+				14 $IN_SERVICE_NETWORK(14) 15 $IN_SERVICE_NETWORK(15) \
+				16 $IN_SERVICE_NETWORK(16) 17 $IN_SERVICE_NETWORK(17) \
+				18 $IN_SERVICE_NETWORK(18) 19 $IN_SERVICE_NETWORK(19)]
+}
+
+# function: connect send node and recv node
+# args
+# 	src_ue: send node
+# 	dst_ue: recv node
+# 	app: application between this two nodes
+# 	src_network: the network send node is in
+# 	dst_network: the network recv node is in
+# 	src_wlan_send_agent: agent on wifi interface for sending data
+# 	src_umts_send_agent: agent on umts interface for sending data
+# 	dst_wlan_recv_agent: agent on wifi interface for recieving data	
+# 	dst_umts_recv_agent: agent on umts interface for recieving data
+proc connectSendRecv {src_ue dst_ue app src_network dst_network \
+					  src_wlan_ue src_umts_ue \
+					  dst_wlan_ue dst_wlan_ue \
+					  src_wlan_send_agent src_umts_send_agent \
+					  dst_wlan_recv_agent dst_umts_recv_agent} {
+	if {$src_network == 1 && $dst_network == 1} {
+		$src_ue attach-agent $src_wlan_send_agent $src_wlan_ue
+		$src_ue connect-agent $src_wlan_send_agent $dst_wlan_recv_agent $src_wlan_ue
+		$app attach-agent $src_wlan_send_agent
+		puts [getNodeIpAddress $dst_wlan_recv_agent]
+		puts "OK"
+	}
+	if {$src_network == 2 && $dst_network == 1} {
+		$src_ue attach-agent $src_umts_send_agent $src_umts_ue
+		$src_ue connect-agent $src_umts_send_agent $dst_wlan_recv_agent $src_umts_ue
+		$app attach-agent $src_umts_send_agent
+		puts [getNodeIpAddress $dst_wlan_recv_agent]
+		puts "OK"
 	} 
+	if {$src_network == 1 && $dst_network == 2} {
+		$src_ue attach-agent $src_wlan_send_agent $src_wlan_ue
+		$src_ue connect-agent $src_wlan_send_agent $dst_umts_recv_agent $src_wlan_ue
+		$app attach-agent $src_wlan_send_agent
+		puts [getNodeIpAddress $dst_umts_recv_agent]
+		puts "OK"
+	}
+	if {$src_network == 2 && $dst_network == 2} {
+		$src_ue attach-agent $src_umts_send_agent $src_umts_ue
+		$src_ue connect-agent $src_umts_send_agent $dst_umts_recv_agent $src_umts_ue
+		$app attach-agent $src_umts_send_agent 
+		puts [getNodeIpAddress $dst_umts_recv_agent]
+		puts "OK"
+	}
+
+	if {$src_network == 0 || $dst_network == 0} {
+		puts "no service for src_ue and dst_ue"	
+		return "FAILED"
+	}
+}
+
+# function: attach application to send agent
+# args:
+# 	app: application to handle
+# 	send_agent: agent for application to attach
+proc attachSendAgent {app src_network src_umts_send_agent src_wlan_send_agent} {
+	if {$src_network == 1} {
+		$app attach-agent $src_wlan_send_agent
+		return "OK"
+	}
+	if {$src_network == 2} {
+		$app attach-agent $src_umts_send_agent
+		return "OK"
+	}
+	if {$src_network == 0} {
+		return "FAILED"
+	}
+		
+}
+
+
+# function: generate a random destination node
+# args
+# 	index: the index of source node
+# 	min: minimum index of nodes
+# 	max: maximum index of nodes
+# return
+# 	destination node
+proc genRandomDstNode {index min max} {
+	set rd [expr rand()]	
+	set dst_index [expr [expr int($rd)] * ($max - $min) + $min]
+	if {$dst_index == $index} {
+		puts "cannot connect to itself, increase dst_node_index with 1"
+		if {$index == $min} {
+			return [expr $dst_index + 1]
+		}
+		if {$index == $max} {
+			return [expr $dst_index - 1]
+		}
+		return [expr $dst_index + 1]
+	}
+	return $dst_index
+}
+
+
+# function: access to UMTS
+# args
+# 	ue: the multiple interfaces mobile node
+# 	umts_ue: the umts interface to use
+# 	send_agent: agent for sending data
+# 	recv_agent: agent for recieving data
+proc accessUmts {ue app umts_ue send_agent recv_agent} {
+	$app attach-agent $send_agent	
+}
+
+
+# function: access to WIFI
+# args
+# 	ue: the multiple interface mobile node
+# 	wlan_ue: the wifi interface to use
+# 	send_agent: agent for sending data
+# 	recv_agent: agent for recieving data
+proc accessWifi {ue app wlan_ue send_agent recv_agent} {
+	$app attach-agent $send_agent
 }
 
 # function: get coordinate x of node position
@@ -235,13 +409,39 @@ proc checkCurrentDelay {delay} {
 	}
 }
 
+# function: get mean delay of communcation between two nodes
+# args
+# 	 src_ue: source node
+# 	 dst_ue: source node
+# 	 packet_type: trace the packet type
+proc getMeanDelay {src_ue dst_ue packet_type realtime_monitor} {
+	set src_nodeaddr [getNodeIpAddress $src_ue]	
+	set dst_nodeaddr [getNodeIpAddress $dst_ue]
+ 	#set trace_tmp [new Agent/RealtimeTrace]
+  	set mean_delay [$realtime_monitor GetMeanDelay $src_nodeaddr $dst_nodeaddr $packet_type]
+  	puts "$src_nodeaddr $dst_nodeaddr -md $mean_delay's"
+}
 
-proc getMeanDelay {} {
-  set trace_tmp [new Agent/RealtimeTrace]
-  set mean_delay [$trace_tmp GetMeanDelay "5.0.0" "3.0.2" "cbr" ]
-  puts "mean_delay is $mean_delay s"
-  set current_delay [$trace_tmp GetCurrentDelay "5.0.0" "3.0.2" "cbr"]
-  puts "current_delay is $current_delay s"
-  set mean_throughput [$trace_tmp GetMeanThroughput "5.0.0" "cbr" "1"]
-  puts "mean_throughput is $mean_throughput Mb"
+# function: get mean delay of communcation between two nodes
+# args
+# 	 src_ue: source node
+# 	 dst_ue: source node
+# 	 packet_type: trace the packet type
+proc getCurrentDelay {src_ue dst_ue packet_type realtime_monitor} {
+	set src_nodeaddr [getNodeIpAddress $src_ue]
+	set dst_nodeaddr [getNodeIpAddress $dst_ue]
+	#set trace_tmp [new Agent/RealtimeTrace]
+  	set current_delay [$realtime_monitor GetCurrentDelay $src_nodeaddr $dst_nodeaddr $packet_type]
+  	puts "$src_nodeaddr $dst_nodeaddr -cd $current_delay's"
+}
+
+# function: get mean delay of communcation between two nodes
+# args
+# 	 ue: node to calculate
+# 	 packet_type: trace the packet type
+proc getMeanThroughput {ue packet_type realtime_monitor} {
+	set nodeaddr [getNodeIpAddress $ue]
+	#set trace_tmp [new Agent/RealtimeTrace]
+ 	set mean_throughput [$realtime_monitor GetMeanThroughput $nodeaddr $packet_type "1"]
+  	puts "$nodeaddr -mt $mean_throughput Mb"
 }
