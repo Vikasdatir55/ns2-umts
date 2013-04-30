@@ -43,7 +43,7 @@ set RNC [$ns create-Umtsnode 0.0.0] ;# node id is 0.
 $ns at 0.005 "$RNC label \"RNC 0.0.0\""
 
 setNodePosition $RNC $opt(RNC_X) $opt(RNC_Y) 0 
-$RNC color "yellow"
+$RNC color blue
 $ns initial_node_pos $RNC 5
 printNodeID $RNC "RNC"
 puts "Done RNC configuration"
@@ -63,7 +63,7 @@ set BS [$ns create-Umtsnode 0.0.1] ;# node id is 1, BS and RNC is in the same do
 $ns at 0.005 "$BS label \"BS 0.0.1\""
 
 setNodePosition $BS $opt(BS_X) $opt(BS_Y) 0
-$BS color yellow
+$BS color blue
 $ns initial_node_pos $BS 400
 printNodeID $BS "BS"
 puts "Done BS configuration"
@@ -84,7 +84,7 @@ for {set i 0} {$i < 20} {incr i 1} {
 #	$ns at 0.005 "$td_scdma_interface($i) label \"td_scdma_interface($i) 0.0.[expr $i+2]\""
 	setRandomPositionForNode $td_scdma_interface($i) 400 600
 	$ns initial_node_pos $td_scdma_interface($i) $opt(node_size)
-	$td_scdma_interface($i) color "red"
+#	$td_scdma_interface($i) color "red"
 }
 
 # create a dummy node for simulation run normally, but
@@ -99,14 +99,12 @@ set SGSN [$ns node 1.0.0]
 $ns at 0.005 "$SGSN label \"SGSN 1.0.0\""
 setNodePosition $SGSN $opt(SGSN_X) $opt(SGSN_Y) 0
 printNodeID $SGSN "SGSN"
-$SGSN color "blue"
 $ns initial_node_pos $SGSN $opt(node_size)
 
 set GGSN [$ns node 2.0.0]
 $ns at 0.005 "$GGSN label \"GGSN 2.0.0\""
 setNodePosition $GGSN $opt(GGSN_X) $opt(GGSN_Y) 0
 printNodeID $GGSN "GGSN"
-$GGSN color "blue"
 $ns initial_node_pos $GGSN $opt(node_size)
 
 puts "Done SGSN and GGSN creation"
@@ -170,7 +168,6 @@ $ns duplex-link $GGSN $Google 10MBit 15ms DropTail 1000 color red
 $RNC add-gateway $SGSN
 
 puts "Done connection of RNC, SGSN GGSN CN_host0"
-
 puts ""
 puts "Add Gateway"
 $RNC add-gateway $SGSN                                  		;#这一句应该放在链路搭建完成之后，一般情况放在这个位置
@@ -216,6 +213,7 @@ for {set i 0} {$i < 20} {incr i 1} {
 	set ue($i) [$ns node [expr 11+$i].0.0]						;# multiIf has not X_ and Y_
 	$ns at 0.005 "$ue($i) label \"ue($i) [expr 10+$i].0.0]\""	
 	set in_service_network($i) $NO_SERVICE
+	set app_type_list($i) 0
 
 	#$ns initial_node_pos $ue($i) 1
 }
@@ -276,14 +274,14 @@ for {set i 0} {$i < 20} {incr i 1} {
 #	$ns at 0.005 "$wifi_interface($i) label \"wifi_interface($i) 3.0.[expr $i+1]\""
 
 	$wifi_interface($i) base-station [AddrParams addr2id [$AP0 node-addr]]
-	setRandomPositionForNode $wifi_interface($i) [expr 460-$i*20] [expr 500+$i*20]
+	setRandomPositionForNode $wifi_interface($i) [expr 650-$i*20] [expr 600+$i*20]
 	syncTwoInterfaces $wifi_interface($i) $td_scdma_interface($i)
 
 	#[$wifi_interface($i) set mac_(0)] set-channel 1
 	printNodeID $wifi_interface($i) "wifi_interface($i)"
 #	printNodePosition $wifi_interface($i)
 	$ns initial_node_pos $wifi_interface($i) $opt(node_size)
-	$td_scdma_interface($i) color blue
+#	$td_scdma_interface($i) color blue
 }
 puts "Done creation of WLAN UEs"
 # add link to backbone
@@ -305,22 +303,43 @@ puts ""
 puts "creating a real time monitor agent"
 set realtime_monitor [new Agent/RealtimeTrace]
 
-for {set i 0} {$i < 20} {incr i 1} {
-	set src_umts($i)  [new Agent/UDP]
-	$ue($i) attach-agent $src_umts($i) $td_scdma_interface($i)
-	set sink_umts($i) [new Agent/Null]
+#for {set i 0} {$i < 20} {incr i 1} {
+#	set src_umts($i)  [new Agent/UDP]
+#	$ue($i) attach-agent $src_umts($i) $td_scdma_interface($i)
+#	set sink_umts($i) [new Agent/Null]
 	#$ue(0) attach-agent $sink(0) $td_scdma_interface(0) 
-    $ns attach-agent $td_scdma_interface($i) $sink_umts($i)
-    $src_umts($i) set fid_ $i
-    $sink_umts($i) set fid_ $i
+	#$ns attach-agent $td_scdma_interface($i) $sink_umts($i)
+    #$src_umts($i) set fid_ $i
+    #$sink_umts($i) set fid_ $i
 
-    set src_wlan($i)  [new Agent/UDP]
-    $ue($i) attach-agent $src_wlan($i) $wifi_interface($i)
-    set sink_wlan($i) [new Agent/Null]
-    $ns attach-agent $wifi_interface($i) $sink_wlan($i)
-    $src_wlan($i) set fid_ [expr $i+20]
-    $sink_wlan($i) set fid_ [expr $i+20]
-}
+    #set src_wlan($i)  [new Agent/UDP]
+    #$ue($i) attach-agent $src_wlan($i) $wifi_interface($i)
+    #set sink_wlan($i) [new Agent/Null]
+    #$ns attach-agent $wifi_interface($i) $sink_wlan($i)
+    #$src_wlan($i) set fid_ [expr $i+20]
+    #$sink_wlan($i) set fid_ [expr $i+20]
+#}
+	set server_yahoo [new Agent/UDP]
+	$ns attach-agent $Yahoo $server_yahoo
+ 	
+	set server_youtube [new Agent/UDP]
+	$ns attach-agent $Youtube $server_youtube
+
+	set server_facebook [new Agent/UDP]
+	$ns attach-agent $Facebook $server_facebook
+
+	set server_google [new Agent/UDP]
+	$ns attach-agent $Google $server_google
+
+	set server_qq [new Agent/UDP]
+	$ns attach-agent $QQ $server_qq
+
+	set server_jingfm [new Agent/UDP]
+	$ns attach-agent $JingFm $server_jingfm
+
+	set server_steam [new Agent/UDP]
+	$ns attach-agent $Steam $server_yahoo
+
 
 for {set i 0} {$i < 20} {incr i 1} {
 	set app($i) [new Application/Traffic/CBR]
@@ -328,35 +347,65 @@ for {set i 0} {$i < 20} {incr i 1} {
 
 # Scanning Networks
 array set in_service_network [scanNetworks 20 ue in_service_network wifi_interface td_scdma_interface $AP0 $BS]
-
 puts "Done initiation networks"
 
-for {set i 0} {$i < 18} {incr i 1} {
-	set dst_node_index [expr $i+2]
+# Random chose application type and service time length
+array set app_type_list [randomApplicationGeneration 20 7]
 
- 	if {$in_service_network($i) == $WIFI_IN_SERVICE && $in_service_network($dst_node_index) == $WIFI_IN_SERVICE} {
- 		#$ns connect $src_wlan($i) $sink_wlan($dst_node_index)
- 		$ue($i) connect-agent $src_wlan($i) $sink_wlan($dst_node_index) $wifi_interface($i)
- 		$app($i) attach-agent $src_wlan($i)
- 		puts "WIFI TO WIFI"
+
+for {set i 0} {$i < 18} {incr i 1} {
+	if {$in_service_network($i) == $WIFI_IN_SERVICE} {
+		set wifi_udp($i) [new Agent/UDP]
+		$ue($i) attach-agent $wifi_udp($i) $wifi_interface($i)
+		if {$app_type_list($i) == $APP_VOIP} {
+			$ue($i) connect-agent $wifi_udp($i) $server_google $wifi_interface($i) 
+		}
+		if {$app_type_list($i) == $APP_NEWS} {
+			$ue($i) connect-agent $wifi_udp($i) $server_yahoo $wifi_interface($i)
+		}
+		if {$app_type_list($i) == $APP_VIDEO} {
+			$ue($i) connect-agent $wifi_udp($i) $server_youtube $wifi_interface($i)
+		}
+		if {$app_type_list($i) == $APP_SNS} {
+			$ue($i) connect-agent $wifi_udp($i) $server_facebook $wifi_interface($i)
+		}
+		if {$app_type_list($i) == $APP_CHAT} {
+			$ue($i) connect-agent $wifi_udp($i) $server_qq $wifi_interface($i)
+		}
+		if {$app_type_list($i) == $APP_MUSIC} {
+			$ue($i) connect-agent $wifi_udp($i) $server_jingfm $wifi_interface($i)
+		}
+		if {$app_type_list($i) == $APP_ONLINE_GAME} {
+			$ue($i) connect-agent $wifi_udp($i) $server_steam $wifi_interface($i)
+		}
+			$app($i) attach-agent $wifi_udp($i)
  	}
- 	if {$in_service_network($i) == $UMTS_IN_SERVICE && $in_service_network($dst_node_index) == $WIFI_IN_SERVICE} {
- 		#$ns connect $src_umts($i) $sink_wlan($dst_node_index)
- 		$ue($i) connect-agent $src_umts($i) $sink_wlan($dst_node_index) $td_scdma_interface($i)
- 		$app($i) attach-agent $src_umts($i)
- 		puts "UMTS TO WIFI"
- 	}
- 	if {$in_service_network($i) == $WIFI_IN_SERVICE && $in_service_network($dst_node_index) == $UMTS_IN_SERVICE} {
- 		#$ns connect $src_wlan($i) $sink_umts($dst_node_index)
- 		$ue($i) connect-agent $src_wlan($i) $sink_umts($dst_node_index) $wifi_interface($i)
- 		$app($i) attach-agent $src_wlan($i)
- 		puts "WIFI TO UMTS"
- 	}
- 	if {$in_service_network($i) == $UMTS_IN_SERVICE && $in_service_network($dst_node_index) == $UMTS_IN_SERVICE} {
- 		#$ns connect $src_umts($i) $sink_umts($dst_node_index)
- 		$ue($i) connect-agent $src_umts($i) $sink_umts($dst_node_index) $td_scdma_interface($i)
- 		$app($i) attach-agent $src_umts($i)
- 		puts "UMTS TO UMTS"
+	if {$in_service_network($i) == $UMTS_IN_SERVICE} {
+		set umts_udp($i) [new Agent/UDP]
+		$ns at 0.0 "$ns attach-hsdsch $td_scdma_interface($i) $umts_udp($i)"
+		$ue($i) attach-agent $umts_udp($i) $td_scdma_interface($i)
+		if {$app_type_list($i) == $APP_VOIP} {
+			$ue($i) connect-agent $umts_udp($i) $server_google $td_scdma_interface($i) 
+		}
+		if {$app_type_list($i) == $APP_NEWS} {
+			$ue($i) connect-agent $umts_udp($i) $server_yahoo $td_scdma_interface($i)
+		}
+		if {$app_type_list($i) == $APP_VIDEO} {
+			$ue($i) connect-agent $umts_udp($i) $server_youtube $td_scdma_interface($i)
+		}
+		if {$app_type_list($i) == $APP_SNS} {
+			$ue($i) connect-agent $umts_udp($i) $server_facebook $td_scdma_interface($i)
+		}
+		if {$app_type_list($i) == $APP_CHAT} {
+			$ue($i) connect-agent $umts_udp($i) $server_qq $td_scdma_interface($i)
+		}
+		if {$app_type_list($i) == $APP_MUSIC} {
+			$ue($i) connect-agent $umts_udp($i) $server_jingfm $td_scdma_interface($i)
+		}
+		if {$app_type_list($i) == $APP_ONLINE_GAME} {
+			$ue($i) connect-agent $umts_udp($i) $server_steam $td_scdma_interface($i)
+		}
+			$app($i) attach-agent $umts_udp($i)
  	}
 	$app($i) set packet_size_ [expr 666+$i]
 	$app($i) set type_ CBR
@@ -376,12 +425,12 @@ $ns node-config -llType UMTS/RLC/AM \
 
 # for the first HS-DSCH, we must create. If any other, then use attach-hsdsch
 
-$ns create-hsdsch $td_scdma_interface(0) $src_umts(0)
+$ns create-hsdsch $td_scdma_interface(0) $umts_udp(0)
 for {set i 1} {$i < 19} {incr i 1} {
-	#$ns attach-hsdsch $td_scdma_interface(1) $src_umts(1)
+	#$ns attach-hsdsch $td_scdma_interface(1) $umts_udp(1)
 	#$ns attach-hsdsch $td_scdma_interface(1) $sink_umts(1)
-	$ns attach-hsdsch $td_scdma_interface($i) $src_umts($i)
-	$ns attach-hsdsch $td_scdma_interface($i) $sink_umts($i)
+#	$ns attach-hsdsch $td_scdma_interface($i) $umts_udp($i)
+	#$ns attach-hsdsch $td_scdma_interface($i) $sink_umts($i)
 }
 puts "Done umts registration"
 

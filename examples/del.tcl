@@ -49,7 +49,26 @@ proc finish {} {
     puts " Simulation ended."
     exit 0
 }
-
+proc redirectTrafficToWIFI {multiFaceNode send_agent recv_agent wifi_interface} {
+	#global ns
+	#$ns trace-annotate "Redirecting traffic to WIFI"
+	$multiFaceNode attach-agent $send_agent $wifi_interface
+	$multiFaceNode connect-agent $send_agent $recv_agent $wifi_interface
+}
+proc redirectTrafficToUMTS {multiFaceNode send_agent recv_agent td_scdma_interface} {
+	#global ns
+	#$ns trace-annotate "Redirecting traffic to UMTS"
+	$multiFaceNode attach-agent $send_agent $td_scdma_interface
+	$multiFaceNode connect-agent $send_agent $recv_agent $td_scdma_interface
+}
+proc redirectTrafficFromWIFIToUMTS {multiFaceNode send_agent recv_agent td_scdma_interface} {
+	#global ns
+	#$multiFaceNode attach-agent $send_agent $td_scdma_interface
+	#$multiFaceNode connect-agent $send_agent $recv_agent $td_scdma_interface
+	puts "NNNNNNNNN"
+	$ns attach-agent $td_scdma_interface $send_agent
+	$ns connect-agent $send_agent $recv_agent
+}
 source ./function.tcl
 # set global variables
 set output_dir .
@@ -59,7 +78,7 @@ set ns [new Simulator]
 #$ns use-newtrace
 
 #open file for trace
-set f [open out.res w]
+set f [open out.tr w]
 $ns trace-all $f
 
 set namfile [open out.nam w]
@@ -214,22 +233,24 @@ $AP set Y_ 55.0
 $AP set Z_ 0.0
 [$AP set mac_(0)] bss_id [[$AP set mac_(0)] id]
 [$AP set mac_(0)] enable-beacon
-[$AP set mac_(0)] set-channel 1
+[$AP set mac_(0)] set-channel 6
 
 # creation of the wireless interface 802.11
 $ns node-config -wiredRouting OFF \
                 -macTrace ON 				
-for {set i 0} {$i < 20} {incr i 1} {
+for {set i 0} {$i < 1} {incr i 1} {
 	set wifi_interface($i) [$ns node 6.0.[expr $i+1]]
 	$wifi_interface($i) random-motion 0
 	$wifi_interface($i) base-station [AddrParams addr2id [$AP node-addr]]
-	setRandomPositionForNode $wifi_interface($i) 55.0 10.0	
+	setRandomPositionForNode $wifi_interface($i) 155.0 110.0	
 	syncTwoInterfaces $wifi_interface($i) $td_scdma_interface($i)
 
-	[$wifi_interface($i) set mac_(0)] set-channel 1
-	puts "wifi_interface created ..."			           ;# debug info
+	[$wifi_interface($i) set mac_(0)] set-channel [expr int(fmod($i, 6))+1 ]
+	set channel_no [expr int(fmod($i,6))+1]
+	puts "wifi_interface created at channel $channel_no..."			           ;# debug info
 }
 
+setNodePosition $wifi_interface(0) 50 50 0
 
 # add link to backbone
 $ns duplex-link $AP $GGSN 10MBit 15ms DropTail 1000
@@ -243,24 +264,33 @@ $multiFaceNode add-interface-node $td_scdma_interface(0)
 #
 
 # create a TCP agent and attach it to multi-interface node
-set tcp_(0) [new Agent/TCP/FullTcp]
-#    $ns attach-agent $td_scdma_interface(0) $tcp_(0) ;# old command to attach to node
-$multiFaceNode attach-agent $tcp_(0) $td_scdma_interface(0)                   ;# new command: the interface is used for sending
-set app_(0) [new Application/TcpApp $tcp_(0)]
+set udp(0) [new Agent/UDP]
+#    $ns attach-agent $td_scdma_interface(0) $udp(0) ;# old command to attach to node
+#$multiFaceNode attach-agent $udp(0) $td_scdma_interface(0)                   ;# new command: the interface is used for sending
+#$multiFaceNode attach-agent $udp(0) $wifi_interface(0)                   ;# new command: the interface is used for sending
+set app_(0) [new Application/Traffic/CBR]
+$app_(0) attach-agent $udp(0)
+$ns at 0.5 "$app_(0) start"
 puts "App0 id=$app_(0)"
+
     
 # create a TPC agent and attach it to Yahoo
-set tcp_(1) [new Agent/TCP/FullTcp] 
-$ns attach-agent $Yahoo $tcp_(1)
-set app_(1) [new Application/TcpApp $tcp_(1)]
+set udp(1) [new Agent/Null] 
+$ns attach-agent $Yahoo $udp(1)
+set app_(1) [new Application/Traffic/CBR]
 puts "App1 id=$app_(1)"
 
+#redirectTrafficToUMTS $multiFaceNode $udp(0) $udp(1) $td_scdma_interface(0)
+#$multiFaceNode attach-agent $udp(0) $wifi_interface(0)
+#$multiFaceNode connect-agent $udp(0) $udp(1) $wifi_interface(0)
+$ns attach-agent $wifi_interface(0) $udp(0)
+$ns connect $udp(0) $udp(1)
 
-    
+#$multiFaceNode attach-agent $udp(0) $td_scdma_interface(0)
+
 # connect both TCP agent
-#$ns connect $tcp_(0) $tcp_(1) ;# old command to connect to agent
-$multiFaceNode connect-agent $tcp_(0) $tcp_(1) $td_scdma_interface(0) ;# new command: specify the interface to use
-$tcp_(0) listen
+#$ns connect $udp(0) $udp(1) ;# old command to connect to agent
+#$multiFaceNode connect-agent $udp(0) $udp(1) $wifi_interface(0) ;# new command: specify the interface to use
 puts "udp stream made from udp(0) and sink(0)"
 
 # do some kind of registration in UMTS
@@ -273,7 +303,7 @@ $ns node-config -llType UMTS/RLC/AM \
    		-hs_downlinkBW 384kbs
 
 # for the first HS-DSCH, we must create. If any other, then use attach-hsdsch
-$ns create-hsdsch $td_scdma_interface(0) $tcp_(0)
+$ns create-hsdsch $td_scdma_interface(0) $udp(0)
 
 # we must set the trace for the environment. If not, then bandwidth is reduced and
 # packets are not sent the same way (it looks like they are queued, but TBC)
@@ -289,43 +319,33 @@ $BS loadSnrBlerMatrix "SNRBLERMatrix"
 #$td_scdma_interface(0) trace-outlink $f 3
 
 # we cannot start the connect right away. Give time to routing algorithm to run
-$ns at 0.5 "$app_(1) connect $app_(0)"
-
-# install a procedure to print out the received data
-Application/TcpApp instproc recv {data} {
-    global ns
-    $ns trace-annotate "$self received data \"$data\""
-    puts "$self received data \"$data\""
-}
 
 # function to redirect traffic from wifi_interface(0) to wifi_interface(0)
 proc redirectTraffic {} {
-    global multiFaceNode tcp_ wifi_interface
-    $multiFaceNode attach-agent $tcp_(0) $wifi_interface(0) ;# the interface is used for sending
-    $multiFaceNode connect-agent $tcp_(0) $tcp_(1) $wifi_interface(0) ;# the interface is used for receiving
+    global multiFaceNode udp wifi_interface
+    $multiFaceNode attach-agent $udp(0) $wifi_interface(0) ;# the interface is used for sending
+    $multiFaceNode connect-agent $udp(0) $udp(1) $wifi_interface(0) ;# the interface is used for receiving
+}
+proc wifiToumts {} {
+	global multiFaceNode udp td_scdma_interface
+	global ns
+	$ns trace-annotate "Redirecting traffic to UMTS"
+	puts "No No"
+#	$multiFaceNode attach-agent $udp(0) $td_scdma_interface(0)
+	$multiFaceNode connect-agent $udp(0) $udp(1) $td_scdma_interface(0)
 }
 
-proc redirectTrafficToWIFI {multiFaceNode send_agent recv_agent wifi_interface} {
-	$multiFaceNode attach-agent $send_agent $wifi_interface
-	$multiFaceNode connect-agent $send_agent $recv_agent $wifi_interface
-}
-proc redirectTrafficToUMTS {multiFaceNode send_agent recv_agent td_scdma_interface} {
-	$multiFaceNode attach-agent $send_agent $td_scdma_interface
-	$multiFaceNode connect-agent $send_agent $recv_agent $td_scdma_interface
-}
-# send a message via TcpApp
+
+# send a message via Traffic/CBR
 # The string will be interpreted by the receiver as Tcl code.
 for { set i 1 } { $i < 5 } { incr i} {
-    $ns at [expr $i + 0.5] "$app_(1) send 100 {$app_(0) recv {my message $i}}"
+    $ns at [expr $i + 0.5] "$app_(0) send {my message $i}"
 }
 
 # call to redirect traffic
-#$ns at 3 "redirectTraffic"
-$ns at 2 "$ns trace-annotate \"Redirecting traffic to WIFI\""
-$ns at 2 "redirectTrafficToWIFI $multiFaceNode $tcp_(0) $tcp_(1) $wifi_interface(0)"
-
-$ns at 3 "$ns trace-annotate \"Redirecting traffic to UMTS\""
-#$ns at 3 "redirectTrafficToUMTS $multiFaceNode $tcp_(0) $tcp_(1) $td_scdma_interface(0)"
+#$ns at 2 "redirectTrafficToWIFI $multiFaceNode $udp(0) $udp(1) $wifi_interface(0)"
+#$ns at 3 "redirectTrafficFromWIFIToUMTS $multiFaceNode $udp(0) $udp(1) $td_scdma_interface(0)"
+#$ns at 3 "wifiToumts"
 
 $ns at 5 "finish"
 

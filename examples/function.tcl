@@ -7,6 +7,17 @@ set NO_SERVICE 0
 set WIFI_IN_SERVICE 1
 set UMTS_IN_SERVICE 2
 
+set NO_APP 0
+set APP_VOIP 1
+set APP_NEWS 2
+set APP_VIDEO 3
+set APP_SNS 4
+set APP_CHAT 5
+set APP_MUSIC 6
+set APP_ONLINE_GAME 7
+
+
+
 # function: finish process 
 proc finish {} {
     global ns f
@@ -131,6 +142,19 @@ proc initNetworkSelection {num ue wlan_ue umts_ue ap bs} {
 	}
 }
 
+# function: random generate the application type
+# args
+#	num_ue: number of ue
+#	num_app_type: number of application type
+proc randomApplicationGeneration {num_ue num_app_type} {
+	set app_type_list {}
+	for {set i 0} {$i < $num_ue} {incr i 1} {
+		lappend app_type_list [expr int(rand()*($num_app_type + 1))]
+	}
+	puts $app_type_list
+	return $app_type_list
+}
+
 # function: scan networks
 # args
 # 	num: number of multiple interfaces mobile node
@@ -146,6 +170,8 @@ proc scanNetworks {num ue in_service_network wlan_ue umts_ue ap bs} {
 	upvar $in_service_network IN_SERVICE_NETWORK
 	upvar $wlan_ue WLAN_UE
 	upvar $umts_ue UMTS_UE
+
+	set in_service_network_list {}
 	
 	set ap_cover_radiu 70
 	set bs_cover_radiu 1000
@@ -172,19 +198,10 @@ proc scanNetworks {num ue in_service_network wlan_ue umts_ue ap bs} {
 			#set IN_SERVICE_NETWORK $NO_SERVICE
 			set IN_SERVICE_NETWORK($i) 0
 		} 
+
+		lappend in_service_network_list $IN_SERVICE_NETWORK($i)
 	}
-	puts "IN_SERVICE_NETWORK $IN_SERVICE_NETWORK(1)"
-	#array get IN_SERVICE_NETWORK
-	return [list 0 $IN_SERVICE_NETWORK(0) 1 $IN_SERVICE_NETWORK(1) \
-				 2 $IN_SERVICE_NETWORK(2) 3 $IN_SERVICE_NETWORK(3) \
-				 4 $IN_SERVICE_NETWORK(4) 5 $IN_SERVICE_NETWORK(5) \
-				 6 $IN_SERVICE_NETWORK(6) 7 $IN_SERVICE_NETWORK(7) \
-				 8 $IN_SERVICE_NETWORK(8) 9 $IN_SERVICE_NETWORK(9) \
-				10 $IN_SERVICE_NETWORK(10) 11 $IN_SERVICE_NETWORK(11) \
-				12 $IN_SERVICE_NETWORK(12) 13 $IN_SERVICE_NETWORK(13) \
-				14 $IN_SERVICE_NETWORK(14) 15 $IN_SERVICE_NETWORK(15) \
-				16 $IN_SERVICE_NETWORK(16) 17 $IN_SERVICE_NETWORK(17) \
-				18 $IN_SERVICE_NETWORK(18) 19 $IN_SERVICE_NETWORK(19)]
+	return $in_service_network_list 
 }
 
 # function: connect send node and recv node
