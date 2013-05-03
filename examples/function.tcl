@@ -7,14 +7,6 @@ set NO_SERVICE 0
 set WIFI_IN_SERVICE 1
 set UMTS_IN_SERVICE 2
 
-set NO_APP 0
-set APP_VOIP 1
-set APP_NEWS 2
-set APP_VIDEO 3
-set APP_SNS 4
-set APP_CHAT 5
-set APP_MUSIC 6
-set APP_ONLINE_GAME 7
 
 
 
@@ -62,7 +54,7 @@ proc connectTwoAgents {agent_src agent_des} {
 #  	pos_x: X_ value
 #  	pos_y: Y_ value
 #  	pos_z: Z_ value
-proc setNodePosition {node pos_x pos_y pos_z} {
+proc SetNodePosition {node pos_x pos_y pos_z} {
 	$node set X_ $pos_x
 	$node set Y_ $pos_y
 	$node set Z_ $pos_z
@@ -73,7 +65,7 @@ proc setNodePosition {node pos_x pos_y pos_z} {
 # 	node: node
 # 	min: minimum value you want
 # 	max: maximum value you want
-proc setRandomPositionForNode {node min max} {
+proc SetRandomPositionForNode {node min max} {
 	set rand_x [expr rand()]
 	set rand_y [expr rand()]
 	set pos_x [expr $rand_x * ($max - $min) + $min]
@@ -113,7 +105,7 @@ proc umtsNodeMove {umts_ue from_time time_slot time_lenght} {
 # function: get node ip address
 # args
 # 	ue: node to get
-proc getNodeIpAddress {ue} {
+proc GetNodeIpAddress {ue} {
 	$ue set address_
 }
 
@@ -122,7 +114,7 @@ proc getNodeIpAddress {ue} {
 # args
 # 	wlan_ue: wifi network interface
 # 	umts_ue: umts(3G) network interface
-proc syncTwoInterfaces {wlan_ue umts_ue} {
+proc SyncTwoInterfaces {wlan_ue umts_ue} {
 	$umts_ue set X_ [$wlan_ue set X_]
 	$umts_ue set Y_ [$wlan_ue set Y_]
 }
@@ -146,10 +138,11 @@ proc initNetworkSelection {num ue wlan_ue umts_ue ap bs} {
 # args
 #	num_ue: number of ue
 #	num_app_type: number of application type
-proc randomApplicationGeneration {num_ue num_app_type} {
+proc RandomApplicationGeneration {num_ue num_app_type} {
 	set app_type_list {}
 	for {set i 0} {$i < $num_ue} {incr i 1} {
-		lappend app_type_list [expr int(rand()*($num_app_type + 1))]
+		set tmp [expr int(rand()*$num_app_type)]
+		lappend app_type_list $tmp
 	}
 	puts $app_type_list
 	return $app_type_list
@@ -165,7 +158,7 @@ proc randomApplicationGeneration {num_ue num_app_type} {
 # 	ap: wifi access point
 # 	bs: umts basetation
 # return: a list of network attach 1 for WIFI, 2 for UMTS and 0 for no service
-proc scanNetworks {num ue in_service_network wlan_ue umts_ue ap bs} {
+proc ScanNetworks {num ue in_service_network wlan_ue umts_ue ap bs} {
 	upvar $ue UE
 	upvar $in_service_network IN_SERVICE_NETWORK
 	upvar $wlan_ue WLAN_UE
@@ -179,8 +172,8 @@ proc scanNetworks {num ue in_service_network wlan_ue umts_ue ap bs} {
 		set ap_distance [getDistance $WLAN_UE($i) $ap]
 		set bs_distance [getDistance $UMTS_UE($i) $bs]
 	
-		#puts "ap_distance $ap_distance"
-		#puts "bs_distance $bs_distance"
+		puts "ap_distance $ap_distance"
+		puts "bs_distance $bs_distance"
 		if {$ap_distance <= $ap_cover_radiu} {
 			#select wifi
 			puts "scanning WIFI, and it's good"
@@ -201,6 +194,7 @@ proc scanNetworks {num ue in_service_network wlan_ue umts_ue ap bs} {
 
 		lappend in_service_network_list $IN_SERVICE_NETWORK($i)
 	}
+	puts $in_service_network_list
 	return $in_service_network_list 
 }
 
@@ -364,6 +358,17 @@ proc printNodeID {node node_name} {
 	puts "$node_name id=$node_id"
 }
 
+proc CreateWifiInterface {ns ip ap} {
+	$ns node-config -wiredRouting OFF 
+	set tmp_interface [$ns node $ip]
+	$tmp_interface random-motion 0
+	$tmp_interface base-station [AddrParams addr2id [$ap node-addr]]
+	set rd [expr rand()]	
+	set channel_num [expr [expr int($rd)] * (11 - 1) + 1]
+	[$tmp_interface set mac_(0)] set-channel $channel_num
+	return $tmp_interface
+}
+
 # function: do handover action
 # args
 #     ue: the UE which want to handover
@@ -395,6 +400,30 @@ proc networkSelection {ue interface send_agent recv_agent} {
 	$ue connect-agent $send_agent $recv_agent $interface
 }
 
+# function: let ue handover from umts network to wlan
+# args
+# 	ns: the ns simulation instance
+# 	ue: the multi face node
+# 	wifi_interface: the wifi interface of multi face node
+# 	send_agent: the agent for sending
+# 	recv_agent: the agent for recieving
+proc UmtsToWifi {ns ue wifi_interface send_agent recv_agent} {
+	$ns trace-annotate "[getNodeIpAddress $ue] handover from UMTS to WIFI" 
+	$ue attach-agent $send_agent $wifi_interface
+	$ue connect-agent $send_agent $recv_agent $wifi_interface
+}
+# function: let ue handover from wlan to umts network
+# args:
+# 	ns: the ns simulation instance
+# 	ue: the multi face node
+# 	umts_interface: the umts interface of multi face node
+# 	send_agent: the agent for sending
+# 	recv_agent: the agent for recieving
+proc WifiToUmts {ns ue umts_interface send_agent recv_agent} {
+	$ns trace-annotate "[getNodeIpAddress $ue] handover from WIFI to UMTS"
+	$ns attach-agent $umts_interface $send_agent
+	$ns connect $send_agent $recv_agent
+}
 # function: record position of node 
 # args
 #     ue: the UE we want to record 
