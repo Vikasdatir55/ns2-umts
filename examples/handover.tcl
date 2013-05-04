@@ -1,26 +1,28 @@
 #==================================================================
-# Filename: 	handover.tcl
-# Author: 	Huang Minghe <H.Minghe@gmail.com>
-# Description:	handover between wifi and umts
-# You can:	Freely copy, distribute,and use under the following conditions
+# Filename: handover.tcl
+# Author: Huang Minghe <H.Minghe@gmail.com>
+# Description: handover between wifi and umts
+# You can: Freely copy, distribute,and use under the following conditions
 #		No direct commercial advantage is obtained
 #		No liability is attributed to the author for any damages incurred.
 # I hope:	When changes happen,let me know. thanks
 #==================================================================
-#检查输入
+
+#check argc
 if {$argc != 0} {
 	puts ""
 	puts "Wrong Number of Arguments! No arguments in this topology"
 	puts ""
 	exit (1)
 }
+
 global ns
 
-#定义结束过程
 proc finish {} {
     global ns f
     $ns flush-trace
     close $f
+    close $namfile
     puts " Simulation ended."
     exit 0
 }
@@ -42,18 +44,15 @@ $ns set hsdsch_rlc_nif_ 0
 
 #confi (needed for routing over a basestation)
 $ns node-config -addressType hierarchical
-AddrParams set domain_num_  31                      			;# 域数目
-AddrParams set cluster_num_ {1  1 1 1 1 1 1 1 1 1 1  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1}            	;# 簇数目 
-AddrParams set nodes_num_   {22 1 1 1 1 1 1 1 1 1 21 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1}	      			;# 每个簇的节点数目             
+AddrParams set domain_num_  31                      			
+AddrParams set cluster_num_ {1  1 1 1 1 1 1 1 1 1 1  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1}            	
+AddrParams set nodes_num_   {22 1 1 1 1 1 1 1 1 1 21 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1}	      	      
 
 #configure RNC 
 $ns node-config -UmtsNodeType rnc 
 set RNC [$ns create-Umtsnode 0.0.0]
-$RNC set X_ 200 
-$RNC set Y_ 100
-$RNC set Z_ 0
+SetNodePosition $RNC $opt(RNC_X) $opt(RNC_Y) 0
 $ns at 0.0 "$RNC label \"RNC\""
-puts "RNC $RNC"
 
 #configure base station
 $ns node-config -UmtsNodeType bs \
@@ -64,11 +63,10 @@ $ns node-config -UmtsNodeType bs \
                 -hs_downlinkTTI 2ms \
                 -hs_downlinkBW 384kbs 
 
-set BS [$ns create-Umtsnode 0.0.1] 
-$BS set X_ 100 
-$BS set Y_ 100 
-$BS set Z_ 0
-puts "BS $BS"
+set BS [$ns create-Umtsnode 0.0.1]
+SetNodePosition $BS $opt(BS_X) $opt(BS_Y) 0
+$ns initial_node_pos $BS $opt(bs_size)
+$ns at 0.0 "$BS label \"BS\"" 
 
 #link BS and RNC 
 $ns setup-Iub $BS $RNC 622Mbit 622Mbit 15ms 15ms DummyDropTail 2000
@@ -80,29 +78,25 @@ $ns node-config -UmtsNodeType ue \
 
 for {set i 0} {$i < $opt(num_mobilnode)} {incr i 1} {
   set td_scdma_interface($i) [$ns create-Umtsnode 0.0.[expr 2+$i]]
-  SetRandomPositionForNode $td_scdma_interface($i) 20 150
+  RandomPositionForNode $td_scdma_interface($i) [$BS set X_] [$BS set Y_] 100
+  $ns initial_node_pos $td_scdma_interface($i) $opt(node_size)
   $td_scdma_interface($i) color grey
 }
 
 #create SGSN and GGSN
 set SGSN [$ns node 1.0.0]
-$SGSN set X_ 300 
-$SGSN set Y_ 100 
-$SGSN set Z_ 0
-SetNodePosition $SGSN 300 100 0
+SetNodePosition $SGSN $opt(SGSN_X) $opt(SGSN_Y) 0
 $ns at 0.0 "$SGSN label \"SGSN\""
 
 set GGSN [$ns node 2.0.0]
-$GGSN set X_ 400
-$GGSN set Y_ 100 
-$GGSN set Z_ 0
-SetNodePosition $GGSN 400 100 0
+SetNodePosition $GGSN $opt(GGSN_X) $opt(GGSN_Y) 0
 $ns at 0.0 "$GGSN label \"GGSN\""
 
 #create application server 
 for {set i 0} {$i < $opt(num_server)} {incr i 1} {
   set server($i) [$ns node [expr 3 + $i].0.0]
-  SetNodePosition $server($i) [expr 100+$i*10] [expr 70+$i*5] 0
+  #SetNodePosition $server($i) [expr 500+$i*5] [expr 500+$i*5] 0
+  RandomPositionForNode $server($i) [$GGSN set X_] [$GGSN set Y_] 150
   $ns at 0.0 "$server($i) label \"$ser_name($i)\""
 }
 # do the connections in the UMTS part
@@ -147,7 +141,7 @@ $ns node-config  -multiIf ON                              ;#to create MultiFaceN
 
 for {set i 0} {$i < $opt(num_mobilnode)} {incr i 1} {
   set ue($i) [$ns node [expr 11 + $i].0.0] 
-  SetNodePosition $ue($i) [expr 100+$i*10] [expr 100+$i*5] 0
+  #SetNodePosition $ue($i) [expr 100+$i*10] [expr 100+$i*5] 0
 }
 
 $ns node-config  -multiIf OFF                           		;#reset attribute
@@ -188,7 +182,8 @@ set AP0 [$ns node 10.0.0]
 [$AP0 set mac_(0)] enable-beacon
 [$AP0 set mac_(0)] set-channel 1
 
-SetNodePosition $AP0 200 150 0
+SetNodePosition $AP0 $opt(AP_X) $opt(AP_Y) 0
+$ns initial_node_pos $AP0 $opt(ap_size)
 $ns at 0.0 "$AP0 label \"AP\""
 
 # creation of the wireless interface 802.11
@@ -202,12 +197,16 @@ for {set i 0} {$i < $opt(num_mobilnode)} {incr i 1} {
   puts "wifi_interface($i)_id $wifi_interface($i)_id connet to AP0"                                 ;# disable random motion
   $wifi_interface($i) base-station [AddrParams addr2id [$AP0 node-addr]]       ;#attach mn to basestation
 
-  SetRandomPositionForNode $wifi_interface($i)  0 250 
-  SyncTwoInterfaces $wifi_interface($i)  $td_scdma_interface($i)
-
   [$wifi_interface($i) set mac_(0)] set-channel 1
 
-  $ns at 0.0 "$wifi_interface($i) setdest 550.0 300.0 40.0"
+  #SetRandomPositionForNode $wifi_interface($i)  120 250 
+  RandomPositionForNode $wifi_interface($i) $opt(BS_X) $opt(BS_Y)  100
+  SyncTwoInterfaces $wifi_interface($i)  $td_scdma_interface($i)
+
+  $ns initial_node_pos $wifi_interface($i) $opt(node_size)
+
+  RandomWorkModel $ns $wifi_interface($i) 1
+  #$ns at 0.0 "$wifi_interface($i) setdest 550.0 300.0 40.0"
 }	
 # add link to backbone
 $ns duplex-link $AP0 $RNC 10MBit 15ms DropTail 1000
@@ -219,7 +218,7 @@ for {set i 0} {$i < $opt(num_mobilnode)} {incr i 1} {
   #mention here, althrough we had create $opt(num_mobilenode) td_scdma_interface, 
   #but we have to add the $td_scdma_interface(0) to ue, because if this the experiment 
   #will work correct
-  $ue($i) add-interface-node $td_scdma_interface(0)
+  $ue($i) add-interface-node $td_scdma_interface($i)
 }
 
 # create udp agent for ue 
@@ -232,8 +231,6 @@ for {set i 0} {$i < $opt(num_mobilnode)} {incr i 1} {
   #but we have to add the $td_scdma_interface(0) to ue, because if this the experiment 
   #will work correct
   $ue($i) attach-agent $udp_td_scdma($i) $td_scdma_interface(0)
-  
-  
 }
 
 for {set i 0} {$i < $opt(num_server)} {incr i 1} {
@@ -249,7 +246,7 @@ puts $app_type
 
 for {set i 0} {$i < $opt(num_mobilnode)} {incr i 1} {
   if {[lindex $network_type $i]  == $UMTS_IN_SERVICE} { 
-    $ue($i) attach-agent $udp_td_scdma($i) $td_scdma_interface(0)
+    #$ue($i) attach-agent $udp_td_scdma($i) $td_scdma_interface($i)
     set app_type_tmp [lindex $app_type $i]
     puts "ue($i) is using TD-SCDMA and ue($i)'s application is $app_type_tmp"
     $ue($i) connect-agent $udp_td_scdma($i) $null($app_type_tmp) $td_scdma_interface(0)
@@ -263,7 +260,7 @@ for {set i 0} {$i < $opt(num_mobilnode)} {incr i 1} {
     $ns at 0.05 "$cbr($i) start"
   }
   if {[lindex $network_type $i]  == $WIFI_IN_SERVICE} {
-    $ue($i) attach-agent $udp_wifi($i) $wifi_interface($i)
+    #$ue($i) attach-agent $udp_wifi($i) $wifi_interface($i)
     set app_type_tmp [lindex $app_type $i]
     puts "ue($i) is using WIFI and ue($i)'s application is $app_type_tmp"
     $ue($i) connect-agent $udp_wifi($i) $null($app_type_tmp) $wifi_interface($i)
@@ -302,7 +299,7 @@ $ns node-config -llType UMTS/RLC/AM \
 puts "Creating HS-DSCH for data transfering......"
 
 $ns create-hsdsch $td_scdma_interface(0) $udp_td_scdma(0)
-for {set i 1} {$i < 2} {incr i 1} {
+for {set i 1} {$i < 20} {incr i 1} {
   $ns attach-hsdsch $td_scdma_interface($i) $udp_td_scdma($i)
 }
 
@@ -318,7 +315,7 @@ $BS setErrorTrace 0 "idealtrace"
 puts "loading Channel Quality Indication......"
 $BS loadSnrBlerMatrix "SNRBLERMatrix"
 
-$ns at 5 "finish"
+$ns at 25 "finish"
 
 puts " Simulation is running ... please wait ..."
 $ns run

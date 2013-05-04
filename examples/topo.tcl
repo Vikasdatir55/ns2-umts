@@ -1,31 +1,37 @@
 # Define prameters
-set opt(BS_X)		500
-set opt(BS_Y) 		500	
-set opt(AP_X) 		650
-set opt(AP_Y)		500
-set opt(GGSN_X) 	500
-set opt(GGSN_Y)		900
-set opt(RNC_X)		650
-set opt(RNC_Y) 		700
-set opt(SGSN_X)		700
-set opt(SGSN_Y) 	750
 
-set opt(Yahoo_X)	425
-set opt(Yahoo_Y)	100
-set opt(Facebook_X)	435
-set opt(Facebook_Y) 100
-set opt(QQ_X) 		445
-set opt(QQ_Y) 		100
-set opt(JingFm_X)	455
-set opt(JingFm_Y)   100
-set opt(Steam_X)	415
-set opt(Steam_Y) 	100
-set opt(Youtube_X)	405
-set opt(Youtube_Y)	100
-set opt(Google_X) 	395
-set opt(Google_Y) 	100
+set topo_x			500
+set topo_y			500
 
-set opt(node_size) 	15
+set opt(BS_X)		[expr 210 + $topo_x]
+set opt(BS_Y) 		[expr 119 + $topo_y]
+set opt(AP_X) 		[expr 210 + $topo_x]
+set opt(AP_Y)		[expr 150 + $topo_y]
+set opt(GGSN_X) 	[expr 400 + $topo_x]
+set opt(GGSN_Y)		[expr 150 + $topo_y]
+set opt(RNC_X)		[expr 321 + $topo_x]
+set opt(RNC_Y) 		[expr 150 + $topo_y]
+set opt(SGSN_X)		[expr 362 + $topo_x]
+set opt(SGSN_Y) 	[expr 150 + $topo_y]
+
+set opt(Yahoo_X)	571
+set opt(Yahoo_Y)	169
+set opt(Facebook_X)	557
+set opt(Facebook_Y) 97
+set opt(QQ_X) 		540
+set opt(QQ_Y) 		68
+set opt(JingFm_X)	486
+set opt(JingFm_Y)   238
+set opt(Steam_X)	568
+set opt(Steam_Y) 	131
+set opt(Youtube_X)	489
+set opt(Youtube_Y)	43
+set opt(Google_X) 	543
+set opt(Google_Y) 	211
+
+set opt(node_size) 	1
+set opt(bs_size)	200
+set opt(ap_size)	50
 
 # set number of mobile nodes, 
 #that means we have create same number of the td_scdma 

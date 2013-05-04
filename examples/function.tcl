@@ -7,8 +7,10 @@ set NO_SERVICE 0
 set WIFI_IN_SERVICE 1
 set UMTS_IN_SERVICE 2
 
-
-
+# function: return Pi 3.1415926...
+proc Pi {} {
+	return 3.1415926535897931
+}
 
 # function: finish process 
 proc finish {} {
@@ -75,6 +77,43 @@ proc SetRandomPositionForNode {node min max} {
 	$node set Z_ 0.0
 }
 
+# funcition: generate the position arround the AP or bs
+# args
+#	node: the node want to set position
+# 	bs_x: the x dimension of bs or ap
+#	bs_y: the y dimension of bs or ap 
+# 	radiu: the radiu of bs or ap coverage 
+proc RandomPositionForNode {node bs_x bs_y radiu} {
+	set rand_angle [expr rand()*2*[Pi]]
+	set rand_radiu [expr rand()*$radiu]
+	set x_ [expr $bs_x + $rand_radiu * cos($rand_angle)]
+	set y_ [expr $bs_y + $rand_radiu * sin($rand_angle)]
+
+	$node set X_ $x_
+	$node set Y_ $y_
+	$node set Z_ 0
+
+}
+
+# funcition: let node move according random work model 
+# args
+# 	node: the node to walk
+proc RandomWorkModel {ns node time_slot} {
+	set rand_angle [expr rand()*2*[Pi]]
+	set radiu 20
+	puts [$node set X_]
+	puts [$node set Y_]
+	set x_ [expr [$node set X_] + $radiu * cos($rand_angle)]
+	set y_ [expr [$node set Y_] + $radiu * sin($rand_angle)]
+	puts $x_
+	puts $y_
+	set now [$ns now]
+  
+  	$ns at [expr $now+$time_slot] "$node setdest $x_ $y_ 25"
+}
+
+
+
 # funcition: make umts ue move by setting the X_ and Y_ value
 # args 
 # 	umts_ue: umts node
@@ -95,7 +134,7 @@ proc moveUmtsNode {umts_ue} {
 # 	time_slot: time slot
 # 	from_time: time to start to move
 # 	time_length: the length of whole time
-proc umtsNodeMove {umts_ue from_time time_slot time_lenght} {
+proc UmtsNodeMove {umts_ue from_time time_slot time_lenght} {
 	global ns
 	for {set i 0} {$i < [expr $time_lenght/$time_slot]} {incr i 1} {
 		$ns at [expr $from_time + $i * $time_slot] "moveUmtsNode $umts_ue"	
@@ -117,21 +156,6 @@ proc GetNodeIpAddress {ue} {
 proc SyncTwoInterfaces {wlan_ue umts_ue} {
 	$umts_ue set X_ [$wlan_ue set X_]
 	$umts_ue set Y_ [$wlan_ue set Y_]
-}
-
-# function: initial network selection, when network topo done, mobile node will chose an network to stay according to RSSI
-# args
-# 	num: number of multiple nodes
-# 	ue: the mutilple interfaces mobile node
-# 	wlan_ue: the wifi network card
-# 	umts_ue: the umts(3G) network card
-# 	ap: the wifi access point
-# 	bs: the 3G basetation 
-# notice: we select network using the WIFI comes first policy
-proc initNetworkSelection {num ue wlan_ue umts_ue ap bs} {
-	for {set i 0} {$i < $num} {
-		scanNetworks $ue($i) $in_service_network($i) $wlan_ue($i) $umts_ue($i) $ap $bs
-	}
 }
 
 # function: random generate the application type
@@ -196,57 +220,6 @@ proc ScanNetworks {num ue in_service_network wlan_ue umts_ue ap bs} {
 	}
 	puts $in_service_network_list
 	return $in_service_network_list 
-}
-
-# function: connect send node and recv node
-# args
-# 	src_ue: send node
-# 	dst_ue: recv node
-# 	app: application between this two nodes
-# 	src_network: the network send node is in
-# 	dst_network: the network recv node is in
-# 	src_wlan_send_agent: agent on wifi interface for sending data
-# 	src_umts_send_agent: agent on umts interface for sending data
-# 	dst_wlan_recv_agent: agent on wifi interface for recieving data	
-# 	dst_umts_recv_agent: agent on umts interface for recieving data
-proc connectSendRecv {src_ue dst_ue app src_network dst_network \
-					  src_wlan_ue src_umts_ue \
-					  dst_wlan_ue dst_wlan_ue \
-					  src_wlan_send_agent src_umts_send_agent \
-					  dst_wlan_recv_agent dst_umts_recv_agent} {
-	if {$src_network == 1 && $dst_network == 1} {
-		$src_ue attach-agent $src_wlan_send_agent $src_wlan_ue
-		$src_ue connect-agent $src_wlan_send_agent $dst_wlan_recv_agent $src_wlan_ue
-		$app attach-agent $src_wlan_send_agent
-		puts [getNodeIpAddress $dst_wlan_recv_agent]
-		puts "OK"
-	}
-	if {$src_network == 2 && $dst_network == 1} {
-		$src_ue attach-agent $src_umts_send_agent $src_umts_ue
-		$src_ue connect-agent $src_umts_send_agent $dst_wlan_recv_agent $src_umts_ue
-		$app attach-agent $src_umts_send_agent
-		puts [getNodeIpAddress $dst_wlan_recv_agent]
-		puts "OK"
-	} 
-	if {$src_network == 1 && $dst_network == 2} {
-		$src_ue attach-agent $src_wlan_send_agent $src_wlan_ue
-		$src_ue connect-agent $src_wlan_send_agent $dst_umts_recv_agent $src_wlan_ue
-		$app attach-agent $src_wlan_send_agent
-		puts [getNodeIpAddress $dst_umts_recv_agent]
-		puts "OK"
-	}
-	if {$src_network == 2 && $dst_network == 2} {
-		$src_ue attach-agent $src_umts_send_agent $src_umts_ue
-		$src_ue connect-agent $src_umts_send_agent $dst_umts_recv_agent $src_umts_ue
-		$app attach-agent $src_umts_send_agent 
-		puts [getNodeIpAddress $dst_umts_recv_agent]
-		puts "OK"
-	}
-
-	if {$src_network == 0 || $dst_network == 0} {
-		puts "no service for src_ue and dst_ue"	
-		return "FAILED"
-	}
 }
 
 # function: attach application to send agent
