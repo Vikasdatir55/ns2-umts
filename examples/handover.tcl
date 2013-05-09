@@ -17,13 +17,17 @@ if {$argc != 0} {
 }
 
 global ns
+global battery_life
+global network_type
+global app_type
 
 proc finish {} {
-    global ns f
+    global ns f fp namfile
     $ns flush-trace
     close $f
+    close $fp
     close $namfile
-    puts " Simulation ended."
+    puts "Simulation ended."
     exit 0
 }
 
@@ -31,12 +35,14 @@ source ./function.tcl
 source ./topo.tcl
 
 set ns [new Simulator]
-$ns use-newtrace
+#$ns use-newtrace
 
 set f [open out.tr w]
 $ns trace-all $f
 set namfile [open out.nam w]
 $ns namtrace-all-wireless $namfile 800 800 
+
+set fp [open mean_throughput.dat w]
 
 $ns set hsdschEnabled_ 1addr
 $ns set hsdsch_rlc_set_ 0
@@ -46,7 +52,7 @@ $ns set hsdsch_rlc_nif_ 0
 $ns node-config -addressType hierarchical
 AddrParams set domain_num_  31                      			
 AddrParams set cluster_num_ {1  1 1 1 1 1 1 1 1 1 1  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1}            	
-AddrParams set nodes_num_   {22 1 1 1 1 1 1 1 1 1 21 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1}	      	      
+AddrParams set nodes_num_   {3 1 1 1 1 1 1 1 1 1 21 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1}	      	      
 
 #configure RNC 
 $ns node-config -UmtsNodeType rnc 
@@ -76,7 +82,7 @@ $ns node-config -UmtsNodeType ue \
 		            -baseStation $BS \
 		            -radioNetworkController $RNC
 
-for {set i 0} {$i < $opt(num_mobilnode)} {incr i 1} {
+for {set i 0} {$i < $opt(num_td_interface)} {incr i 1} {
   set td_scdma_interface($i) [$ns create-Umtsnode 0.0.[expr 2+$i]]
   RandomPositionForNode $td_scdma_interface($i) [$BS set X_] [$BS set Y_] 100
   $ns initial_node_pos $td_scdma_interface($i) $opt(node_size)
@@ -96,14 +102,14 @@ $ns at 0.0 "$GGSN label \"GGSN\""
 for {set i 0} {$i < $opt(num_server)} {incr i 1} {
   set server($i) [$ns node [expr 3 + $i].0.0]
   #SetNodePosition $server($i) [expr 500+$i*5] [expr 500+$i*5] 0
-  RandomPositionForNode $server($i) [$GGSN set X_] [$GGSN set Y_] 150
+  RandomPositionForNode $server($i) [$GGSN set X_] [$GGSN set Y_] 400
   $ns at 0.0 "$server($i) label \"$ser_name($i)\""
 }
 # do the connections in the UMTS part
-$ns duplex-link $RNC $SGSN 622Mbit 0.4ms DropTail 1000
-$ns duplex-link $SGSN $GGSN 622MBit 10ms DropTail 1000
+$ns duplex-link $RNC $SGSN 1024Mbit 0.4ms DropTail 1000
+$ns duplex-link $SGSN $GGSN 1024Mbit 10ms DropTail 1000
 for {set i 0} {$i < $opt(num_server)} {incr i 1} {
-  $ns duplex-link $GGSN $server($i) 10MBit 15ms DropTail 1000
+  $ns duplex-link $GGSN $server($i) 1024Mbit 15ms DropTail 1000
 }
 
 $RNC add-gateway $SGSN                                 
@@ -134,7 +140,7 @@ set topo [new Topography]
 $topo load_flatgrid $opt(x) $opt(y)
 
 # create God
-set god [create-god 54]				                		       ;# give the number of nodes 
+set god [create-god 35]				                		       ;# give the number of nodes 
   
 #create MultiFaceNode
 $ns node-config  -multiIf ON                              ;#to create MultiFaceNode
@@ -147,9 +153,9 @@ for {set i 0} {$i < $opt(num_mobilnode)} {incr i 1} {
 $ns node-config  -multiIf OFF                           		;#reset attribute
 
 #set hop num 
-$god set-dist 1 2 1 
-$god set-dist 0 2 2 
-$god set-dist 0 1 1 
+#$god set-dist 1 2 1 
+#$god set-dist 0 2 2 
+#$god set-dist 0 1 1 
 set god [God instance]
 
 #Create Access Point 
@@ -200,8 +206,8 @@ for {set i 0} {$i < $opt(num_mobilnode)} {incr i 1} {
   [$wifi_interface($i) set mac_(0)] set-channel 1
 
   #SetRandomPositionForNode $wifi_interface($i)  120 250 
-  RandomPositionForNode $wifi_interface($i) $opt(BS_X) $opt(BS_Y)  100
-  SyncTwoInterfaces $wifi_interface($i)  $td_scdma_interface($i)
+  RandomPositionForNode $wifi_interface($i) $opt(BS_X) $opt(BS_Y) 200
+  SyncTwoInterfaces $wifi_interface($i)  $td_scdma_interface(0)
 
   $ns initial_node_pos $wifi_interface($i) $opt(node_size)
 
@@ -209,7 +215,7 @@ for {set i 0} {$i < $opt(num_mobilnode)} {incr i 1} {
   #$ns at 0.0 "$wifi_interface($i) setdest 550.0 300.0 40.0"
 }	
 # add link to backbone
-$ns duplex-link $AP0 $RNC 10MBit 15ms DropTail 1000
+$ns duplex-link $AP0 $RNC 1024Mbit 15ms DropTail 1000
 
 # add interfaces to MultiFaceNode
 for {set i 0} {$i < $opt(num_mobilnode)} {incr i 1} {
@@ -218,8 +224,14 @@ for {set i 0} {$i < $opt(num_mobilnode)} {incr i 1} {
   #mention here, althrough we had create $opt(num_mobilenode) td_scdma_interface, 
   #but we have to add the $td_scdma_interface(0) to ue, because if this the experiment 
   #will work correct
-  $ue($i) add-interface-node $td_scdma_interface($i)
+  $ue($i) add-interface-node $td_scdma_interface(0)
 }
+
+# create realtime monitor aget 
+set pfm_monitor [new Agent/RealtimeTrace]
+
+$ns at 2.0 "GetMeanThroughput_IP_Tcl $pfm_monitor \"27.0.0\" \"cbr\"" 
+$ns at 2.0 "GetMeanThroughput_Tcl $pfm_monitor $ue(4) \"cbr\""
 
 # create udp agent for ue 
 for {set i 0} {$i < $opt(num_mobilnode)} {incr i 1} {
@@ -238,7 +250,17 @@ for {set i 0} {$i < $opt(num_server)} {incr i 1} {
   $ns attach-agent $server($i) $null($i)
 }
 
-set network_type [ScanNetworks $opt(num_mobilnode) ue in_service_network wifi_interface td_scdma_interface $AP0 $BS]
+# Set the function for UE, let ue has ability to
+#   1. adjust the battery consuption rate according to network it is in 
+#   2. choose any kind of application to start and stop at anytime
+#   3. store the bandth, delay, jitter, packets loss rate every second
+#   4. check and store the state degree every second
+
+# the initial value of battery power if 1900mAh
+set battery_life [CreateBattery $opt(num_mobilnode) 1900]
+puts $battery_life
+
+set network_type [ScanNetworks $opt(num_mobilnode) ue in_service_network wifi_interface $td_scdma_interface(0) $AP0 $BS]
 puts $network_type
 
 set app_type [RandomApplicationGeneration $opt(num_mobilnode) $opt(num_app_type)]
@@ -258,7 +280,14 @@ for {set i 0} {$i < $opt(num_mobilnode)} {incr i 1} {
     $cbr($i) set rate_ 0.1mb
     $cbr($i) set random_ false
     $ns at 0.05 "$cbr($i) start"
+
+    #we should get some times to let network build up. here we set 2.0
+    $ns at 2.0 "HandoverToWLAN_mt $ns $ue($i) $pfm_monitor $wifi_interface($i) $udp_td_scdma($i)  $null($app_type_tmp) 0.07 0.5 \"cbr\" "
+    $ns at 1.0 "CollectMeanThrough $ns $ue($i) $fp $pfm_monitor 0.2 \"cbr\""
+
+    #$ns at 0.0 "BatteryConsuption $ns [lindex $battery_life $i] [lindex $network_type $i]"
   }
+
   if {[lindex $network_type $i]  == $WIFI_IN_SERVICE} {
     #$ue($i) attach-agent $udp_wifi($i) $wifi_interface($i)
     set app_type_tmp [lindex $app_type $i]
@@ -275,15 +304,6 @@ for {set i 0} {$i < $opt(num_mobilnode)} {incr i 1} {
   }
 }
 
-# connect both TCP agent
-puts "3 Connecting send agent and recieve agent"
-#$ue(0) connect-agent $tcp_(0) $tcp_(1) $td_scdma_interface(0) ;# new command: specify the interface to use
-#$tcp_(0) listen
-
-
-puts "finished"
-puts ""
-
 # do some kind of registration in UMTS
 puts "****************************************************************"
 puts "do some kind of registration in UMTS......"
@@ -292,14 +312,14 @@ $ns node-config -llType UMTS/RLC/AM \
 		            -uplinkBW 384kbs \
 		            -downlinkTTI 20ms \
 		            -uplinkTTI 20ms \
-   		          -hs_downlinkTTI 2ms \
+   		          	-hs_downlinkTTI 2ms \
     		        -hs_downlinkBW 384kbs
 
 # for the first HS-DSCH, we must create. If any other, then use attach-hsdsch
 puts "Creating HS-DSCH for data transfering......"
 
 $ns create-hsdsch $td_scdma_interface(0) $udp_td_scdma(0)
-for {set i 1} {$i < 20} {incr i 1} {
+for {set i 1} {$i < $opt(num_td_interface)} {incr i 1} {
   $ns attach-hsdsch $td_scdma_interface($i) $udp_td_scdma($i)
 }
 
@@ -315,7 +335,42 @@ $BS setErrorTrace 0 "idealtrace"
 puts "loading Channel Quality Indication......"
 $BS loadSnrBlerMatrix "SNRBLERMatrix"
 
-$ns at 25 "finish"
+
+# function: set the consuption of battery pow when ue in wifi network
+# args
+#   ue_battery: the battery of ue
+proc BatteryConsuption {} {
+  global ns battery_life network_type
+  for {set i 0} {$i < 20} {incr i 1} {
+    if {[lindex $battery_life $i] <= 0} {
+      puts "ue had ran out of battery pow"
+    } else {
+      if {[lindex $network_type $i] == 1} {
+        set battery_life [lreplace $battery_life $i $i [PowLoss_Wifi [lindex $battery_life $i]]]
+      } else {
+        set battery_life [lreplace $battery_life $i $i [PowLoss_TDSCDMA [lindex $battery_life $i]]]
+      }
+   } 
+  }
+    puts $battery_life
+    set now [$ns now]
+    $ns at [expr $now + 1] "BatteryConsuption"
+}
+
+
+proc printBattery {} {
+  global battery_life
+  puts "Print Battery"
+  for {set i 0} {$i < 20} {incr i 1} {
+    puts -nonewline "[lindex $battery_life $i]"
+  }
+  puts "End Print"
+} 
+
+$ns at 3 "BatteryConsuption"
+$ns at 7 "printBattery"
+
+$ns at [expr 60] "finish"
 
 puts " Simulation is running ... please wait ..."
 $ns run

@@ -7,18 +7,12 @@ set NO_SERVICE 0
 set WIFI_IN_SERVICE 1
 set UMTS_IN_SERVICE 2
 
+set Power_Loss_Wifi_Base 20   
+set Power_Loss_TDSCMA_Base 10
+
 # function: return Pi 3.1415926...
 proc Pi {} {
 	return 3.1415926535897931
-}
-
-# function: finish process 
-proc finish {} {
-    global ns f
-    $ns flush-trace
-    close $f
-    puts " Simulation ended."
-    exit 0
 }
 
 # function: create UDP Agent for UE
@@ -101,18 +95,12 @@ proc RandomPositionForNode {node bs_x bs_y radiu} {
 proc RandomWorkModel {ns node time_slot} {
 	set rand_angle [expr rand()*2*[Pi]]
 	set radiu 20
-	puts [$node set X_]
-	puts [$node set Y_]
 	set x_ [expr [$node set X_] + $radiu * cos($rand_angle)]
 	set y_ [expr [$node set Y_] + $radiu * sin($rand_angle)]
-	puts $x_
-	puts $y_
 	set now [$ns now]
-  
+ 
   	$ns at [expr $now+$time_slot] "$node setdest $x_ $y_ 25"
 }
-
-
 
 # funcition: make umts ue move by setting the X_ and Y_ value
 # args 
@@ -186,15 +174,16 @@ proc ScanNetworks {num ue in_service_network wlan_ue umts_ue ap bs} {
 	upvar $ue UE
 	upvar $in_service_network IN_SERVICE_NETWORK
 	upvar $wlan_ue WLAN_UE
-	upvar $umts_ue UMTS_UE
+	#upvar $umts_ue UMTS_UE
 
 	set in_service_network_list {}
 	
 	set ap_cover_radiu 70
 	set bs_cover_radiu 1000
+	
+	set bs_distance [GetDistance $umts_ue $bs]
 	for {set i 0} {$i < $num} {incr i 1} {
-		set ap_distance [getDistance $WLAN_UE($i) $ap]
-		set bs_distance [getDistance $UMTS_UE($i) $bs]
+		set ap_distance [GetDistance $WLAN_UE($i) $ap]
 	
 		puts "ap_distance $ap_distance"
 		puts "bs_distance $bs_distance"
@@ -305,7 +294,7 @@ proc getNodePosition_y {ue} {
 # args
 # 	src_node: source node
 # 	dst_node: destination ndoe
-proc getDistance {src_node dst_node} {
+proc GetDistance {src_node dst_node} {
 	set src_x [$src_node set X_]
 	set src_y [$src_node set Y_]
 	set dst_x [$dst_node set X_]
@@ -381,7 +370,8 @@ proc networkSelection {ue interface send_agent recv_agent} {
 # 	send_agent: the agent for sending
 # 	recv_agent: the agent for recieving
 proc UmtsToWifi {ns ue wifi_interface send_agent recv_agent} {
-	$ns trace-annotate "[getNodeIpAddress $ue] handover from UMTS to WIFI" 
+	puts "[GetNodeIpAddress $ue] handover from UMTS to WIFI"
+	$ns trace-annotate "[GetNodeIpAddress $ue] handover from UMTS to WIFI" 
 	$ue attach-agent $send_agent $wifi_interface
 	$ue connect-agent $send_agent $recv_agent $wifi_interface
 }
@@ -454,13 +444,122 @@ proc getCurrentDelay {src_ue dst_ue packet_type realtime_monitor} {
   	puts "$src_nodeaddr $dst_nodeaddr -cd $current_delay's"
 }
 
-# function: get mean delay of communcation between two nodes
+# function: get mean throughput of communcation between two nodes
 # args
 # 	 ue: node to calculate
 # 	 packet_type: trace the packet type
-proc getMeanThroughput {ue packet_type realtime_monitor} {
-	set nodeaddr [getNodeIpAddress $ue]
+proc GetMeanThroughput_Tcl {realtime_monitor ue packet_type} {
+	set nodeaddr [GetNodeIpAddress $ue]
 	#set trace_tmp [new Agent/RealtimeTrace]
  	set mean_throughput [$realtime_monitor GetMeanThroughput $nodeaddr $packet_type "1"]
   	puts "$nodeaddr -mt $mean_throughput Mb"
+}
+
+# function: get mean throughput of communcation between two nodes
+# args
+# 	 ue: node to calculate
+# 	 packet_type: trace the packet type
+proc GetMeanThroughput_IP_Tcl {realtime_monitor ip packet_type} {
+ 	set mean_throughput [$realtime_monitor GetMeanThroughput $ip $packet_type "1"]
+  	puts "$ip -mt $mean_throughput Mb"
+  	return $mean_throughput
+}
+
+# function: handover to wifi network according to throughput 
+# args
+#	ns: simulation instance
+#	ue: multiface node
+#	realtime_monitor: the real-time performance monitor agent
+#	wifi_interface: the wifi interface for ue to using
+# 	send_agent: agent for sending
+# 	recv_agent: agent for recieving
+#	threshold: the threshold of handover
+#	packet_type: packet type to handle
+proc HandoverToWLAN_mt {ns ue realtime_monitor wifi_interface send_agent recv_agent threshold time_slot packet_type } {
+	set ip [GetNodeIpAddress $ue]
+	set mean_throughput [$realtime_monitor GetMeanThroughput $ip $packet_type "1"]
+	if {$mean_throughput <= $threshold} {
+		UmtsToWifi $ns $ue $wifi_interface $send_agent $recv_agent
+	} else {
+		set now [$ns now]
+		$ns at [expr $now + $time_slot] "HandoverToWLAN_mt $ns $ue $realtime_monitor $wifi_interface $send_agent $recv_agent $threshold $packet_type"
+	}	
+}
+
+# function: collect the mean throughput for ue
+# args
+proc CollectMeanThrough {ns ue fp realtime_monitor time_slot packet_type} {
+	set ip [GetNodeIpAddress $ue]
+	set now [$ns now]
+	set mean_throughput [$realtime_monitor GetMeanThroughput $ip $packet_type "1"]
+	puts $fp "$ip $mean_throughput"
+	$ns at [expr $now + $time_slot] "CollectMeanThrough $ns $ue $fp $realtime_monitor $time_slot $packet_type"
+}
+
+proc HandoverToWLAN_mt {ns ue realtime_monitor wifi_interface send_agent recv_agent threshold time_slot packet_type } {
+	set ip [GetNodeIpAddress $ue]
+	set mean_throughput [$realtime_monitor GetMeanThroughput $ip $packet_type "1"]
+	if {$mean_throughput <= $threshold} {
+		UmtsToWifi $ns $ue $wifi_interface $send_agent $recv_agent
+	} else {
+		set now [$ns now]
+		$ns at [expr $now + $time_slot] "HandoverToWLAN_mt $ns $ue $realtime_monitor $wifi_interface $send_agent $recv_agent $threshold $packet_type"
+	}	
+}
+
+# function: create battery for ue
+# args
+#	num_ue: the num of ue
+#	init_value: initial value of battery pow
+proc CreateBattery {num_ue init_value} {
+	set battery {}
+	for {set i 0} {$i < $num_ue} {incr i 1} {
+		lappend	battery $init_value
+	}
+
+	return $battery
+}
+
+# function: wifi network ue battery loss proc name 
+# args
+#	ue_battery: the battery of ue
+proc PowLoss_Wifi {ue_battery} {
+	set ue_battery [expr $ue_battery -0.03199]   ;#mAh
+	return $ue_battery
+}
+
+# function: td_scdma network ue battery loss proc name 
+# args
+#	ue_battery: the battery of ue
+proc PowLoss_TDSCDMA {ue_battery} {
+	set ue_battery [expr $ue_battery - 0.02199]   ;#mAh
+	return $ue_battery
+}
+
+# function: set the consuption of battery pow when ue in wifi network
+# args
+# 	ue_battery: the battery of ue
+proc asBatteryConsuption {ns ue_battery in_service_network} {
+	if {$ue_battery <= 0} {
+		puts "ue had ran out of battery pow"
+	} else {
+		if {$in_service_network == 1} {
+			set ue_battery [PowLoss_Wifi $ue_battery]
+		} else {
+			set ue_battery [PowLoss_TDSCDMA $ue_battery]
+		}
+		set now [$ns now]
+		$ns at [expr $now + 1] "BatteryConsuption $ns $ue_battery $in_service_network"
+	}
+}
+
+
+proc ShowBatteryLife {ns ue_battery} {
+	for {set i 0} {$i < 20} {incr i 1} {
+		puts -nonewline "$ue_battery"
+	}
+	puts ""
+
+	set now [$ns now] 
+	$ns at [expr $now + 1] "ShowBatteryLife $ns $ue_battery"
 }
