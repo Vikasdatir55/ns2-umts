@@ -15,7 +15,27 @@ proc InitQ {num_col num_row} {
 #	ue_index: the number index of ue list 
 #	battery_list: batter list
 proc GetBatteryDegree {ue ue_index battery_list} {
-	return [lindex $battery_list $ue_index]
+	set battery_left [lindex $battery_list $ue_index]
+	#set initial_val 1900.0
+
+	puts "$battery_left is Left"
+	set percent_left [expr $battery_left/1900.0]
+	if {$percent_left >= 0.8} {
+		return 3
+	}
+	if {$percent_left >= 0.5 && $percent_left < 0.8} {
+		return 2
+	}
+	if {$percent_left >= 0.2 && $percent_left < 0.5} {
+		return 1
+	}
+	if {$percent_left >= 0.0 && $percent_left < 0.2} {
+		return 0
+	}
+	if {$percent_left < 0.0} {
+		puts "Battery ran out"
+		return 0
+	}
 }
 
 # function: get the application type of ue
@@ -35,11 +55,28 @@ proc GetAppType {ue ue_index app_type_list} {
 # 	battery_list: the list of batter 
 # 	app_type_list: the application type list 
 proc GetState {ue ue_index battery_list app_type_list} {
-	set app_type [GetAppType $ue $ue_index $app_type_list]
-	set battery_degree [GetBatteryDegree $ue $ue_index $battery_list]
-	return [expr $app_type*4 + $battery_degree]
+  	set battery_level [GetBatteryDegree $ue $ue_index $battery_list]
+  	puts "battery level is $battery_level"
+  	set app_type [GetAppType $ue $ue_index $app_type_list]  
+  	puts "app type is $app_type"
+
+	return [expr $app_type*4 + $battery_level] 
 }
 
+proc StateIsChanged {ue ue_index last_state battery_list app_type_list} {
+	set current_state [GetState $ue $ue_index $battery_list $app_type_list]
+	if {$last_state == $current_state} {
+		return 1
+	}
+	if {$last_state != $current_state} {
+		return 0
+	}
+
+}
+
+proc QosIsNotSatisfied {ns realtime_monitor ue ue_index } {
+	
+}
 # function: get the max of Q and return its index 
 # args
 #	ue: ue want to get
@@ -66,11 +103,13 @@ proc GetAction {ue current_state_index Q} {
 	set q_zero [lindex $Q [expr $current_state_index*2]]
 	set q_one [lindex $Q [expr $current_state_index*2 +1]]
 
-	if {$q_zero > $q_one} {
-		return 0
-	} else {
-		return 1
-	}
+	if {$q_zero >= $q_one} {
+		set flag [expr rand()]
+		if {$flag < 0.6} {
+			return 0
+		}	
+	} 
+	return 1
 }
 
 # function: get the index of q in the Q map to update 
@@ -91,7 +130,7 @@ proc GetQofAction {ue current_state_index Q} {
 	set q_zero [lindex $Q [expr $current_state_index*2]]
 	set q_one [lindex $Q [expr $current_state_index*2 +1]]
 
-	if {$q_zero > $q_one} {
+	if {$q_zero >= $q_one} {
 		#chose 0
 		return $q_zero
 	} else {
@@ -111,19 +150,19 @@ proc GetReward {ue r_previous r_current} {
 
 # function: Update Q map 
 # args 
-proc UpdateQ {ue r_previous r_current Q current_state_index} {
+proc UpdateQ {ue reward Q current_state_index} {
 	set alpha [expr 0.80]
 	set gamma [expr 0.40]
 
 	set q $Q
 
 	set q_now [lindex $Q $current_state_index]
-	set reward [GetReward $ue $r_previous $r_current]
 	set q_previous [GetQofAction $ue $current_state_index $Q]
 	set tmp [expr $alpha*($reward+$gamma*$q_previous-$q_now)]
 	set q_now [expr $q_now + $tmp]
 	set index [GetUpdateQIndex $ue $current_state_index $Q]
 	set q [lreplace $q $index $index $q_now]
+	puts "Q_map Updated-----"
 
 	return $q
 }
@@ -165,3 +204,5 @@ proc CalculateReward {d_cost d_bandth d_delay d_jitter d_loss_rate d_energy_cons
 
 	return $reward
 }
+
+

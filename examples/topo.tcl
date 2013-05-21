@@ -38,8 +38,8 @@ set opt(ap_size)	50
 #interface and wifi interface
 set opt(num_mobilnode) 20
 set opt(num_td_interface) 1
-set opt(num_server) 7
-set opt(num_app_type) 7
+set opt(num_server) 4
+set opt(num_app_type) 4
 
 set APP_NEWS 0
 set APP_SNS 1

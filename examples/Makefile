@@ -1,6 +1,6 @@
 compile:
 	ns handover.tcl
-	cat out.tr | grep "cbr" > cbr.txt
+	ns data.tcl && gnuplot bandth.plt && gnuplot delay.plt && gnuplot jitter.plt && gnuplot battery.plt
 	nam out.nam
 clean:
 	rm *.nam *.tr *.txt -rf

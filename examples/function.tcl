@@ -383,7 +383,7 @@ proc UmtsToWifi {ns ue wifi_interface send_agent recv_agent} {
 # 	send_agent: the agent for sending
 # 	recv_agent: the agent for recieving
 proc WifiToUmts {ns ue umts_interface send_agent recv_agent} {
-	$ns trace-annotate "[getNodeIpAddress $ue] handover from WIFI to UMTS"
+	$ns trace-annotate "[GetNodeIpAddress $ue] handover from WIFI to UMTS"
 	$ns attach-agent $umts_interface $send_agent
 	$ns connect $send_agent $recv_agent
 }
@@ -423,12 +423,15 @@ proc checkCurrentDelay {delay} {
 # 	 src_ue: source node
 # 	 dst_ue: source node
 # 	 packet_type: trace the packet type
-proc getMeanDelay {src_ue dst_ue packet_type realtime_monitor} {
+#	realtime_monitor: the realtime agent to get the realtime performance 
+proc GetMeanDelay {src_ue dst_ue packet_type realtime_monitor} {
 	set src_nodeaddr [getNodeIpAddress $src_ue]	
 	set dst_nodeaddr [getNodeIpAddress $dst_ue]
  	#set trace_tmp [new Agent/RealtimeTrace]
   	set mean_delay [$realtime_monitor GetMeanDelay $src_nodeaddr $dst_nodeaddr $packet_type]
   	puts "$src_nodeaddr $dst_nodeaddr -md $mean_delay's"
+
+  	return $mean_delay 
 }
 
 # function: get mean delay of communcation between two nodes
@@ -436,7 +439,7 @@ proc getMeanDelay {src_ue dst_ue packet_type realtime_monitor} {
 # 	 src_ue: source node
 # 	 dst_ue: source node
 # 	 packet_type: trace the packet type
-proc getCurrentDelay {src_ue dst_ue packet_type realtime_monitor} {
+proc GetCurrentDelay {src_ue dst_ue packet_type realtime_monitor} {
 	set src_nodeaddr [getNodeIpAddress $src_ue]
 	set dst_nodeaddr [getNodeIpAddress $dst_ue]
 	#set trace_tmp [new Agent/RealtimeTrace]
@@ -453,6 +456,8 @@ proc GetMeanThroughput_Tcl {realtime_monitor ue packet_type} {
 	#set trace_tmp [new Agent/RealtimeTrace]
  	set mean_throughput [$realtime_monitor GetMeanThroughput $nodeaddr $packet_type "1"]
   	puts "$nodeaddr -mt $mean_throughput Mb"
+
+  	return $mean_throughput
 }
 
 # function: get mean throughput of communcation between two nodes
@@ -462,7 +467,18 @@ proc GetMeanThroughput_Tcl {realtime_monitor ue packet_type} {
 proc GetMeanThroughput_IP_Tcl {realtime_monitor ip packet_type} {
  	set mean_throughput [$realtime_monitor GetMeanThroughput $ip $packet_type "1"]
   	puts "$ip -mt $mean_throughput Mb"
+
   	return $mean_throughput
+}
+# function: Get jitter of communcation
+# args
+# 	 src_ue: source node
+# 	 dst_ue: source node
+# 	 packet_type: trace the packet type
+#	realtime_monitor: the realtime agent to get the realtime performanc
+proc GetJitter_Tcl {src_ue dst_ue realtime_monitor packet_type last_delay} {
+	set current_delay [$realtime_monitor GetCurrentDelay $src_ue $dst_ue $packet_type $realtime_monitor]
+	return [expr $current_delay - $last_delay]
 }
 
 # function: handover to wifi network according to throughput 
@@ -486,15 +502,6 @@ proc HandoverToWLAN_mt {ns ue realtime_monitor wifi_interface send_agent recv_ag
 	}	
 }
 
-# function: collect the mean throughput for ue
-# args
-proc CollectMeanThrough {ns ue fp realtime_monitor time_slot packet_type} {
-	set ip [GetNodeIpAddress $ue]
-	set now [$ns now]
-	set mean_throughput [$realtime_monitor GetMeanThroughput $ip $packet_type "1"]
-	puts $fp "$ip $mean_throughput"
-	$ns at [expr $now + $time_slot] "CollectMeanThrough $ns $ue $fp $realtime_monitor $time_slot $packet_type"
-}
 
 proc HandoverToWLAN_mt {ns ue realtime_monitor wifi_interface send_agent recv_agent threshold time_slot packet_type } {
 	set ip [GetNodeIpAddress $ue]
@@ -524,7 +531,7 @@ proc CreateBattery {num_ue init_value} {
 # args
 #	ue_battery: the battery of ue
 proc PowLoss_Wifi {ue_battery} {
-	set ue_battery [expr $ue_battery -0.03199]   ;#mAh
+	set ue_battery [expr $ue_battery -0.03199*60]   ;#mAh
 	return $ue_battery
 }
 
@@ -532,25 +539,61 @@ proc PowLoss_Wifi {ue_battery} {
 # args
 #	ue_battery: the battery of ue
 proc PowLoss_TDSCDMA {ue_battery} {
-	set ue_battery [expr $ue_battery - 0.02199]   ;#mAh
+	set ue_battery [expr $ue_battery - 0.02199*60]   ;#mAh
 	return $ue_battery
+}
+
+# function: get the battery level of ue
+# args
+# 	ue: the ue want to calculate
+#	ue_index: the index of ue in the ue list 
+#	battery_life: the battery left list of ue list 
+proc GetBatteryLevel {ue ue_index battery_life} {
+	set battery_left [lindex $battery_life $ue_index]
+	set initial_val 1900.0
+	set percent_left [expr $battery_left/$initial_val]
+	if {$percent_left >= 0.8} {
+		return 3
+	}
+	if {$percent_left >= 0.5 && $percent_left < 0.8} {
+		return 2
+	}
+	if {$percent_left >= 0.2 && $percent_left < 0.5} {
+		return 1
+	}
+	if {$percent_left >= 0.0 && $percent_left < 0.2} {
+		return 0
+	}
+	if {$percent_left < 0} {
+		puts "Ran out"
+		return 0
+	}
 }
 
 # function: set the consuption of battery pow when ue in wifi network
 # args
 # 	ue_battery: the battery of ue
-proc asBatteryConsuption {ns ue_battery in_service_network} {
-	if {$ue_battery <= 0} {
+proc BatteryConsuption {ns ue ue_index battery_life network_type fp} {
+	#puts "$ns $ue $ue_index $battery_life $network_type $fp"
+	if {[lindex $battery_life $ue_index ] <= 0} {
 		puts "ue had ran out of battery pow"
+		set battery_life [lreplace $battery_life $ue_index $ue_index 0]
 	} else {
-		if {$in_service_network == 1} {
-			set ue_battery [PowLoss_Wifi $ue_battery]
+		#here, i donot consider the no network situation
+		if {[lindex $network_type $ue_index] == 1} {
+			set ue_battery [PowLoss_Wifi [lindex $battery_life $ue_index]]
+			set battery_life [lreplace $battery_life $ue_index $ue_index $ue_battery]
 		} else {
-			set ue_battery [PowLoss_TDSCDMA $ue_battery]
+			set ue_battery [PowLoss_TDSCDMA [lindex $battery_life $ue_index]]
+			set battery_life [lreplace $battery_life $ue_index $ue_index $ue_battery]
 		}
 		set now [$ns now]
-		$ns at [expr $now + 1] "BatteryConsuption $ns $ue_battery $in_service_network"
+		$ns at [expr $now + 1] "BatteryConsuption $ns $ue $ue_index $battery_life $network_type $fp"
 	}
+
+	puts "$ue_index [lindex $battery_life $ue_index]"
+
+	return $battery_life
 }
 
 
@@ -562,4 +605,42 @@ proc ShowBatteryLife {ns ue_battery} {
 
 	set now [$ns now] 
 	$ns at [expr $now + 1] "ShowBatteryLife $ns $ue_battery"
+}
+
+# function
+# args 
+proc TrafficControl {ns ue ue_index} {
+	global network_type 
+	global app_type 
+	global udp_td_scmda
+	global udp_wifi
+	global null 
+
+	set cbr($ue_index) [new Application/Traffic/CBR]  
+    $cbr($ue_index) set type_ CBR 111
+    $cbr($ue_index) set rate_ 0.1mb
+    $cbr($ue_index) set random_ false
+
+	set app [expr int(rand()*$num_app_type)]
+	set network [lindex $network_type $ue_index]
+
+	if {$network == $UMTS_IN_SERVICE} {
+		$ue connect-agent $udp_td_scdma($ue_index) $null($app) $td_scdma_interface(0)
+		$cbr($ue_index) attach-agent $udp_td_scdma($ue_index)
+	} elseif {$network == $WIFI_IN_SERVICE} {
+		$ue connect-agent $udp_wifi($ue_index) $null($app) $wifi_interface($ue_index)
+		$cbr($ue_index) attach-agent $udp_wifi($ue_index)
+	}
+
+	set service_start_time [expr int(rand()*6)]
+	set service_time [expr int(rand()*6)]
+
+	set now [$ns now]
+	$ns at [expr $now + $service_start_time] "$cbr($ue_index) start"
+	$ns at [expr $now + $service_start_time + $service_time] "$cbr($ue_index) stop"
+	$ns at [expr $now + $service_start_time + $service_time] "TrafficControl $ns $ue $ue_index"
+
+	set app_type [lreplace $ue_index $ue_index $app]
+
+	return $app_type
 }
