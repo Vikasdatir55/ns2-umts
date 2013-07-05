@@ -6,18 +6,18 @@ this repo include a whole ns2.29-allinone and a simulation of handover between U
 
 1.Download ns2.29-allinone and its UMTS extension package
 
-  Two choices for you 
+  Two choices for you
 
 	a. using the package I have compile and it works on my Fedora17.
 	b. download these two packages individully and make it works by yourself, what need to mention 	is both of choice are need you to recompile it. individule package of ns2.29-allinone and UMTS extension package is in the umts-extension-package directory.
 
 2.Installation of ns2.29-allinone with UMTS enabled
 
-a.Installation preparation
-	Before you install ns2.29, you should install some necessary packages. For Fedora user, you need:
+  a.Installation preparation: Before you install ns2.29, you should install some necessary packages. For Fedora user, you need:
+
     $ yum install gcc
-		$ yum install tcl-devel
-		$ yum install autoconf
+    $ yum install tcl-devel
+	  $ yum install autoconf
 		$ yum install automake
 		$ yum install gcc-c++
 		$ yum install libX11-devel
@@ -25,21 +25,31 @@ a.Installation preparation
 		$ yum install libXt-devel
 		$ yum install libXmu-devel
 		$ yum install libtool
+
 	After that, what you have to do is install the gcc4.1(for my fedora15, 16 17, gcc4.1.2 works fins), the version of gcc is very important for ns2.29’s installation, so I recommend the gcc4.1.2. Download it here (http://gcc.gnu.org/mirrors.html). After your gcc4.1.2 installed, you have two version of gcc on your computer now, so you have to modify you path of gcc compile link to your gcc4.1.2. which can be done by this:
+
 		$which gcc 
+
 	To get the symbol link of gcc location, the cd to the directory and do
+
 		$sudo mv gcc gcc_bak
 		$sudo mv g++ g++_bak
 		$sudo mv cc cc_bak
 		$sudo other-gcc- other-gcc-bak
+
 	Then you have create the new symbol link to your new version of gcc4.1.2 by:
+
 	$sudo ln –s /directory/to/gcc4.1.2/bin/gcc gcc
+
 	And you should do that for all of them, like g++, cc, c++ or something more.
 
 b.	Installation of ns2.29 with UMTS enabled.
+
 	First thing you have to do is extracting the UMTS package and mv it to ns2.29-allinone to over cover the original ns2.29 directory within ns2.29-allinone directory. Then you can make install it with the simple command now:
+
 		$./install
 	There should be some troubles happen, and you can refer to
+
 	This troubles shooting notes here ()
 
 c.	Patch your ns2.29 with my real time performance monitor patch.
