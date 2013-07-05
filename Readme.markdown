@@ -9,6 +9,7 @@ this repo include a whole ns2.29-allinone and a simulation of handover between U
   Two choices for you
 
   a. using the package I have compile and it works on my Fedora17.
+  
   b. download these two packages individully and make it works by yourself, what need to mention is both of choice are need you to recompile it. individule package of ns2.29-allinone and UMTS extension package is in the umts-extension-package directory.
 
 2.Installation of ns2.29-allinone with UMTS enabled
@@ -78,8 +79,10 @@ Like.
     $vim configure
 
   find the 
+
     "# For an installed makeinfo, we require it to be from texinfo 4.2 or# higher, else we use the "missing" dummy.if ${MAKEINFO} --version \| egrep 'texinfo[^0-9]*([1-3][0-9]|4\.[2-9]|[5-9])' >/dev/null 2>&1; then:elseMAKEINFO="$MISSING makeinfo"fi;;"
   and change the
+
     'texinfo[^0-9]*([1-3][0-9]|4\.[2-9]|[5-9])' to 'texinfo[^0-9]*([1-3][0-9]|4\.[2-9]|4\.[1-9][0-9]*|[5-9])'
 
 2 For ns2.29-allinone installaion
