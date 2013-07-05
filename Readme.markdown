@@ -1,12 +1,13 @@
-﻿
-Welcome!
+﻿Welcome!
 
 this repo include a whole ns2.29-allinone and a simulation of handover between UMTS cell and WLAN. what a wonderful thing is that I developed the real time network performance monitor function for ns2, so we can handover based on the real time network performance monitor.
 
-How to
+##How to
 
 1.Download ns2.29-allinone and its UMTS extension package
-    Two choices for you 
+
+  Two choices for you 
+
 	a. using the package I have compile and it works on my Fedora17.
 	b. download these two packages individully and make it works by yourself, what need to mention 	is both of choice are need you to recompile it. individule package of ns2.29-allinone and UMTS extension package is in the umts-extension-package directory.
 
@@ -14,7 +15,7 @@ How to
 
 a.Installation preparation
 	Before you install ns2.29, you should install some necessary packages. For Fedora user, you need:
-		$ yum install gcc
+    $ yum install gcc
 		$ yum install tcl-devel
 		$ yum install autoconf
 		$ yum install automake
