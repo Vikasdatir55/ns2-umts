@@ -1,358 +1,9580 @@
-s -t 0.100083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 0.100305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 0.100655065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 0 -Ms 2 -Mt 0 
-r -t 0.100861627 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 0 -Ms 2 -Mt 0 
-s -t 0.100871627 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 2 -Ms 0 -Mt 0 
-r -t 0.101073826 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 2 -Ms 0 -Mt 0 
-s -t 0.101203809 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 2 -Ms 0 -Mt 0 
-r -t 0.101410371 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 2 -Ms 0 -Mt 0 
-s -t 0.101420371 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 
-r -t 0.101622570 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 
-s -t 0.155638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 0.155859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 0.156069179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 1 -Ms 3 -Mt 0 
-r -t 0.156275741 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 1 -Ms 3 -Mt 0 
-s -t 0.156285741 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 3 -Ms 0 -Mt 0 
-r -t 0.156487940 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 3 -Ms 0 -Mt 0 
-s -t 0.156717923 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 3 -Ms 1 -Mt 0 
-r -t 0.156924485 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 3 -Ms 1 -Mt 0 
-s -t 0.156934485 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 1 -Ms 0 -Mt 0 
-r -t 0.157136684 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 1 -Ms 0 -Mt 0 
-s -t 0.200083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 0.200305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 0.255638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 0.255859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 0.300083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 0.300305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 0.355638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 0.355859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 0.400083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 0.400305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 0.455638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 0.455859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 0.500083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 0.500305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 0.555638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 0.555859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 0.600083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 0.600305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 0.655638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 0.655859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 0.700083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 0.700305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 0.755638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 0.755859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 0.800083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 0.800305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 0.855638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 0.855859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 0.900083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 0.900305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 0.955638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 0.955859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 1.000083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 1.000305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 1.055638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 1.055859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 1.100083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 1.100305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 1.155638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 1.155859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 1.200083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 1.200305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 1.255638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 1.255859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 1.300083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 1.300305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 1.355638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 1.355859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 1.400083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 1.400305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 1.455638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 1.455859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-+ 1.5 0 4 tcp 40 ------- 0 0.0.0.0 1.0.1.0 0 3
-- 1.5 0 4 tcp 40 ------- 0 0.0.0.0 1.0.1.0 0 3
-s -t 1.500083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 1.500305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r 1.501003 0 4 tcp 40 ------- 0 0.0.0.0 1.0.1.0 0 3
-s -t 1.501338200 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 806 -P arp -Po REQUEST -Pms 0 -Ps 4194304 -Pmd 0 -Pd 4194305 
-r -t 1.501576762 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 0 -Mt 806 -P arp -Po REQUEST -Pms 0 -Ps 4194304 -Pmd 0 -Pd 4194305 
-s -t 1.502251762 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2a1 -Md 0 -Ms 2 -Mt 0 
-r -t 1.502458324 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2a1 -Md 0 -Ms 2 -Mt 0 
-s -t 1.502468324 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1cd -Md 2 -Ms 0 -Mt 0 
-r -t 1.502670523 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1cd -Md 2 -Ms 0 -Mt 0 
-s -t 1.502680523 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 0 -Ms 2 -Mt 806 -P arp -Po REPLY -Pms 2 -Ps 4194305 -Pmd 0 -Pd 4194304 
-r -t 1.502919085 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 0 -Ms 2 -Mt 806 -P arp -Po REPLY -Pms 2 -Ps 4194305 -Pmd 0 -Pd 4194304 
-s -t 1.502929085 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 2 -Ms 0 -Mt 0 
-r -t 1.503131283 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 2 -Ms 0 -Mt 0 
-s -t 1.503761267 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 2 -Ms 0 -Mt 0 
-r -t 1.503967829 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 2 -Ms 0 -Mt 0 
-s -t 1.503977829 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 0 -Ms 0 -Mt 0 
-r -t 1.504180027 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 0 -Ms 0 -Mt 0 
-s -t 1.504190027 -Hs 4 -Hd 4194305 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 2 -Ms 0 -Mt 800 -Is 0.0 -Id 4194305.0 -It tcp -Il 100 -If 0 -Ii 3 -Iv 30 -Pn tcp -Ps 0 -Pa -1 -Pf 0 -Po 0 
-r -t 1.504437317 -Hs 6 -Hd 4194305 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 2 -Ms 0 -Mt 800 -Is 0.0 -Id 4194305.0 -It tcp -Il 40 -If 0 -Ii 3 -Iv 30 -Pn tcp -Ps 0 -Pa -1 -Pf 1 -Po 0 
-s -t 1.504447317 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 
-r -t 1.504649515 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 
-s -t 1.504899498 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 0 -Ms 2 -Mt 0 
-r -t 1.505106061 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 0 -Ms 2 -Mt 0 
-s -t 1.505116061 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 2 -Ms 0 -Mt 0 
-r -t 1.505318259 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 2 -Ms 0 -Mt 0 
-s -t 1.505328259 -Hs 6 -Hd 4194304 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 0 -Ms 2 -Mt 800 -Is 16777216.0 -Id 0.0 -It ack -Il 100 -If 0 -Ii 4 -Iv 31 -Pn tcp -Ps 0 -Pa 1 -Pf 0 -Po 0 
-r -t 1.505575548 -Hs 4 -Hd 4194304 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 0 -Ms 2 -Mt 800 -Is 16777216.0 -Id 0.0 -It ack -Il 40 -If 0 -Ii 4 -Iv 31 -Pn tcp -Ps 0 -Pa 1 -Pf 1 -Po 0 
-s -t 1.505585548 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 2 -Ms 0 -Mt 0 
-+ 1.505601 4 0 ack 40 ------- 0 4.0.0.0 0.0.0.0 0 4
-- 1.505601 4 0 ack 40 ------- 0 4.0.0.0 0.0.0.0 0 4
-r -t 1.505787747 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 2 -Ms 0 -Mt 0 
-r 1.506604 4 0 ack 40 ------- 0 4.0.0.0 0.0.0.0 0 4
-+ 1.506604 0 4 tcp 40 ------- 0 0.0.0.0 1.0.1.0 1 5
-- 1.506604 0 4 tcp 40 ------- 0 0.0.0.0 1.0.1.0 1 5
-+ 1.506604 0 4 tcp 140 ------- 0 0.0.0.0 1.0.1.0 1 6
-- 1.506607 0 4 tcp 140 ------- 0 0.0.0.0 1.0.1.0 1 6
-r 1.507607 0 4 tcp 40 ------- 0 0.0.0.0 1.0.1.0 1 5
-r 1.507618 0 4 tcp 140 ------- 0 0.0.0.0 1.0.1.0 1 6
-s -t 1.508221948 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 2 -Ms 0 -Mt 0 
-r -t 1.508428511 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 2 -Ms 0 -Mt 0 
-s -t 1.508438511 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 0 -Ms 0 -Mt 0 
-r -t 1.508640709 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 0 -Ms 0 -Mt 0 
-s -t 1.508650709 -Hs 4 -Hd 4194305 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 2 -Ms 0 -Mt 800 -Is 0.0 -Id 4194305.0 -It tcp -Il 100 -If 0 -Ii 5 -Iv 30 -Pn tcp -Ps 1 -Pa 1 -Pf 0 -Po 0 
-r -t 1.508897998 -Hs 6 -Hd 4194305 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 2 -Ms 0 -Mt 800 -Is 0.0 -Id 4194305.0 -It tcp -Il 40 -If 0 -Ii 5 -Iv 30 -Pn tcp -Ps 1 -Pa 1 -Pf 1 -Po 0 
-s -t 1.508907998 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 
-r -t 1.509110197 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 
-s -t 1.509220197 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2f2 -Md 2 -Ms 0 -Mt 0 
-r -t 1.509426759 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2f2 -Md 2 -Ms 0 -Mt 0 
-s -t 1.509436759 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 21e -Md 0 -Ms 0 -Mt 0 
-r -t 1.509638958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 21e -Md 0 -Ms 0 -Mt 0 
-s -t 1.509648958 -Hs 4 -Hd 4194305 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 2 -Ms 0 -Mt 800 -Is 0.0 -Id 4194305.0 -It tcp -Il 200 -If 0 -Ii 6 -Iv 30 -Pn tcp -Ps 1 -Pa 1 -Pf 0 -Po 0 
-r -t 1.509968974 -Hs 6 -Hd 4194305 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 2 -Ms 0 -Mt 800 -Is 0.0 -Id 4194305.0 -It tcp -Il 140 -If 0 -Ii 6 -Iv 30 -Pn tcp -Ps 1 -Pa 1 -Pf 1 -Po 0 
-s -t 1.509978974 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 
-v 1.5099939742424269 eval {set sim_annotation {_o276 received data "my message 1"}}
-r -t 1.510181173 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 
-s -t 1.555638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 1.555859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 1.600083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 1.600305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 1.600846065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 0 -Ms 2 -Mt 0 
-r -t 1.601052627 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 0 -Ms 2 -Mt 0 
-s -t 1.601062627 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 2 -Ms 0 -Mt 0 
-r -t 1.601264826 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 2 -Ms 0 -Mt 0 
-s -t 1.601274826 -Hs 6 -Hd 4194304 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 0 -Ms 2 -Mt 800 -Is 16777216.0 -Id 0.0 -It ack -Il 100 -If 0 -Ii 7 -Iv 31 -Pn tcp -Ps 1 -Pa 101 -Pf 0 -Po 0 
-r -t 1.601522115 -Hs 4 -Hd 4194304 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 0 -Ms 2 -Mt 800 -Is 16777216.0 -Id 0.0 -It ack -Il 40 -If 0 -Ii 7 -Iv 31 -Pn tcp -Ps 1 -Pa 101 -Pf 1 -Po 0 
-s -t 1.601532115 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 2 -Ms 0 -Mt 0 
-+ 1.601547 4 0 ack 40 ------- 0 4.0.0.0 0.0.0.0 1 7
-- 1.601547 4 0 ack 40 ------- 0 4.0.0.0 0.0.0.0 1 7
-r -t 1.601734314 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 2 -Ms 0 -Mt 0 
-r 1.60255 4 0 ack 40 ------- 0 4.0.0.0 0.0.0.0 1 7
-s -t 1.655638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 1.655859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 1.700083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 1.700305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 1.755638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 1.755859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 1.800083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 1.800305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 1.855638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 1.855859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 1.900083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 1.900305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 1.955638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 1.955859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 2.000083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 2.000305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 2.055638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 2.055859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 2.100083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 2.100305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 2.155638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 2.155859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 2.200083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 2.200305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 2.255638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 2.255859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 2.300083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 2.300305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 2.355638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 2.355859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 2.400083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 2.400305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 2.455638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 2.455859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-+ 2.5 0 4 tcp 140 ---A--- 0 0.0.0.0 1.0.1.0 101 9
-- 2.5 0 4 tcp 140 ---A--- 0 0.0.0.0 1.0.1.0 101 9
-s -t 2.500083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 2.500305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r 2.501011 0 4 tcp 140 ---A--- 0 0.0.0.0 1.0.1.0 101 9
-s -t 2.501106200 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2f2 -Md 2 -Ms 0 -Mt 0 
-r -t 2.501312762 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2f2 -Md 2 -Ms 0 -Mt 0 
-s -t 2.501322762 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 21e -Md 0 -Ms 0 -Mt 0 
-r -t 2.501524961 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 21e -Md 0 -Ms 0 -Mt 0 
-s -t 2.501534961 -Hs 4 -Hd 4194305 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 2 -Ms 0 -Mt 800 -Is 0.0 -Id 4194305.0 -It tcp -Il 200 -If 0 -Ii 9 -Iv 30 -Pn tcp -Ps 101 -Pa 1 -Pf 0 -Po 0 
-r -t 2.501854977 -Hs 6 -Hd 4194305 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 2 -Ms 0 -Mt 800 -Is 0.0 -Id 4194305.0 -It tcp -Il 140 -If 0 -Ii 9 -Iv 30 -Pn tcp -Ps 101 -Pa 1 -Pf 1 -Po 0 
-s -t 2.501864977 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 
-v 2.5018799772727274 eval {set sim_annotation {_o276 received data "my message 2"}}
-r -t 2.502067176 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 
-s -t 2.555638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 2.555859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 2.600083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 2.600305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 2.600726065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 0 -Ms 2 -Mt 0 
-r -t 2.600932627 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 0 -Ms 2 -Mt 0 
-s -t 2.600942627 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 2 -Ms 0 -Mt 0 
-r -t 2.601144826 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 2 -Ms 0 -Mt 0 
-s -t 2.601154826 -Hs 6 -Hd 4194304 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 0 -Ms 2 -Mt 800 -Is 16777216.0 -Id 0.0 -It ack -Il 100 -If 0 -Ii 10 -Iv 31 -Pn tcp -Ps 1 -Pa 201 -Pf 0 -Po 0 
-r -t 2.601402115 -Hs 4 -Hd 4194304 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 0 -Ms 2 -Mt 800 -Is 16777216.0 -Id 0.0 -It ack -Il 40 -If 0 -Ii 10 -Iv 31 -Pn tcp -Ps 1 -Pa 201 -Pf 1 -Po 0 
-s -t 2.601412115 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 2 -Ms 0 -Mt 0 
-+ 2.601427 4 0 ack 40 ------- 0 4.0.0.0 0.0.0.0 1 10
-- 2.601427 4 0 ack 40 ------- 0 4.0.0.0 0.0.0.0 1 10
-r -t 2.601614314 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 2 -Ms 0 -Mt 0 
-r 2.60243 4 0 ack 40 ------- 0 4.0.0.0 0.0.0.0 1 10
-s -t 2.655638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 2.655859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 2.700083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 2.700305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 2.755638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 2.755859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 2.800083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 2.800305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 2.855638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 2.855859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 2.900083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 2.900305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 2.955638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 2.955859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-v 3 eval {set sim_annotation {Redirecting traffic}}
-s -t 3.000083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 3.000305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 3.055638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 3.055859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 3.100083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 3.100305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 3.155638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 3.155859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 3.200083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 3.200305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 3.255638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 3.255859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 3.300083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 3.300305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 3.355638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 3.355859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 3.400083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 3.400305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 3.455638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 3.455859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-+ 3.5 0 5 tcp 140 ---A--- 0 0.0.0.0 2.0.1.1 201 11
-- 3.5 0 5 tcp 140 ---A--- 0 0.0.0.0 2.0.1.1 201 11
-s -t 3.500083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 3.500305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r 3.501011 0 5 tcp 140 ---A--- 0 0.0.0.0 2.0.1.1 201 11
-s -t 3.501526200 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 806 -P arp -Po REQUEST -Pms 1 -Ps 8388608 -Pmd 0 -Pd 8388609 
-r -t 3.501764762 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 1 -Mt 806 -P arp -Po REQUEST -Pms 1 -Ps 8388608 -Pmd 0 -Pd 8388609 
-s -t 3.502439762 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2a1 -Md 1 -Ms 3 -Mt 0 
-r -t 3.502646324 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2a1 -Md 1 -Ms 3 -Mt 0 
-s -t 3.502656324 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1cd -Md 3 -Ms 0 -Mt 0 
-r -t 3.502858523 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1cd -Md 3 -Ms 0 -Mt 0 
-s -t 3.502868523 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 1 -Ms 3 -Mt 806 -P arp -Po REPLY -Pms 3 -Ps 8388609 -Pmd 1 -Pd 8388608 
-r -t 3.503107085 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 1 -Ms 3 -Mt 806 -P arp -Po REPLY -Pms 3 -Ps 8388609 -Pmd 1 -Pd 8388608 
-s -t 3.503117085 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 3 -Ms 0 -Mt 0 
-r -t 3.503319283 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 3 -Ms 0 -Mt 0 
-s -t 3.503389267 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2f2 -Md 3 -Ms 1 -Mt 0 
-r -t 3.503595829 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2f2 -Md 3 -Ms 1 -Mt 0 
-s -t 3.503605829 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 21e -Md 1 -Ms 0 -Mt 0 
-r -t 3.503808027 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 21e -Md 1 -Ms 0 -Mt 0 
-s -t 3.503818027 -Hs 5 -Hd 8388609 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 3 -Ms 1 -Mt 800 -Is 0.0 -Id 8388609.1 -It tcp -Il 200 -If 0 -Ii 11 -Iv 30 -Pn tcp -Ps 201 -Pa 1 -Pf 0 -Po 0 
-r -t 3.504138044 -Hs 7 -Hd 8388609 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 3 -Ms 1 -Mt 800 -Is 0.0 -Id 8388609.1 -It tcp -Il 140 -If 0 -Ii 11 -Iv 30 -Pn tcp -Ps 201 -Pa 1 -Pf 1 -Po 0 
-s -t 3.504148044 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 1 -Ms 0 -Mt 0 
-v 3.5041630439393936 eval {set sim_annotation {_o276 received data "my message 3"}}
-r -t 3.504350242 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 1 -Ms 0 -Mt 0 
-s -t 3.555638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 3.555859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 3.600083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 3.600305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 3.600555000 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 1 -Ms 3 -Mt 0 
-r -t 3.600761562 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 1 -Ms 3 -Mt 0 
-s -t 3.600771562 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 3 -Ms 0 -Mt 0 
-r -t 3.600973761 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 3 -Ms 0 -Mt 0 
-s -t 3.600983761 -Hs 7 -Hd 8388608 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 1 -Ms 3 -Mt 800 -Is 16777216.1 -Id 0.0 -It ack -Il 100 -If 0 -Ii 12 -Iv 31 -Pn tcp -Ps 1 -Pa 301 -Pf 0 -Po 0 
-r -t 3.601231050 -Hs 5 -Hd 8388608 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 1 -Ms 3 -Mt 800 -Is 16777216.1 -Id 0.0 -It ack -Il 40 -If 0 -Ii 12 -Iv 31 -Pn tcp -Ps 1 -Pa 301 -Pf 1 -Po 0 
-s -t 3.601241050 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 3 -Ms 0 -Mt 0 
-+ 3.601256 5 0 ack 40 ------- 0 4.0.0.1 0.0.0.0 1 12
-- 3.601256 5 0 ack 40 ------- 0 4.0.0.1 0.0.0.0 1 12
-r -t 3.601443248 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 3 -Ms 0 -Mt 0 
-r 3.602259 5 0 ack 40 ------- 0 4.0.0.1 0.0.0.0 1 12
-s -t 3.655638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 3.655859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 3.700083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 3.700305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 3.755638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 3.755859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 3.800083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 3.800305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 3.855638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 3.855859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 3.900083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 3.900305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 3.955638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 3.955859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 4.000083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 4.000305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 4.055638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 4.055859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 4.100083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 4.100305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 4.155638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 4.155859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 4.200083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 4.200305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 4.255638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 4.255859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 4.300083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 4.300305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 4.355638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 4.355859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 4.400083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 4.400305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 4.455638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 4.455859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-+ 4.5 0 5 tcp 140 ---A--- 0 0.0.0.0 2.0.1.1 301 13
-- 4.5 0 5 tcp 140 ---A--- 0 0.0.0.0 2.0.1.1 301 13
-s -t 4.500083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 4.500305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r 4.501011 0 5 tcp 140 ---A--- 0 0.0.0.0 2.0.1.1 301 13
-s -t 4.501646200 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2f2 -Md 3 -Ms 1 -Mt 0 
-r -t 4.501852762 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2f2 -Md 3 -Ms 1 -Mt 0 
-s -t 4.501862762 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 21e -Md 1 -Ms 0 -Mt 0 
-r -t 4.502064961 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 21e -Md 1 -Ms 0 -Mt 0 
-s -t 4.502074961 -Hs 5 -Hd 8388609 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 3 -Ms 1 -Mt 800 -Is 0.0 -Id 8388609.1 -It tcp -Il 200 -If 0 -Ii 13 -Iv 30 -Pn tcp -Ps 301 -Pa 1 -Pf 0 -Po 0 
-r -t 4.502394977 -Hs 7 -Hd 8388609 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 3 -Ms 1 -Mt 800 -Is 0.0 -Id 8388609.1 -It tcp -Il 140 -If 0 -Ii 13 -Iv 30 -Pn tcp -Ps 301 -Pa 1 -Pf 1 -Po 0 
-s -t 4.502404977 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 1 -Ms 0 -Mt 0 
-v 4.5024199772727247 eval {set sim_annotation {_o276 received data "my message 4"}}
-r -t 4.502607176 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 1 -Ms 0 -Mt 0 
-s -t 4.555638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 4.555859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 4.600083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 4.600255000 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 1 -Ms 3 -Mt 0 
-r -t 4.600305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 4.600461562 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 1 -Ms 3 -Mt 0 
-s -t 4.600471562 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 3 -Ms 0 -Mt 0 
-r -t 4.600673761 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 3 -Ms 0 -Mt 0 
-s -t 4.600683761 -Hs 7 -Hd 8388608 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 1 -Ms 3 -Mt 800 -Is 16777216.1 -Id 0.0 -It ack -Il 100 -If 0 -Ii 14 -Iv 31 -Pn tcp -Ps 1 -Pa 401 -Pf 0 -Po 0 
-r -t 4.600931050 -Hs 5 -Hd 8388608 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 1 -Ms 3 -Mt 800 -Is 16777216.1 -Id 0.0 -It ack -Il 40 -If 0 -Ii 14 -Iv 31 -Pn tcp -Ps 1 -Pa 401 -Pf 1 -Po 0 
-s -t 4.600941050 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 3 -Ms 0 -Mt 0 
-+ 4.600956 5 0 ack 40 ------- 0 4.0.0.1 0.0.0.0 1 14
-- 4.600956 5 0 ack 40 ------- 0 4.0.0.1 0.0.0.0 1 14
-r -t 4.601143248 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 3 -Ms 0 -Mt 0 
-r 4.601959 5 0 ack 40 ------- 0 4.0.0.1 0.0.0.0 1 14
-s -t 4.655638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 4.655859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 4.700083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 4.700305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 4.755638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 4.755859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 4.800083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 4.800305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 4.855638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 4.855859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-s -t 4.900083958 -Hs 4 -Hd -2 -Ni 4 -Nx 51.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-r -t 4.900305065 -Hs 6 -Hd -2 -Ni 6 -Nx 51.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 0 -Mt 0 
-s -t 4.955638072 -Hs 5 -Hd -2 -Ni 5 -Nx 52.00 -Ny 55.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
-r -t 4.955859179 -Hs 7 -Hd -2 -Ni 7 -Nx 52.00 -Ny 50.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 1 -Mt 0 
+s -t 0.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 0.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 0.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 0.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 0.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 0.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 0.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 0.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 0.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 1.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 1.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 1.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 1.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 1.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 1.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 1.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 1.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 1.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 1.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 2.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 2.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 2.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 2.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 2.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 2.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 2.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 2.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 2.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 2.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 3.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 3.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 3.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 3.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 3.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 3.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 3.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 3.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 3.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 3.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 4.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 4.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 4.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 4.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 4.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 4.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 4.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 4.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 4.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 4.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 5.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 5.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 5.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 5.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 5.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 5.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 5.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 5.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 5.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 5.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 6.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 6.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 6.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 6.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 6.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 6.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 6.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 6.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 6.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 6.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 7.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 7.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 7.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 7.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 7.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 7.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 7.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 7.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 7.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 7.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 8.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 8.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 8.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 8.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 8.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 8.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 8.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 8.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 8.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 8.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 9.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 9.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 9.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 9.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 9.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 9.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 9.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 9.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 9.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 9.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+M 10.00000 12582913 (50.00, 200.00, 0.00), (590.00, 200.00), 30.00
++ 10 3 4 tcp 40 ------- 0 1.0.0.0 0.0.2.0 0 2
+- 10 3 4 tcp 40 ------- 0 1.0.0.0 0.0.2.0 0 2
+s -t 10.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 10.005 3 4 tcp 40 ------- 0 1.0.0.0 0.0.2.0 0 2
++ 10.005 4 0 tcp 40 ------- 0 1.0.0.0 0.0.2.0 0 2
+- 10.005 4 0 tcp 40 ------- 0 1.0.0.0 0.0.2.0 0 2
+r 10.005401 4 0 tcp 40 ------- 0 1.0.0.0 0.0.2.0 0 2
++ 10.019003 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 0 2 0
+- 10.019003 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 0 2 0
+r 10.034004 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 0 2 0
++ 10.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 0 3 0
+- 10.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 0 3 0
++ 10.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 0 3 1
+- 10.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 0 3 1
+s -t 10.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 10.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 0 3 0
+r 10.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 0 3 1
++ 10.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 0 3
+- 10.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 0 3
+r 10.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 0 3
++ 10.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 0 3
+- 10.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 0 3
++ 10.119002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1
+- 10.119002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1
+r 10.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 0 3
++ 10.120467 3 4 tcp 40 ------- 0 1.0.0.0 0.0.2.0 1 4
+- 10.120467 3 4 tcp 40 ------- 0 1.0.0.0 0.0.2.0 1 4
++ 10.120467 3 4 tcp 576 ------- 0 1.0.0.0 0.0.2.0 1 5
+- 10.120467 3 4 tcp 576 ------- 0 1.0.0.0 0.0.2.0 1 5
+r 10.125467 3 4 tcp 40 ------- 0 1.0.0.0 0.0.2.0 1 4
++ 10.125467 4 0 tcp 40 ------- 0 1.0.0.0 0.0.2.0 1 4
+- 10.125467 4 0 tcp 40 ------- 0 1.0.0.0 0.0.2.0 1 4
+r 10.125473 3 4 tcp 576 ------- 0 1.0.0.0 0.0.2.0 1 5
++ 10.125473 4 0 tcp 576 ------- 0 1.0.0.0 0.0.2.0 1 5
+- 10.125473 4 0 tcp 576 ------- 0 1.0.0.0 0.0.2.0 1 5
+r 10.125868 4 0 tcp 40 ------- 0 1.0.0.0 0.0.2.0 1 4
+r 10.125881 4 0 tcp 576 ------- 0 1.0.0.0 0.0.2.0 1 5
+r 10.134002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1
++ 10.139007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 4 1
+- 10.139007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 4 1
++ 10.139012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 2
+- 10.139012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 2
++ 10.13902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 3
+- 10.13902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 3
++ 10.139031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 4
+- 10.139031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 4
++ 10.13904 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 5
+- 10.13904 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 5
++ 10.139054 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 6
+- 10.139054 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 6
++ 10.139071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 7
+- 10.139071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 7
++ 10.139088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 8
+- 10.139088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 8
++ 10.139092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 9
+- 10.139092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 9
++ 10.139097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 10
+- 10.139097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 10
++ 10.139114 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 11
+- 10.139114 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 11
++ 10.139128 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 12
+- 10.139128 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 12
++ 10.139143 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 13
+- 10.139143 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 13
++ 10.139161 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 14
+- 10.139161 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 14
++ 10.139169 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 15
+- 10.139169 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 15
++ 10.139171 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 16
+- 10.139171 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 16
+r 10.154007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 4 1
+r 10.154013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 2
+r 10.154021 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 3
+r 10.154031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 4
+r 10.154041 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 5
+r 10.154054 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 6
+r 10.154072 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 7
+r 10.154088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 8
+r 10.154093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 9
+r 10.154098 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 10
+r 10.154115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 11
+r 10.154128 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 12
+r 10.154143 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 13
+r 10.154161 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 14
+r 10.15417 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 15
+r 10.154172 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1 5 16
+s -t 10.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 10.220015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 6 2
+- 10.220015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 6 2
+r 10.235016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 6 2
++ 10.235066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 6
+- 10.235066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 6
+r 10.235466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 6
++ 10.235466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 6
+- 10.235466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 6
+r 10.240466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 6
++ 10.240466 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 537 7
+- 10.240466 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 537 7
+r 10.245471 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 537 7
++ 10.245471 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 537 7
+- 10.245471 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 537 7
+r 10.245878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 537 7
++ 10.259007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 17
+- 10.259007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 17
++ 10.259009 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 18
+- 10.259009 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 18
++ 10.259023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 19
+- 10.259023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 19
++ 10.259028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 20
+- 10.259028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 20
++ 10.259042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 21
+- 10.259042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 21
++ 10.259053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 22
+- 10.259053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 22
++ 10.25907 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 23
+- 10.25907 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 23
++ 10.259075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 24
+- 10.259075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 24
++ 10.259086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 25
+- 10.259086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 25
++ 10.259095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 26
+- 10.259095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 26
++ 10.259095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 27
+- 10.259095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 27
++ 10.259102 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 28
+- 10.259102 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 28
++ 10.259106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 29
+- 10.259106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 29
++ 10.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 16
+- 10.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 16
+r 10.274007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 17
+r 10.27401 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 18
+r 10.274023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 19
+r 10.274028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 20
+r 10.274042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 21
+r 10.274053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 22
+r 10.274071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 23
+r 10.274076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 24
+r 10.274087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 25
+r 10.274095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 26
+r 10.274096 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 27
+r 10.274103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 28
+r 10.274106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 537 7 29
+r 10.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 16
++ 10.279019 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 2
+- 10.279019 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 2
+r 10.294019 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 2
+s -t 10.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 10.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 10.420015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 29
+- 10.420015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 29
+r 10.435016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 29
++ 10.440015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 8 3
+- 10.440015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 8 3
+r 10.455016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 8 3
++ 10.455066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 8
+- 10.455066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 8
+r 10.455466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 8
++ 10.455466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 8
+- 10.455466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 8
++ 10.459011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 3
+- 10.459011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 3
+r 10.460466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 8
+r 10.474011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 3
++ 10.5 3 4 tcp 576 ------- 0 1.0.0.0 0.0.2.0 1001 9
+- 10.5 3 4 tcp 576 ------- 0 1.0.0.0 0.0.2.0 1001 9
+s -t 10.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 10.505006 3 4 tcp 576 ------- 0 1.0.0.0 0.0.2.0 1001 9
++ 10.505006 4 0 tcp 576 ------- 0 1.0.0.0 0.0.2.0 1001 9
+- 10.505006 4 0 tcp 576 ------- 0 1.0.0.0 0.0.2.0 1001 9
+r 10.505413 4 0 tcp 576 ------- 0 1.0.0.0 0.0.2.0 1001 9
++ 10.519002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 30
+- 10.519002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 30
++ 10.519018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 31
+- 10.519018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 31
++ 10.519036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 32
+- 10.519036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 32
++ 10.519051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 33
+- 10.519051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 33
++ 10.519068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 34
+- 10.519068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 34
++ 10.51908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 35
+- 10.51908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 35
++ 10.519095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 36
+- 10.519095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 36
++ 10.519111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 37
+- 10.519111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 37
++ 10.519118 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 38
+- 10.519118 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 38
++ 10.519129 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 39
+- 10.519129 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 39
++ 10.519145 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 40
+- 10.519145 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 40
++ 10.519161 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 41
+- 10.519161 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 41
++ 10.519174 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 42
+- 10.519174 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 42
++ 10.519177 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 43
+- 10.519177 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 43
++ 10.519185 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 44
+- 10.519185 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 44
+r 10.534002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 30
+r 10.534019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 31
+r 10.534037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 32
+r 10.534051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 33
+r 10.534069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 34
+r 10.53408 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 35
+r 10.534095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 36
+r 10.534111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 37
+r 10.534118 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 38
+r 10.534129 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 39
+r 10.534146 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 40
+r 10.534161 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 41
+r 10.534175 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 42
+r 10.534178 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 43
+r 10.534186 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1001 9 44
++ 10.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 10 4
+- 10.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 10 4
++ 10.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 10 5
+- 10.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 10 5
+s -t 10.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 10.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 10 4
+r 10.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 10 5
++ 10.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 10
+- 10.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 10
+r 10.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 10
++ 10.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 10
+- 10.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 10
++ 10.619018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 5
+- 10.619018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 5
+r 10.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 10
++ 10.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 1537 11
+- 10.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 1537 11
+r 10.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 1537 11
++ 10.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 1537 11
+- 10.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 1537 11
+r 10.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 1537 11
+r 10.634019 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 5
++ 10.639007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 45
+- 10.639007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 45
++ 10.639013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 46
+- 10.639013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 46
++ 10.639013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 47
+- 10.639014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 47
++ 10.63902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 48
+- 10.63902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 48
++ 10.639038 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 49
+- 10.639038 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 49
++ 10.639055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 50
+- 10.639055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 50
++ 10.639071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 51
+- 10.639071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 51
++ 10.639075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 52
+- 10.639075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 52
++ 10.639075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 53
+- 10.639075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 53
++ 10.63909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 54
+- 10.63909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 54
++ 10.639103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 55
+- 10.639103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 55
++ 10.639119 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 56
+- 10.639119 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 56
++ 10.639129 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 57
+- 10.639129 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 57
+r 10.654008 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 45
+r 10.654014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 46
+r 10.654014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 47
+r 10.65402 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 48
+r 10.654038 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 49
+r 10.654056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 50
+r 10.654072 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 51
+r 10.654075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 52
+r 10.654076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 53
+r 10.654091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 54
+r 10.654103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 55
+r 10.654119 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 56
+r 10.654129 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 1537 11 57
+s -t 10.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 10.700305882 -Hs 9 -Hd -2 -Ni 9 -Nx 71.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 10.700495882 -Hs 9 -Hd -2 -Ni 9 -Nx 71.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 0 
+r -t 10.700703260 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 0 
+s -t 10.700713260 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 7 -Ms 0 -Mt 0 
+r -t 10.700916275 -Hs 9 -Hd -2 -Ni 9 -Nx 71.03 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 7 -Ms 0 -Mt 0 
+s -t 10.701105442 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 7 -Ms 6 -Mt 0 
+s -t 10.701312820 -Hs 9 -Hd -2 -Ni 9 -Nx 71.04 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 12582913.254 -Id -1.254 -It nd_sol -Il 48 -If 0 -Ii 13 -Iv 32 
+r -t 10.701312820 -Hs 9 -Hd -2 -Ni 9 -Nx 71.04 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 7 -Ms 6 -Mt 0 
+s -t 10.701322820 -Hs 9 -Hd -2 -Ni 9 -Nx 71.04 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 6 -Ms 0 -Mt 0 
+r -t 10.701525835 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 6 -Ms 0 -Mt 0 
+s -t 10.702799591 -Hs 9 -Hd -2 -Ni 9 -Nx 71.08 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2be -Md 6 -Ms 7 -Mt 0 
+r -t 10.703006969 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2be -Md 6 -Ms 7 -Mt 0 
+s -t 10.703016969 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1ea -Md 7 -Ms 0 -Mt 0 
+r -t 10.703219984 -Hs 9 -Hd -2 -Ni 9 -Nx 71.10 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1ea -Md 7 -Ms 0 -Mt 0 
+s -t 10.703229984 -Hs 9 -Hd -2 -Ni 9 -Nx 71.10 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.254 -Id -1.254 -It nd_sol -Il 128 -If 0 -Ii 13 -Iv 32 
+r -t 10.703498453 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.254 -Id -1.254 -It nd_sol -Il 68 -If 0 -Ii 13 -Iv 32 
+r -t 10.703498453 -Hs 8 -Hd -1 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.254 -Id -1.254 -It nd_sol -Il 68 -If 0 -Ii 13 -Iv 32 
+s -t 10.703508453 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 7 -Ms 0 -Mt 0 
+r -t 10.703523453 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl AGT -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.254 -Id -1.254 -It nd_sol -Il 68 -If 0 -Ii 13 -Iv 31 
+r -t 10.703711467 -Hs 9 -Hd -2 -Ni 9 -Nx 71.11 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 7 -Ms 0 -Mt 0 
+s -t 10.703840635 -Hs 8 -Hd -1 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582913.254 -Id -1.254 -It nd_sol -Il 128 -If 0 -Ii 13 -Iv 32 
+r -t 10.704109104 -Hs 9 -Hd -1 -Ni 9 -Nx 71.12 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582913.254 -Id -1.254 -It nd_sol -Il 68 -If 0 -Ii 13 -Iv 32 
+d -t 10.704134104 -Hs 9 -Hd -1 -Ni 9 -Nx 71.12 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl RTR -Nw LOOP -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582913.254 -Id -1.254 -It nd_sol -Il 68 -If 0 -Ii 13 -Iv 32 
++ 10.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 12 6
+- 10.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 12 6
+r 10.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 12 6
++ 10.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 12
+- 10.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 12
+r 10.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 12
++ 10.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 12
+- 10.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 12
++ 10.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 57
+- 10.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 57
+r 10.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 12
+r 10.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 57
++ 10.779001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 6
+- 10.779001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 6
+r 10.794002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 6
+s -t 10.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 10.800305872 -Hs 9 -Hd -2 -Ni 9 -Nx 74.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 10.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 10.900305863 -Hs 9 -Hd -2 -Ni 9 -Nx 77.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 10.918725875 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 12582912.254 -Id -1.254 -It nd_rads -Il 96 -If 0 -Ii 14 -Iv 32 
+s -t 10.919515910 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582912.254 -Id -1.254 -It nd_rads -Il 176 -If 0 -Ii 14 -Iv 32 
+r -t 10.919819269 -Hs 9 -Hd -2 -Ni 9 -Nx 77.59 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582912.254 -Id -1.254 -It nd_rads -Il 116 -If 0 -Ii 14 -Iv 32 
+r -t 10.919844269 -Hs 9 -Hd -2 -Ni 9 -Nx 77.60 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl AGT -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582912.254 -Id -1.254 -It nd_rads -Il 116 -If 0 -Ii 14 -Iv 31 
++ 11 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 2001 16
+- 11 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 2001 16
+s -t 11.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 11.000305854 -Hs 9 -Hd -2 -Ni 9 -Nx 80.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 11.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 2001 16
++ 11.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 2001 16
+- 11.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 2001 16
+r 11.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 2001 16
++ 11.019005 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 58
+- 11.019005 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 58
++ 11.019021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 59
+- 11.019021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 59
++ 11.019022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 60
+- 11.019022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 60
++ 11.019029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 61
+- 11.019029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 61
++ 11.019045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 62
+- 11.019045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 62
++ 11.019058 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 63
+- 11.019058 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 63
++ 11.019066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 64
+- 11.019066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 64
++ 11.019071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 65
+- 11.019071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 65
++ 11.01908 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 66
+- 11.01908 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 66
++ 11.019099 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 67
+- 11.019099 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 67
++ 11.019108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 68
+- 11.019108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 68
++ 11.019126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 69
+- 11.019126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 69
++ 11.019145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 70
+- 11.019145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 70
++ 11.019163 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 71
+- 11.019163 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 71
++ 11.019166 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 72
+- 11.019166 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 72
+s -t 11.025421586 -Hs 9 -Hd -2 -Ni 9 -Nx 80.76 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 29b -Md 6 -Ms 7 -Mt 0 
+r -t 11.025628934 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 29b -Md 6 -Ms 7 -Mt 0 
+s -t 11.025638934 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1c7 -Md 7 -Ms 0 -Mt 0 
+r -t 11.025841919 -Hs 9 -Hd -2 -Ni 9 -Nx 80.78 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1c7 -Md 7 -Ms 0 -Mt 0 
+s -t 11.025851919 -Hs 9 -Hd -2 -Ni 9 -Nx 80.78 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 80 -If 0 -Ii 0 -Iv 32 
+r -t 11.026085450 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 32 
+r -t 11.026085450 -Hs 8 -Hd -1 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 32 
+s -t 11.026095450 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 7 -Ms 0 -Mt 0 
+r -t 11.026110450 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl AGT -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 31 
+s -t 11.026110450 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 12582912.252 -Id 12582913.252 -It (null) -Il 20 -If 0 -Ii 1 -Iv 32 
+r -t 11.026298435 -Hs 9 -Hd -2 -Ni 9 -Nx 80.79 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 7 -Ms 0 -Mt 0 
+s -t 11.026527632 -Hs 8 -Hd -1 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 80 -If 0 -Ii 0 -Iv 32 
+r -t 11.026761162 -Hs 9 -Hd -1 -Ni 9 -Nx 80.80 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 32 
+d -t 11.026786162 -Hs 9 -Hd -1 -Ni 9 -Nx 80.80 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl RTR -Nw LOOP -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 32 
+s -t 11.027370359 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 806 -P arp -Po REQUEST -Pms 6 -Ps 12582912 -Pmd 0 -Pd 12582913 
+r -t 11.027609708 -Hs 9 -Hd -2 -Ni 9 -Nx 80.83 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 806 -P arp -Po REQUEST -Pms 6 -Ps 12582912 -Pmd 0 -Pd 12582913 
+s -t 11.028044708 -Hs 9 -Hd -2 -Ni 9 -Nx 80.84 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2a1 -Md 6 -Ms 7 -Mt 0 
+r -t 11.028252056 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2a1 -Md 6 -Ms 7 -Mt 0 
+s -t 11.028262056 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1cd -Md 7 -Ms 0 -Mt 0 
+r -t 11.028465041 -Hs 9 -Hd -2 -Ni 9 -Nx 80.85 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1cd -Md 7 -Ms 0 -Mt 0 
+s -t 11.028475041 -Hs 9 -Hd -2 -Ni 9 -Nx 80.85 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 806 -P arp -Po REPLY -Pms 7 -Ps 12582913 -Pmd 6 -Pd 12582912 
+r -t 11.028714389 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 806 -P arp -Po REPLY -Pms 7 -Ps 12582913 -Pmd 6 -Pd 12582912 
+s -t 11.028724389 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 7 -Ms 0 -Mt 0 
+r -t 11.028927374 -Hs 9 -Hd -2 -Ni 9 -Nx 80.87 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 7 -Ms 0 -Mt 0 
+s -t 11.029116571 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 7 -Ms 6 -Mt 0 
+r -t 11.029323919 -Hs 9 -Hd -2 -Ni 9 -Nx 80.88 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 7 -Ms 6 -Mt 0 
+s -t 11.029333919 -Hs 9 -Hd -2 -Ni 9 -Nx 80.88 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 6 -Ms 0 -Mt 0 
+r -t 11.029536904 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 6 -Ms 0 -Mt 0 
+s -t 11.029546904 -Hs 8 -Hd 12582913 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 7 -Ms 6 -Mt 800 -Is 12582912.252 -Id 12582913.252 -It (null) -Il 100 -If 0 -Ii 1 -Iv 32 
+r -t 11.029794980 -Hs 9 -Hd 12582913 -Ni 9 -Nx 80.89 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 7 -Ms 6 -Mt 800 -Is 12582912.252 -Id 12582913.252 -It (null) -Il 40 -If 0 -Ii 1 -Iv 32 
+s -t 11.029804980 -Hs 9 -Hd -2 -Ni 9 -Nx 80.89 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 6 -Ms 0 -Mt 0 
+r -t 11.030007964 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 6 -Ms 0 -Mt 0 
+r 11.034005 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 58
+r 11.034022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 59
+r 11.034023 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 60
+r 11.03403 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 61
+r 11.034046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 62
+r 11.034058 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 63
+r 11.034067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 64
+r 11.034071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 65
+r 11.03408 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 66
+r 11.034099 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 67
+r 11.034108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 68
+r 11.034126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 69
+r 11.034146 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 70
+r 11.034164 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 71
+r 11.034167 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 2001 16 72
++ 11.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 18 7
+- 11.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 18 7
++ 11.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 18 8
+- 11.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 18 8
+s -t 11.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 11.100305845 -Hs 9 -Hd -2 -Ni 9 -Nx 83.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 11.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 18 7
+r 11.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 18 8
++ 11.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 18
+- 11.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 18
+r 11.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 18
++ 11.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 18
+- 11.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 18
++ 11.119005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 8
+- 11.119005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 8
+r 11.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 18
++ 11.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 2537 19
+- 11.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 2537 19
+r 11.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 2537 19
++ 11.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 2537 19
+- 11.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 2537 19
+r 11.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 2537 19
+r 11.134006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 8
++ 11.139012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 73
+- 11.139012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 73
++ 11.139025 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 74
+- 11.139025 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 74
++ 11.139042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 75
+- 11.139042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 75
++ 11.139048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 76
+- 11.139048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 76
++ 11.139051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 77
+- 11.139051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 77
++ 11.139055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 78
+- 11.139055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 78
++ 11.139056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 79
+- 11.139056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 79
++ 11.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 80
+- 11.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 80
++ 11.13906 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 81
+- 11.13906 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 81
++ 11.139061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 82
+- 11.139061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 82
++ 11.139068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 83
+- 11.139068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 83
++ 11.139073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 84
+- 11.139073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 84
++ 11.139074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 85
+- 11.139074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 85
+r 11.154013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 73
+r 11.154026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 74
+r 11.154043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 75
+r 11.154049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 76
+r 11.154052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 77
+r 11.154056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 78
+r 11.154057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 79
+r 11.154058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 80
+r 11.154061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 81
+r 11.154062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 82
+r 11.154069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 83
+r 11.154073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 84
+r 11.154074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 2537 19 85
+s -t 11.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 11.200305836 -Hs 9 -Hd -2 -Ni 9 -Nx 86.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 11.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 20 9
+- 11.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 20 9
+r 11.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 20 9
++ 11.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 20
+- 11.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 20
+r 11.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 20
++ 11.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 20
+- 11.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 20
++ 11.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 85
+- 11.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 85
+r 11.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 20
+r 11.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 85
++ 11.279008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 9
+- 11.279008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 9
+r 11.294009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 9
+s -t 11.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 11.300305827 -Hs 9 -Hd -2 -Ni 9 -Nx 89.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 11.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 11.400305818 -Hs 9 -Hd -2 -Ni 9 -Nx 92.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 11.428512996 -Hs 9 -Hd -2 -Ni 9 -Nx 92.86 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 29b -Md 6 -Ms 7 -Mt 0 
+r -t 11.428720308 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 29b -Md 6 -Ms 7 -Mt 0 
+s -t 11.428730308 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1c7 -Md 7 -Ms 0 -Mt 0 
+r -t 11.428933257 -Hs 9 -Hd -2 -Ni 9 -Nx 92.87 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1c7 -Md 7 -Ms 0 -Mt 0 
+s -t 11.428943257 -Hs 9 -Hd -2 -Ni 9 -Nx 92.87 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 80 -If 0 -Ii 0 -Iv 32 
+r -t 11.429176750 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 32 
+r -t 11.429176750 -Hs 8 -Hd -1 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 32 
+s -t 11.429186750 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 7 -Ms 0 -Mt 0 
+r -t 11.429201750 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl AGT -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 31 
+s -t 11.429201750 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 12582912.252 -Id 12582913.252 -It (null) -Il 20 -If 0 -Ii 1 -Iv 32 
+r -t 11.429389699 -Hs 9 -Hd -2 -Ni 9 -Nx 92.88 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 7 -Ms 0 -Mt 0 
+s -t 11.429978932 -Hs 8 -Hd -1 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 80 -If 0 -Ii 0 -Iv 32 
+r -t 11.430212426 -Hs 9 -Hd -1 -Ni 9 -Nx 92.91 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 32 
+d -t 11.430237426 -Hs 9 -Hd -1 -Ni 9 -Nx 92.91 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl RTR -Nw LOOP -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 32 
+s -t 11.430541660 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 7 -Ms 6 -Mt 0 
+r -t 11.430748972 -Hs 9 -Hd -2 -Ni 9 -Nx 92.92 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 7 -Ms 6 -Mt 0 
+s -t 11.430758972 -Hs 9 -Hd -2 -Ni 9 -Nx 92.92 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 6 -Ms 0 -Mt 0 
+r -t 11.430961920 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 6 -Ms 0 -Mt 0 
+s -t 11.430971920 -Hs 8 -Hd 12582913 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 7 -Ms 6 -Mt 800 -Is 12582912.252 -Id 12582913.252 -It (null) -Il 100 -If 0 -Ii 1 -Iv 32 
+r -t 11.431219959 -Hs 9 -Hd 12582913 -Ni 9 -Nx 92.94 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 7 -Ms 6 -Mt 800 -Is 12582912.252 -Id 12582913.252 -It (null) -Il 40 -If 0 -Ii 1 -Iv 32 
+s -t 11.431229959 -Hs 9 -Hd -2 -Ni 9 -Nx 92.94 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 6 -Ms 0 -Mt 0 
+r -t 11.431432907 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 6 -Ms 0 -Mt 0 
++ 11.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 3001 22
+- 11.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 3001 22
+s -t 11.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 11.500305809 -Hs 9 -Hd -2 -Ni 9 -Nx 95.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 11.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 3001 22
++ 11.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 3001 22
+- 11.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 3001 22
+r 11.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 3001 22
++ 11.51901 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 86
+- 11.51901 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 86
++ 11.519013 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 87
+- 11.519013 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 87
++ 11.519018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 88
+- 11.519018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 88
++ 11.519019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 89
+- 11.519019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 89
++ 11.519033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 90
+- 11.519033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 90
++ 11.519041 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 91
+- 11.519041 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 91
++ 11.519051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 92
+- 11.519051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 92
++ 11.519057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 93
+- 11.519057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 93
++ 11.519057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 94
+- 11.519058 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 94
++ 11.519071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 95
+- 11.519071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 95
++ 11.519076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 96
+- 11.519076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 96
++ 11.519086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 97
+- 11.519086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 97
++ 11.519104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 98
+- 11.519104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 98
++ 11.519111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 99
+- 11.519111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 99
++ 11.51912 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 100
+- 11.51912 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 100
+r 11.53401 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 86
+r 11.534013 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 87
+r 11.534019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 88
+r 11.534019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 89
+r 11.534033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 90
+r 11.534042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 91
+r 11.534052 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 92
+r 11.534058 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 93
+r 11.534058 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 94
+r 11.534072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 95
+r 11.534077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 96
+r 11.534086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 97
+r 11.534104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 98
+r 11.534111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 99
+r 11.534121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 3001 22 100
++ 11.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 23 10
+- 11.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 23 10
++ 11.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 23 11
+- 11.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 23 11
+s -t 11.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 11.600305800 -Hs 9 -Hd -2 -Ni 9 -Nx 98.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 11.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 23 10
+r 11.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 23 11
++ 11.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 23
+- 11.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 23
+r 11.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 23
++ 11.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 23
+- 11.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 23
++ 11.619006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 11
+- 11.619006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 11
+r 11.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 23
++ 11.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 3537 24
+- 11.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 3537 24
+r 11.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 3537 24
++ 11.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 3537 24
+- 11.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 3537 24
+r 11.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 3537 24
+r 11.634006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 11
++ 11.639019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 101
+- 11.639019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 101
++ 11.63902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 102
+- 11.63902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 102
++ 11.639033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 103
+- 11.639033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 103
++ 11.639036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 104
+- 11.639036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 104
++ 11.639045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 105
+- 11.639045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 105
++ 11.639057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 106
+- 11.639057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 106
++ 11.63906 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 107
+- 11.63906 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 107
++ 11.639061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 108
+- 11.639061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 108
++ 11.639071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 109
+- 11.639071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 109
++ 11.639077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 110
+- 11.639077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 110
++ 11.639084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 111
+- 11.639084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 111
++ 11.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 112
+- 11.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 112
++ 11.639099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 113
+- 11.639099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 113
+r 11.654019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 101
+r 11.65402 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 102
+r 11.654033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 103
+r 11.654036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 104
+r 11.654045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 105
+r 11.654058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 106
+r 11.65406 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 107
+r 11.654061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 108
+r 11.654072 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 109
+r 11.654078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 110
+r 11.654084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 111
+r 11.654092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 112
+r 11.654099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 3537 24 113
+s -t 11.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 11.700305791 -Hs 9 -Hd -2 -Ni 9 -Nx 101.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 11.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 25 12
+- 11.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 25 12
+r 11.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 25 12
++ 11.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 25
+- 11.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 25
+r 11.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 25
++ 11.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 25
+- 11.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 25
++ 11.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 113
+- 11.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 113
+r 11.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 25
+r 11.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 113
++ 11.779018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 12
+- 11.779018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 12
+r 11.794019 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 12
+s -t 11.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 11.800305782 -Hs 9 -Hd -2 -Ni 9 -Nx 104.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 11.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 11.900305773 -Hs 9 -Hd -2 -Ni 9 -Nx 107.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 11.923187225 -Hs 9 -Hd -2 -Ni 9 -Nx 107.70 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 29b -Md 6 -Ms 7 -Mt 0 
+r -t 11.923394493 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 29b -Md 6 -Ms 7 -Mt 0 
+s -t 11.923404493 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1c7 -Md 7 -Ms 0 -Mt 0 
+r -t 11.923607397 -Hs 9 -Hd -2 -Ni 9 -Nx 107.71 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1c7 -Md 7 -Ms 0 -Mt 0 
+s -t 11.923617397 -Hs 9 -Hd -2 -Ni 9 -Nx 107.71 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 80 -If 0 -Ii 0 -Iv 32 
+r -t 11.923850847 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 32 
+r -t 11.923850847 -Hs 8 -Hd -1 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 32 
+s -t 11.923860847 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 7 -Ms 0 -Mt 0 
+r -t 11.923875847 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl AGT -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 31 
+s -t 11.923875847 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 12582912.252 -Id 12582913.252 -It (null) -Il 20 -If 0 -Ii 1 -Iv 32 
+r -t 11.924063751 -Hs 9 -Hd -2 -Ni 9 -Nx 107.72 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 7 -Ms 0 -Mt 0 
+s -t 11.924513029 -Hs 8 -Hd -1 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 80 -If 0 -Ii 0 -Iv 32 
+r -t 11.924746478 -Hs 9 -Hd -1 -Ni 9 -Nx 107.74 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 32 
+d -t 11.924771478 -Hs 9 -Hd -1 -Ni 9 -Nx 107.74 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl RTR -Nw LOOP -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 32 
+s -t 11.925415756 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 7 -Ms 6 -Mt 0 
+r -t 11.925623024 -Hs 9 -Hd -2 -Ni 9 -Nx 107.77 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 7 -Ms 6 -Mt 0 
+s -t 11.925633024 -Hs 9 -Hd -2 -Ni 9 -Nx 107.77 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 6 -Ms 0 -Mt 0 
+r -t 11.925835928 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 6 -Ms 0 -Mt 0 
+s -t 11.925845928 -Hs 8 -Hd 12582913 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 7 -Ms 6 -Mt 800 -Is 12582912.252 -Id 12582913.252 -It (null) -Il 100 -If 0 -Ii 1 -Iv 32 
+r -t 11.926093923 -Hs 9 -Hd 12582913 -Ni 9 -Nx 107.78 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 7 -Ms 6 -Mt 800 -Is 12582912.252 -Id 12582913.252 -It (null) -Il 40 -If 0 -Ii 1 -Iv 32 
+s -t 11.926103923 -Hs 9 -Hd -2 -Ni 9 -Nx 107.78 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 6 -Ms 0 -Mt 0 
+r -t 11.926306827 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 6 -Ms 0 -Mt 0 
++ 12 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 4001 27
+- 12 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 4001 27
+s -t 12.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 12.000305764 -Hs 9 -Hd -2 -Ni 9 -Nx 110.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 12.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 4001 27
++ 12.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 4001 27
+- 12.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 4001 27
+r 12.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 4001 27
++ 12.019017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 114
+- 12.019017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 114
++ 12.019036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 115
+- 12.019036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 115
++ 12.019054 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 116
+- 12.019054 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 116
++ 12.01906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 117
+- 12.01906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 117
++ 12.01907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 118
+- 12.01907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 118
++ 12.019086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 119
+- 12.019086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 119
++ 12.019095 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 120
+- 12.019095 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 120
++ 12.01911 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 121
+- 12.01911 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 121
++ 12.019112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 122
+- 12.019112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 122
++ 12.019117 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 123
+- 12.019117 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 123
++ 12.019124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 124
+- 12.019124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 124
++ 12.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 125
+- 12.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 125
++ 12.019144 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 126
+- 12.019144 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 126
++ 12.019157 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 127
+- 12.019157 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 127
++ 12.019169 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 128
+- 12.019169 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 128
+r 12.034018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 114
+r 12.034036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 115
+r 12.034054 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 116
+r 12.034061 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 117
+r 12.034071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 118
+r 12.034086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 119
+r 12.034095 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 120
+r 12.034111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 121
+r 12.034112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 122
+r 12.034117 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 123
+r 12.034124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 124
+r 12.034133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 125
+r 12.034145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 126
+r 12.034158 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 127
+r 12.034169 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 4001 27 128
++ 12.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 28 13
+- 12.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 28 13
++ 12.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 28 14
+- 12.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 28 14
+s -t 12.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 12.100305755 -Hs 9 -Hd -2 -Ni 9 -Nx 113.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 12.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 28 13
+r 12.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 28 14
++ 12.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 28
+- 12.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 28
+r 12.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 28
++ 12.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 28
+- 12.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 28
++ 12.11901 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 14
+- 12.11901 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 14
+r 12.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 28
++ 12.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 4537 29
+- 12.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 4537 29
+r 12.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 4537 29
++ 12.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 4537 29
+- 12.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 4537 29
+r 12.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 4537 29
+r 12.13401 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 14
++ 12.139008 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 129
+- 12.139008 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 129
++ 12.13902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 130
+- 12.13902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 130
++ 12.139034 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 131
+- 12.139034 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 131
++ 12.139051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 132
+- 12.139051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 132
++ 12.139059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 133
+- 12.139059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 133
++ 12.139065 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 134
+- 12.139065 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 134
++ 12.139068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 135
+- 12.139068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 135
++ 12.139074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 136
+- 12.139074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 136
++ 12.139086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 137
+- 12.139086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 137
++ 12.139095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 138
+- 12.139095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 138
++ 12.139101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 139
+- 12.139101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 139
++ 12.139108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 140
+- 12.139108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 140
++ 12.13911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 141
+- 12.13911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 141
+r 12.154008 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 129
+r 12.154021 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 130
+r 12.154034 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 131
+r 12.154051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 132
+r 12.15406 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 133
+r 12.154066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 134
+r 12.154069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 135
+r 12.154075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 136
+r 12.154087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 137
+r 12.154096 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 138
+r 12.154101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 139
+r 12.154109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 140
+r 12.154111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 4537 29 141
+s -t 12.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 12.200305747 -Hs 9 -Hd -2 -Ni 9 -Nx 116.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 12.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 30 15
+- 12.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 30 15
+r 12.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 30 15
++ 12.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 30
+- 12.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 30
+r 12.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 30
++ 12.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 30
+- 12.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 30
++ 12.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 141
+- 12.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 141
+r 12.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 30
+r 12.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 141
++ 12.279006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 15
+- 12.279006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 15
+r 12.294007 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 15
+s -t 12.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 12.300305738 -Hs 9 -Hd -2 -Ni 9 -Nx 119.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 12.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 12.400305729 -Hs 9 -Hd -2 -Ni 9 -Nx 122.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 12.427805965 -Hs 9 -Hd -2 -Ni 9 -Nx 122.83 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 29b -Md 6 -Ms 7 -Mt 0 
+r -t 12.428013188 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 29b -Md 6 -Ms 7 -Mt 0 
+s -t 12.428023188 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1c7 -Md 7 -Ms 0 -Mt 0 
+r -t 12.428226048 -Hs 9 -Hd -2 -Ni 9 -Nx 122.85 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1c7 -Md 7 -Ms 0 -Mt 0 
+s -t 12.428236048 -Hs 9 -Hd -2 -Ni 9 -Nx 122.85 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 80 -If 0 -Ii 0 -Iv 32 
+r -t 12.428469454 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 32 
+r -t 12.428469454 -Hs 8 -Hd -1 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 32 
+s -t 12.428479454 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 7 -Ms 0 -Mt 0 
+r -t 12.428494454 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl AGT -Nw --- -Ma d4 -Md 6 -Ms 7 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 31 
+s -t 12.428494454 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl AGT -Nw --- -Ma 0 -Md 0 -Ms 0 -Mt 0 -Is 12582912.252 -Id 12582913.252 -It (null) -Il 20 -If 0 -Ii 1 -Iv 32 
+r -t 12.428682313 -Hs 9 -Hd -2 -Ni 9 -Nx 122.86 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 7 -Ms 0 -Mt 0 
+s -t 12.429091635 -Hs 8 -Hd -1 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 80 -If 0 -Ii 0 -Iv 32 
+r -t 12.429325041 -Hs 9 -Hd -1 -Ni 9 -Nx 122.88 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 32 
+d -t 12.429350041 -Hs 9 -Hd -1 -Ni 9 -Nx 122.88 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl RTR -Nw LOOP -Ma 0 -Md ffffffff -Ms 6 -Mt 800 -Is 12582913.252 -Id -1.252 -It (null) -Il 20 -If 0 -Ii 0 -Iv 32 
+s -t 12.429654363 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 7 -Ms 6 -Mt 0 
+r -t 12.429861586 -Hs 9 -Hd -2 -Ni 9 -Nx 122.90 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 2aa -Md 7 -Ms 6 -Mt 0 
+s -t 12.429871586 -Hs 9 -Hd -2 -Ni 9 -Nx 122.90 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 6 -Ms 0 -Mt 0 
+r -t 12.430074446 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 1d6 -Md 6 -Ms 0 -Mt 0 
+s -t 12.430084446 -Hs 8 -Hd 12582913 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 7 -Ms 6 -Mt 800 -Is 12582912.252 -Id 12582913.252 -It (null) -Il 100 -If 0 -Ii 1 -Iv 32 
+r -t 12.430332396 -Hs 9 -Hd 12582913 -Ni 9 -Nx 122.91 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma d4 -Md 7 -Ms 6 -Mt 800 -Is 12582912.252 -Id 12582913.252 -It (null) -Il 40 -If 0 -Ii 1 -Iv 32 
+s -t 12.430342396 -Hs 9 -Hd -2 -Ni 9 -Nx 122.91 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 6 -Ms 0 -Mt 0 
+r -t 12.430545256 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma 0 -Md 6 -Ms 0 -Mt 0 
++ 12.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 5001 32
+- 12.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 5001 32
+s -t 12.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 12.500305720 -Hs 9 -Hd -2 -Ni 9 -Nx 125.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 12.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 5001 32
++ 12.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 5001 32
+- 12.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 5001 32
+r 12.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 5001 32
++ 12.51901 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 142
+- 12.51901 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 142
++ 12.519013 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 143
+- 12.519013 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 143
++ 12.519031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 144
+- 12.519031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 144
++ 12.519049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 145
+- 12.519049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 145
++ 12.519066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 146
+- 12.519066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 146
++ 12.519075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 147
+- 12.519075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 147
++ 12.519077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 148
+- 12.519077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 148
++ 12.519078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 149
+- 12.519078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 149
++ 12.51909 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 150
+- 12.51909 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 150
++ 12.519104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 151
+- 12.519104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 151
++ 12.519109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 152
+- 12.519109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 152
++ 12.519121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 153
+- 12.519121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 153
++ 12.519137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 154
+- 12.519137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 154
++ 12.519148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 155
+- 12.519148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 155
++ 12.519165 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 156
+- 12.519165 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 156
+r 12.53401 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 142
+r 12.534013 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 143
+r 12.534031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 144
+r 12.534049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 145
+r 12.534067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 146
+r 12.534076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 147
+r 12.534077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 148
+r 12.534079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 149
+r 12.53409 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 150
+r 12.534104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 151
+r 12.53411 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 152
+r 12.534122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 153
+r 12.534138 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 154
+r 12.534149 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 155
+r 12.534165 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 5001 32 156
++ 12.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 33 16
+- 12.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 33 16
++ 12.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 33 17
+- 12.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 33 17
+s -t 12.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 12.600305712 -Hs 9 -Hd -2 -Ni 9 -Nx 128.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 12.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 33 16
+r 12.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 33 17
++ 12.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 33
+- 12.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 33
+r 12.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 33
++ 12.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 33
+- 12.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 33
++ 12.619003 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 17
+- 12.619003 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 17
+r 12.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 33
++ 12.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 5537 34
+- 12.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 5537 34
+r 12.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 5537 34
++ 12.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 5537 34
+- 12.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 5537 34
+r 12.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 5537 34
+r 12.634004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 17
++ 12.639003 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 157
+- 12.639003 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 157
++ 12.639022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 158
+- 12.639022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 158
++ 12.639038 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 159
+- 12.639038 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 159
++ 12.639055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 160
+- 12.639055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 160
++ 12.639069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 161
+- 12.639069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 161
++ 12.63908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 162
+- 12.63908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 162
++ 12.639082 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 163
+- 12.639082 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 163
++ 12.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 164
+- 12.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 164
++ 12.639097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 165
+- 12.639097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 165
++ 12.639105 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 166
+- 12.639105 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 166
++ 12.63911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 167
+- 12.63911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 167
++ 12.639111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 168
+- 12.639111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 168
++ 12.63913 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 169
+- 12.63913 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 169
+r 12.654003 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 157
+r 12.654022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 158
+r 12.654039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 159
+r 12.654055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 160
+r 12.654069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 161
+r 12.65408 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 162
+r 12.654083 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 163
+r 12.654092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 164
+r 12.654097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 165
+r 12.654106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 166
+r 12.654111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 167
+r 12.654112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 168
+r 12.654131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 5537 34 169
+s -t 12.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 12.700305703 -Hs 9 -Hd -2 -Ni 9 -Nx 131.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 12.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 35 18
+- 12.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 35 18
+r 12.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 35 18
++ 12.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 35
+- 12.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 35
+r 12.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 35
++ 12.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 35
+- 12.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 35
++ 12.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 169
+- 12.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 169
+r 12.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 35
+r 12.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 169
++ 12.77902 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 18
+- 12.77902 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 18
+r 12.79402 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 18
+s -t 12.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 12.800305695 -Hs 9 -Hd -2 -Ni 9 -Nx 134.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 12.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 12.900305686 -Hs 9 -Hd -2 -Ni 9 -Nx 137.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 13 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 6001 37
+- 13 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 6001 37
+s -t 13.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 13.000305678 -Hs 9 -Hd -2 -Ni 9 -Nx 140.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 13.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 6001 37
++ 13.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 6001 37
+- 13.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 6001 37
+r 13.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 6001 37
++ 13.019015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 170
+- 13.019015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 170
++ 13.019031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 171
+- 13.019031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 171
++ 13.019038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 172
+- 13.019038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 172
++ 13.019044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 173
+- 13.019044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 173
++ 13.019062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 174
+- 13.019062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 174
++ 13.019063 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 175
+- 13.019063 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 175
++ 13.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 176
+- 13.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 176
++ 13.019094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 177
+- 13.019094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 177
++ 13.019104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 178
+- 13.019104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 178
++ 13.01911 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 179
+- 13.01911 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 179
++ 13.019118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 180
+- 13.019118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 180
++ 13.019124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 181
+- 13.019124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 181
++ 13.019132 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 182
+- 13.019132 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 182
++ 13.019136 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 183
+- 13.019136 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 183
++ 13.019136 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 184
+- 13.019137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 184
+r 13.034015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 170
+r 13.034032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 171
+r 13.034038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 172
+r 13.034045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 173
+r 13.034062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 174
+r 13.034063 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 175
+r 13.034078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 176
+r 13.034094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 177
+r 13.034105 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 178
+r 13.03411 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 179
+r 13.034118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 180
+r 13.034124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 181
+r 13.034133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 182
+r 13.034137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 183
+r 13.034137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 6001 37 184
++ 13.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 38 19
+- 13.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 38 19
++ 13.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 38 20
+- 13.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 38 20
+s -t 13.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 13.100305669 -Hs 9 -Hd -2 -Ni 9 -Nx 143.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 13.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 38 19
+r 13.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 38 20
++ 13.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 38
+- 13.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 38
+r 13.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 38
++ 13.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 38
+- 13.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 38
++ 13.119008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 20
+- 13.119008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 20
+r 13.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 38
++ 13.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 6537 39
+- 13.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 6537 39
+r 13.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 6537 39
++ 13.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 6537 39
+- 13.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 6537 39
+r 13.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 6537 39
+r 13.134008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 20
++ 13.139018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 185
+- 13.139018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 185
++ 13.139033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 186
+- 13.139033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 186
++ 13.139039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 187
+- 13.139039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 187
++ 13.139056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 188
+- 13.139056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 188
++ 13.139068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 189
+- 13.139068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 189
++ 13.139076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 190
+- 13.139076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 190
++ 13.139079 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 191
+- 13.139079 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 191
++ 13.139099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 192
+- 13.139099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 192
++ 13.139108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 193
+- 13.139108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 193
++ 13.139124 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 194
+- 13.139124 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 194
++ 13.139135 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 195
+- 13.139135 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 195
++ 13.139155 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 196
+- 13.139155 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 196
++ 13.139158 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 197
+- 13.139158 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 197
+r 13.154019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 185
+r 13.154034 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 186
+r 13.15404 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 187
+r 13.154057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 188
+r 13.154068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 189
+r 13.154076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 190
+r 13.15408 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 191
+r 13.1541 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 192
+r 13.154109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 193
+r 13.154125 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 194
+r 13.154136 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 195
+r 13.154156 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 196
+r 13.154159 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 6537 39 197
+s -t 13.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 13.200305661 -Hs 9 -Hd -2 -Ni 9 -Nx 146.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 13.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 40 21
+- 13.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 40 21
+r 13.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 40 21
++ 13.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 40
+- 13.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 40
+r 13.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 40
++ 13.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 40
+- 13.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 40
++ 13.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 197
+- 13.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 197
+r 13.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 40
+r 13.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 197
++ 13.279004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 21
+- 13.279004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 21
+r 13.294004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 21
+s -t 13.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 13.300305652 -Hs 9 -Hd -2 -Ni 9 -Nx 149.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 13.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 13.400305644 -Hs 9 -Hd -2 -Ni 9 -Nx 152.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 13.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 7001 41
+- 13.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 7001 41
+s -t 13.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 13.500305636 -Hs 9 -Hd -2 -Ni 9 -Nx 155.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 13.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 7001 41
++ 13.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 7001 41
+- 13.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 7001 41
+r 13.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 7001 41
++ 13.519015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 198
+- 13.519015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 198
++ 13.519032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 199
+- 13.519032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 199
++ 13.519041 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 200
+- 13.519041 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 200
++ 13.519057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 201
+- 13.519057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 201
++ 13.519074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 202
+- 13.519074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 202
++ 13.519084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 203
+- 13.519084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 203
++ 13.519102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 204
+- 13.519102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 204
++ 13.519108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 205
+- 13.519108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 205
++ 13.519108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 206
+- 13.519108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 206
++ 13.519121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 207
+- 13.519121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 207
++ 13.519123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 208
+- 13.519123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 208
++ 13.519124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 209
+- 13.519124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 209
++ 13.51913 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 210
+- 13.51913 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 210
++ 13.519146 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 211
+- 13.519146 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 211
++ 13.519165 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 212
+- 13.519165 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 212
+r 13.534016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 198
+r 13.534033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 199
+r 13.534042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 200
+r 13.534057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 201
+r 13.534075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 202
+r 13.534085 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 203
+r 13.534103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 204
+r 13.534108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 205
+r 13.534109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 206
+r 13.534121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 207
+r 13.534123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 208
+r 13.534125 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 209
+r 13.534131 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 210
+r 13.534146 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 211
+r 13.534165 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 7001 41 212
++ 13.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 42 22
+- 13.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 42 22
++ 13.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 42 23
+- 13.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 42 23
+s -t 13.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 13.600305628 -Hs 9 -Hd -2 -Ni 9 -Nx 158.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 13.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 42 22
+r 13.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 42 23
++ 13.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 42
+- 13.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 42
+r 13.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 42
++ 13.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 42
+- 13.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 42
++ 13.619018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 23
+- 13.619018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 23
+r 13.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 42
++ 13.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 7537 43
+- 13.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 7537 43
+r 13.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 7537 43
++ 13.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 7537 43
+- 13.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 7537 43
+r 13.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 7537 43
+r 13.634019 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 23
++ 13.639012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 213
+- 13.639012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 213
++ 13.639019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 214
+- 13.639019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 214
++ 13.639037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 215
+- 13.639037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 215
++ 13.639053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 216
+- 13.639053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 216
++ 13.639071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 217
+- 13.639071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 217
++ 13.639075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 218
+- 13.639075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 218
++ 13.63908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 219
+- 13.63908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 219
++ 13.639081 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 220
+- 13.639081 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 220
++ 13.639085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 221
+- 13.639085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 221
++ 13.639095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 222
+- 13.639095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 222
++ 13.639104 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 223
+- 13.639104 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 223
++ 13.639116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 224
+- 13.639116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 224
++ 13.639132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 225
+- 13.639132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 225
+r 13.654012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 213
+r 13.654019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 214
+r 13.654037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 215
+r 13.654054 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 216
+r 13.654071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 217
+r 13.654075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 218
+r 13.654081 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 219
+r 13.654082 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 220
+r 13.654085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 221
+r 13.654096 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 222
+r 13.654104 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 223
+r 13.654116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 224
+r 13.654132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 7537 43 225
+s -t 13.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 13.700305619 -Hs 9 -Hd -2 -Ni 9 -Nx 161.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 13.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 44 24
+- 13.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 44 24
+r 13.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 44 24
++ 13.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 44
+- 13.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 44
+r 13.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 44
++ 13.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 44
+- 13.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 44
++ 13.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 225
+- 13.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 225
+r 13.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 44
+r 13.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 225
++ 13.779016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 24
+- 13.779016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 24
+r 13.794017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 24
+s -t 13.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 13.800305611 -Hs 9 -Hd -2 -Ni 9 -Nx 164.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 13.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 13.900305603 -Hs 9 -Hd -2 -Ni 9 -Nx 167.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 14 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 8001 45
+- 14 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 8001 45
+s -t 14.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 14.000305595 -Hs 9 -Hd -2 -Ni 9 -Nx 170.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 14.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 8001 45
++ 14.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 8001 45
+- 14.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 8001 45
+r 14.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 8001 45
++ 14.019017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 226
+- 14.019017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 226
++ 14.019029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 227
+- 14.019029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 227
++ 14.019045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 228
+- 14.019045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 228
++ 14.019061 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 229
+- 14.019061 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 229
++ 14.019062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 230
+- 14.019062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 230
++ 14.019065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 231
+- 14.019065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 231
++ 14.019076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 232
+- 14.019076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 232
++ 14.019085 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 233
+- 14.019085 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 233
++ 14.019094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 234
+- 14.019094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 234
++ 14.019112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 235
+- 14.019112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 235
++ 14.019121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 236
+- 14.019121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 236
++ 14.019138 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 237
+- 14.019138 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 237
++ 14.01915 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 238
+- 14.01915 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 238
++ 14.019154 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 239
+- 14.019154 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 239
++ 14.01916 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 240
+- 14.01916 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 240
+r 14.034017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 226
+r 14.034029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 227
+r 14.034045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 228
+r 14.034061 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 229
+r 14.034062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 230
+r 14.034065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 231
+r 14.034077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 232
+r 14.034086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 233
+r 14.034095 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 234
+r 14.034113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 235
+r 14.034121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 236
+r 14.034139 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 237
+r 14.034151 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 238
+r 14.034154 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 239
+r 14.03416 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 8001 45 240
++ 14.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 46 25
+- 14.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 46 25
++ 14.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 46 26
+- 14.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 46 26
+s -t 14.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 14.100305587 -Hs 9 -Hd -2 -Ni 9 -Nx 173.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 14.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 46 25
+r 14.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 46 26
++ 14.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 46
+- 14.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 46
+r 14.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 46
++ 14.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 46
+- 14.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 46
++ 14.11901 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 26
+- 14.11901 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 26
+r 14.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 46
++ 14.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 8537 47
+- 14.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 8537 47
+r 14.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 8537 47
++ 14.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 8537 47
+- 14.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 8537 47
+r 14.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 8537 47
+r 14.13401 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 26
++ 14.139001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 241
+- 14.139001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 241
++ 14.139018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 242
+- 14.139018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 242
++ 14.139023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 243
+- 14.139023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 243
++ 14.13903 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 244
+- 14.13903 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 244
++ 14.139046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 245
+- 14.139046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 245
++ 14.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 246
+- 14.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 246
++ 14.139076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 247
+- 14.139076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 247
++ 14.139087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 248
+- 14.139087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 248
++ 14.139099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 249
+- 14.139099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 249
++ 14.13911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 250
+- 14.13911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 250
++ 14.13911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 251
+- 14.139111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 251
++ 14.139121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 252
+- 14.139121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 252
++ 14.139123 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 253
+- 14.139123 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 253
+r 14.154001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 241
+r 14.154019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 242
+r 14.154023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 243
+r 14.15403 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 244
+r 14.154047 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 245
+r 14.154059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 246
+r 14.154077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 247
+r 14.154087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 248
+r 14.154099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 249
+r 14.154111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 250
+r 14.154111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 251
+r 14.154122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 252
+r 14.154123 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 8537 47 253
+s -t 14.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 14.200305580 -Hs 9 -Hd -2 -Ni 9 -Nx 176.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 14.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 48 27
+- 14.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 48 27
+r 14.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 48 27
++ 14.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 48
+- 14.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 48
+r 14.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 48
++ 14.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 48
+- 14.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 48
++ 14.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 253
+- 14.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 253
+r 14.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 48
+r 14.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 253
++ 14.279019 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 27
+- 14.279019 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 27
+r 14.29402 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 27
+s -t 14.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 14.300305572 -Hs 9 -Hd -2 -Ni 9 -Nx 179.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 14.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 14.400305564 -Hs 9 -Hd -2 -Ni 9 -Nx 182.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 14.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 9001 49
+- 14.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 9001 49
+s -t 14.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 14.500305557 -Hs 9 -Hd -2 -Ni 9 -Nx 185.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 14.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 9001 49
++ 14.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 9001 49
+- 14.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 9001 49
+r 14.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 9001 49
++ 14.519015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 254
+- 14.519015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 254
++ 14.519019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 255
+- 14.519019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 255
++ 14.519022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 256
+- 14.519022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 256
++ 14.519038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 257
+- 14.519038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 257
++ 14.519058 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 258
+- 14.519058 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 258
++ 14.519075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 259
+- 14.519075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 259
++ 14.519089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 260
+- 14.519089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 260
++ 14.519103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 261
+- 14.519103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 261
++ 14.519109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 262
+- 14.519109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 262
++ 14.519119 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 263
+- 14.519119 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 263
++ 14.519137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 264
+- 14.519137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 264
++ 14.519142 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 265
+- 14.519142 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 265
++ 14.519144 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 266
+- 14.519144 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 266
++ 14.519146 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 267
+- 14.519146 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 267
++ 14.519159 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 268
+- 14.519159 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 268
+r 14.534015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 254
+r 14.534019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 255
+r 14.534022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 256
+r 14.534038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 257
+r 14.534058 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 258
+r 14.534075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 259
+r 14.534089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 260
+r 14.534104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 261
+r 14.53411 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 262
+r 14.534119 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 263
+r 14.534138 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 264
+r 14.534142 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 265
+r 14.534144 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 266
+r 14.534146 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 267
+r 14.53416 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 9001 49 268
++ 14.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 50 28
+- 14.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 50 28
++ 14.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 50 29
+- 14.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 50 29
+s -t 14.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 14.600305549 -Hs 9 -Hd -2 -Ni 9 -Nx 188.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 14.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 50 28
+r 14.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 50 29
++ 14.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 50
+- 14.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 50
+r 14.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 50
++ 14.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 50
+- 14.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 50
++ 14.619011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 29
+- 14.619011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 29
+r 14.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 50
++ 14.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 9537 51
+- 14.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 9537 51
+r 14.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 9537 51
++ 14.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 9537 51
+- 14.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 9537 51
+r 14.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 9537 51
+r 14.634012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 29
++ 14.639018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 269
+- 14.639018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 269
++ 14.639023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 270
+- 14.639023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 270
++ 14.639031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 271
+- 14.639031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 271
++ 14.639039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 272
+- 14.639039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 272
++ 14.639052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 273
+- 14.639052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 273
++ 14.639066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 274
+- 14.639066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 274
++ 14.639069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 275
+- 14.639069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 275
++ 14.639087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 276
+- 14.639087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 276
++ 14.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 277
+- 14.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 277
++ 14.639097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 278
+- 14.639097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 278
++ 14.639113 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 279
+- 14.639113 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 279
++ 14.639122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 280
+- 14.639122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 280
++ 14.639127 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 281
+- 14.639127 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 281
+r 14.654019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 269
+r 14.654024 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 270
+r 14.654032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 271
+r 14.654039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 272
+r 14.654053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 273
+r 14.654066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 274
+r 14.65407 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 275
+r 14.654087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 276
+r 14.654092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 277
+r 14.654097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 278
+r 14.654114 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 279
+r 14.654123 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 280
+r 14.654128 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 9537 51 281
+s -t 14.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 14.700305542 -Hs 9 -Hd -2 -Ni 9 -Nx 191.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 14.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 52 30
+- 14.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 52 30
+r 14.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 52 30
++ 14.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 52
+- 14.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 52
+r 14.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 52
++ 14.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 52
+- 14.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 52
++ 14.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 281
+- 14.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 281
+r 14.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 52
+r 14.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 281
++ 14.779015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 30
+- 14.779015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 30
+r 14.794016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 30
+s -t 14.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 14.800305534 -Hs 9 -Hd -2 -Ni 9 -Nx 194.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 14.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 14.900305527 -Hs 9 -Hd -2 -Ni 9 -Nx 197.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 15 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 10001 53
+- 15 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 10001 53
+s -t 15.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 15.000305520 -Hs 9 -Hd -2 -Ni 9 -Nx 200.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 15.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 10001 53
++ 15.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 10001 53
+- 15.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 10001 53
+r 15.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 10001 53
++ 15.019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 282
+- 15.019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 282
++ 15.019016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 283
+- 15.019016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 283
++ 15.019036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 284
+- 15.019036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 284
++ 15.01905 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 285
+- 15.01905 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 285
++ 15.01906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 286
+- 15.01906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 286
++ 15.01907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 287
+- 15.01907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 287
++ 15.019076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 288
+- 15.019076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 288
++ 15.019085 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 289
+- 15.019085 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 289
++ 15.019096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 290
+- 15.019096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 290
++ 15.019106 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 291
+- 15.019106 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 291
++ 15.019118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 292
+- 15.019118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 292
++ 15.019126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 293
+- 15.019126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 293
++ 15.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 294
+- 15.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 294
++ 15.019145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 295
+- 15.019145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 295
++ 15.019159 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 296
+- 15.019159 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 296
+r 15.034001 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 282
+r 15.034017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 283
+r 15.034036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 284
+r 15.03405 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 285
+r 15.034061 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 286
+r 15.034071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 287
+r 15.034076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 288
+r 15.034086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 289
+r 15.034096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 290
+r 15.034107 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 291
+r 15.034118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 292
+r 15.034127 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 293
+r 15.034133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 294
+r 15.034146 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 295
+r 15.03416 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 10001 53 296
++ 15.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 54 31
+- 15.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 54 31
++ 15.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 54 32
+- 15.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 54 32
+s -t 15.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 15.100305513 -Hs 9 -Hd -2 -Ni 9 -Nx 203.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 15.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 54 31
+r 15.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 54 32
++ 15.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 54
+- 15.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 54
+r 15.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 54
++ 15.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 54
+- 15.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 54
++ 15.119005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 32
+- 15.119005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 32
+r 15.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 54
++ 15.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 10537 55
+- 15.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 10537 55
+r 15.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 10537 55
++ 15.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 10537 55
+- 15.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 10537 55
+r 15.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 10537 55
+r 15.134005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 32
++ 15.139013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 297
+- 15.139013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 297
++ 15.139018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 298
+- 15.139018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 298
++ 15.139026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 299
+- 15.139026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 299
++ 15.139035 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 300
+- 15.139035 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 300
++ 15.139043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 301
+- 15.139043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 301
++ 15.139059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 302
+- 15.139059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 302
++ 15.139074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 303
+- 15.139074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 303
++ 15.139088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 304
+- 15.139088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 304
++ 15.139099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 305
+- 15.139099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 305
++ 15.139107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 306
+- 15.139107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 306
++ 15.139119 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 307
+- 15.139119 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 307
++ 15.139133 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 308
+- 15.139133 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 308
++ 15.139136 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 309
+- 15.139136 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 309
+r 15.154014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 297
+r 15.154018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 298
+r 15.154026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 299
+r 15.154036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 300
+r 15.154043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 301
+r 15.154059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 302
+r 15.154074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 303
+r 15.154089 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 304
+r 15.1541 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 305
+r 15.154107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 306
+r 15.15412 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 307
+r 15.154134 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 308
+r 15.154137 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 10537 55 309
+s -t 15.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 15.200305506 -Hs 9 -Hd -2 -Ni 9 -Nx 206.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 15.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 56 33
+- 15.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 56 33
+r 15.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 56 33
++ 15.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 56
+- 15.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 56
+r 15.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 56
++ 15.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 56
+- 15.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 56
++ 15.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 309
+- 15.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 309
+r 15.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 56
+r 15.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 309
++ 15.279011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 33
+- 15.279011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 33
+r 15.294012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 33
+s -t 15.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 15.300305499 -Hs 9 -Hd -2 -Ni 9 -Nx 209.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 15.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 15.400305493 -Hs 9 -Hd -2 -Ni 9 -Nx 212.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 15.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 11001 58
+- 15.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 11001 58
+s -t 15.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 15.500305486 -Hs 9 -Hd -2 -Ni 9 -Nx 215.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 15.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 11001 58
++ 15.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 11001 58
+- 15.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 11001 58
+r 15.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 11001 58
++ 15.519019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 310
+- 15.519019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 310
++ 15.519024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 311
+- 15.519024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 311
++ 15.519029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 312
+- 15.519029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 312
++ 15.519043 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 313
+- 15.519043 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 313
++ 15.519063 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 314
+- 15.519063 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 314
++ 15.519064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 315
+- 15.519064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 315
++ 15.519068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 316
+- 15.519068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 316
++ 15.519079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 317
+- 15.519079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 317
++ 15.519098 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 318
+- 15.519098 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 318
++ 15.519111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 319
+- 15.519111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 319
++ 15.519126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 320
+- 15.519126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 320
++ 15.519137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 321
+- 15.519137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 321
++ 15.519148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 322
+- 15.519148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 322
++ 15.519156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 323
+- 15.519156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 323
++ 15.51916 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 324
+- 15.51916 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 324
+r 15.53402 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 310
+r 15.534025 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 311
+r 15.534029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 312
+r 15.534044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 313
+r 15.534064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 314
+r 15.534065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 315
+r 15.534068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 316
+r 15.53408 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 317
+r 15.534099 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 318
+r 15.534111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 319
+r 15.534126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 320
+r 15.534137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 321
+r 15.534148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 322
+r 15.534156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 323
+r 15.534161 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 11001 58 324
++ 15.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 59 34
+- 15.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 59 34
++ 15.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 59 35
+- 15.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 59 35
+s -t 15.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 15.600305480 -Hs 9 -Hd -2 -Ni 9 -Nx 218.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 15.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 59 34
+r 15.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 59 35
++ 15.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 59
+- 15.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 59
+r 15.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 59
++ 15.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 59
+- 15.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 59
++ 15.619004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 35
+- 15.619004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 35
+r 15.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 59
++ 15.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 11537 60
+- 15.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 11537 60
+r 15.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 11537 60
++ 15.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 11537 60
+- 15.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 11537 60
+r 15.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 11537 60
+r 15.634004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 35
++ 15.639017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 325
+- 15.639017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 325
++ 15.639036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 326
+- 15.639036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 326
++ 15.639048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 327
+- 15.639048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 327
++ 15.639066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 328
+- 15.639066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 328
++ 15.639078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 329
+- 15.639078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 329
++ 15.639086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 330
+- 15.639086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 330
++ 15.639095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 331
+- 15.639095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 331
++ 15.639112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 332
+- 15.639112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 332
++ 15.639125 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 333
+- 15.639125 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 333
++ 15.639136 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 334
+- 15.639136 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 334
++ 15.639147 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 335
+- 15.639147 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 335
++ 15.639152 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 336
+- 15.639152 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 336
++ 15.639171 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 337
+- 15.639171 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 337
+r 15.654017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 325
+r 15.654037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 326
+r 15.654048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 327
+r 15.654066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 328
+r 15.654078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 329
+r 15.654086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 330
+r 15.654096 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 331
+r 15.654113 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 332
+r 15.654125 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 333
+r 15.654137 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 334
+r 15.654147 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 335
+r 15.654153 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 336
+r 15.654172 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 11537 60 337
+s -t 15.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 15.700305473 -Hs 9 -Hd -2 -Ni 9 -Nx 221.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 15.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 61 36
+- 15.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 61 36
+r 15.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 61 36
++ 15.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 61
+- 15.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 61
+r 15.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 61
++ 15.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 61
+- 15.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 61
++ 15.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 337
+- 15.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 337
+r 15.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 61
+r 15.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 337
++ 15.779015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 36
+- 15.779015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 36
+r 15.794016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 36
+s -t 15.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 15.800305467 -Hs 9 -Hd -2 -Ni 9 -Nx 224.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 15.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 15.900305461 -Hs 9 -Hd -2 -Ni 9 -Nx 227.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 16 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 12001 62
+- 16 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 12001 62
+s -t 16.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 16.000305456 -Hs 9 -Hd -2 -Ni 9 -Nx 230.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 16.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 12001 62
++ 16.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 12001 62
+- 16.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 12001 62
+r 16.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 12001 62
++ 16.019018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 338
+- 16.019018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 338
++ 16.019038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 339
+- 16.019038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 339
++ 16.019043 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 340
+- 16.019043 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 340
++ 16.01905 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 341
+- 16.01905 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 341
++ 16.019055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 342
+- 16.019055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 342
++ 16.019068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 343
+- 16.019068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 343
++ 16.01907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 344
+- 16.01907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 344
++ 16.019087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 345
+- 16.019087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 345
++ 16.019104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 346
+- 16.019104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 346
++ 16.019121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 347
+- 16.019121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 347
++ 16.019121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 348
+- 16.019121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 348
++ 16.019135 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 349
+- 16.019135 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 349
++ 16.019148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 350
+- 16.019148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 350
++ 16.019156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 351
+- 16.019156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 351
++ 16.019176 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 352
+- 16.019176 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 352
+r 16.034019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 338
+r 16.034038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 339
+r 16.034043 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 340
+r 16.034051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 341
+r 16.034056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 342
+r 16.034068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 343
+r 16.034071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 344
+r 16.034088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 345
+r 16.034105 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 346
+r 16.034121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 347
+r 16.034122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 348
+r 16.034135 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 349
+r 16.034149 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 350
+r 16.034156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 351
+r 16.034176 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 12001 62 352
++ 16.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 63 37
+- 16.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 63 37
++ 16.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 63 38
+- 16.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 63 38
+s -t 16.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 16.100305450 -Hs 9 -Hd -2 -Ni 9 -Nx 233.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 16.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 63 37
+r 16.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 63 38
++ 16.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 63
+- 16.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 63
+r 16.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 63
++ 16.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 63
+- 16.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 63
++ 16.119005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 38
+- 16.119005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 38
+r 16.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 63
++ 16.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 12537 64
+- 16.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 12537 64
+r 16.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 12537 64
++ 16.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 12537 64
+- 16.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 12537 64
+r 16.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 12537 64
+r 16.134006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 38
++ 16.139008 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 353
+- 16.139008 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 353
++ 16.139023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 354
+- 16.139023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 354
++ 16.139029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 355
+- 16.139029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 355
++ 16.139029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 356
+- 16.139029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 356
++ 16.139032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 357
+- 16.139032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 357
++ 16.13904 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 358
+- 16.13904 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 358
++ 16.139056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 359
+- 16.139056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 359
++ 16.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 360
+- 16.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 360
++ 16.139075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 361
+- 16.139075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 361
++ 16.13909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 362
+- 16.13909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 362
++ 16.139109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 363
+- 16.139109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 363
++ 16.139116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 364
+- 16.139116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 364
++ 16.139122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 365
+- 16.139122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 365
+r 16.154008 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 353
+r 16.154023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 354
+r 16.154029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 355
+r 16.15403 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 356
+r 16.154032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 357
+r 16.15404 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 358
+r 16.154057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 359
+r 16.154058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 360
+r 16.154076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 361
+r 16.154091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 362
+r 16.15411 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 363
+r 16.154117 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 364
+r 16.154123 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 12537 64 365
+s -t 16.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 16.200305444 -Hs 9 -Hd -2 -Ni 9 -Nx 236.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 16.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 65 39
+- 16.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 65 39
+r 16.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 65 39
++ 16.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 65
+- 16.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 65
+r 16.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 65
++ 16.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 65
+- 16.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 65
++ 16.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 365
+- 16.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 365
+r 16.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 65
+r 16.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 365
++ 16.279006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 39
+- 16.279006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 39
+r 16.294006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 39
+s -t 16.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 16.300305439 -Hs 9 -Hd -2 -Ni 9 -Nx 239.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 16.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 16.400305434 -Hs 9 -Hd -2 -Ni 9 -Nx 242.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 16.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 13001 66
+- 16.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 13001 66
+s -t 16.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 16.500305429 -Hs 9 -Hd -2 -Ni 9 -Nx 245.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 16.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 13001 66
++ 16.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 13001 66
+- 16.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 13001 66
+r 16.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 13001 66
++ 16.519014 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 366
+- 16.519014 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 366
++ 16.519022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 367
+- 16.519022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 367
++ 16.519031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 368
+- 16.519031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 368
++ 16.51905 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 369
+- 16.51905 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 369
++ 16.519067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 370
+- 16.519067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 370
++ 16.519071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 371
+- 16.519071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 371
++ 16.519077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 372
+- 16.519077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 372
++ 16.519081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 373
+- 16.519081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 373
++ 16.519082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 374
+- 16.519082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 374
++ 16.519101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 375
+- 16.519101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 375
++ 16.519113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 376
+- 16.519113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 376
++ 16.519131 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 377
+- 16.519131 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 377
++ 16.51915 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 378
+- 16.51915 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 378
++ 16.519165 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 379
+- 16.519165 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 379
++ 16.519181 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 380
+- 16.519181 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 380
+r 16.534014 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 366
+r 16.534022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 367
+r 16.534032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 368
+r 16.534051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 369
+r 16.534067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 370
+r 16.534072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 371
+r 16.534078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 372
+r 16.534081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 373
+r 16.534082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 374
+r 16.534101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 375
+r 16.534113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 376
+r 16.534132 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 377
+r 16.53415 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 378
+r 16.534166 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 379
+r 16.534181 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 13001 66 380
++ 16.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 67 40
+- 16.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 67 40
++ 16.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 67 41
+- 16.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 67 41
+s -t 16.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 16.600305424 -Hs 9 -Hd -2 -Ni 9 -Nx 248.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 16.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 67 40
+r 16.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 67 41
++ 16.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 67
+- 16.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 67
+r 16.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 67
++ 16.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 67
+- 16.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 67
++ 16.619004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 41
+- 16.619004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 41
+r 16.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 67
++ 16.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 13537 68
+- 16.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 13537 68
+r 16.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 13537 68
++ 16.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 13537 68
+- 16.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 13537 68
+r 16.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 13537 68
+r 16.634005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 41
++ 16.639015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 381
+- 16.639015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 381
++ 16.639019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 382
+- 16.639019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 382
++ 16.639038 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 383
+- 16.639038 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 383
++ 16.639039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 384
+- 16.639039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 384
++ 16.639053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 385
+- 16.639053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 385
++ 16.639054 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 386
+- 16.639054 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 386
++ 16.639073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 387
+- 16.639073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 387
++ 16.639081 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 388
+- 16.639081 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 388
++ 16.639087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 389
+- 16.639087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 389
++ 16.639087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 390
+- 16.639087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 390
++ 16.639096 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 391
+- 16.639096 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 391
++ 16.639099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 392
+- 16.639099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 392
++ 16.639105 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 393
+- 16.639105 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 393
+r 16.654015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 381
+r 16.654019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 382
+r 16.654039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 383
+r 16.65404 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 384
+r 16.654053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 385
+r 16.654055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 386
+r 16.654074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 387
+r 16.654082 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 388
+r 16.654087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 389
+r 16.654088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 390
+r 16.654096 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 391
+r 16.6541 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 392
+r 16.654106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 13537 68 393
+s -t 16.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 16.700305420 -Hs 9 -Hd -2 -Ni 9 -Nx 251.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 16.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 69 42
+- 16.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 69 42
+r 16.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 69 42
++ 16.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 69
+- 16.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 69
+r 16.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 69
++ 16.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 69
+- 16.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 69
++ 16.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 393
+- 16.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 393
+r 16.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 69
+r 16.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 393
++ 16.779011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 42
+- 16.779011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 42
+r 16.794012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 42
+s -t 16.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 16.800305416 -Hs 9 -Hd -2 -Ni 9 -Nx 254.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 16.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 16.900305411 -Hs 9 -Hd -2 -Ni 9 -Nx 257.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 17 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 14001 70
+- 17 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 14001 70
+s -t 17.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 17.000305408 -Hs 9 -Hd -2 -Ni 9 -Nx 260.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 17.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 14001 70
++ 17.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 14001 70
+- 17.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 14001 70
+r 17.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 14001 70
++ 17.019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 394
+- 17.019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 394
++ 17.019012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 395
+- 17.019012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 395
++ 17.019027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 396
+- 17.019027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 396
++ 17.019044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 397
+- 17.019044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 397
++ 17.019055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 398
+- 17.019055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 398
++ 17.019066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 399
+- 17.019066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 399
++ 17.019079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 400
+- 17.019079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 400
++ 17.019084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 401
+- 17.019084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 401
++ 17.019087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 402
+- 17.019087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 402
++ 17.019103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 403
+- 17.019103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 403
++ 17.019106 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 404
+- 17.019106 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 404
++ 17.019112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 405
+- 17.019112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 405
++ 17.019125 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 406
+- 17.019125 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 406
++ 17.019138 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 407
+- 17.019138 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 407
++ 17.019154 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 408
+- 17.019154 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 408
+r 17.034001 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 394
+r 17.034013 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 395
+r 17.034027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 396
+r 17.034045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 397
+r 17.034055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 398
+r 17.034066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 399
+r 17.03408 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 400
+r 17.034084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 401
+r 17.034087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 402
+r 17.034103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 403
+r 17.034107 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 404
+r 17.034113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 405
+r 17.034126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 406
+r 17.034139 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 407
+r 17.034154 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 14001 70 408
++ 17.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 71 43
+- 17.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 71 43
++ 17.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 71 44
+- 17.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 71 44
+s -t 17.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 17.100305404 -Hs 9 -Hd -2 -Ni 9 -Nx 263.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 17.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 71 43
+r 17.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 71 44
++ 17.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 71
+- 17.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 71
+r 17.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 71
++ 17.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 71
+- 17.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 71
++ 17.119017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 44
+- 17.119017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 44
+r 17.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 71
++ 17.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 14537 72
+- 17.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 14537 72
+r 17.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 14537 72
++ 17.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 14537 72
+- 17.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 14537 72
+r 17.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 14537 72
+r 17.134018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 44
++ 17.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 409
+- 17.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 409
++ 17.13903 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 410
+- 17.13903 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 410
++ 17.13904 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 411
+- 17.13904 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 411
++ 17.139046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 412
+- 17.139046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 412
++ 17.139062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 413
+- 17.139062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 413
++ 17.139073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 414
+- 17.139073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 414
++ 17.139092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 415
+- 17.139092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 415
++ 17.139098 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 416
+- 17.139098 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 416
++ 17.13911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 417
+- 17.13911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 417
++ 17.139128 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 418
+- 17.139128 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 418
++ 17.139132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 419
+- 17.139132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 419
++ 17.139132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 420
+- 17.139132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 420
++ 17.13914 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 421
+- 17.13914 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 421
+r 17.154017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 409
+r 17.154031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 410
+r 17.154041 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 411
+r 17.154047 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 412
+r 17.154062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 413
+r 17.154074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 414
+r 17.154093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 415
+r 17.154098 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 416
+r 17.154111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 417
+r 17.154128 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 418
+r 17.154132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 419
+r 17.154133 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 420
+r 17.15414 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 14537 72 421
+s -t 17.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 17.200305401 -Hs 9 -Hd -2 -Ni 9 -Nx 266.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 17.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 73 45
+- 17.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 73 45
+r 17.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 73 45
++ 17.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 73
+- 17.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 73
+r 17.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 73
++ 17.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 73
+- 17.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 73
++ 17.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 421
+- 17.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 421
+r 17.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 73
+r 17.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 421
++ 17.279001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 45
+- 17.279001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 45
+r 17.294001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 45
+s -t 17.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 17.300305398 -Hs 9 -Hd -2 -Ni 9 -Nx 269.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 17.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 17.400305395 -Hs 9 -Hd -2 -Ni 9 -Nx 272.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 17.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 15001 74
+- 17.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 15001 74
+s -t 17.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 17.500305392 -Hs 9 -Hd -2 -Ni 9 -Nx 275.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 17.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 15001 74
++ 17.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 15001 74
+- 17.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 15001 74
+r 17.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 15001 74
++ 17.519011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 422
+- 17.519011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 422
++ 17.519028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 423
+- 17.519028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 423
++ 17.519033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 424
+- 17.519033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 424
++ 17.519046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 425
+- 17.519046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 425
++ 17.519054 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 426
+- 17.519054 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 426
++ 17.519068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 427
+- 17.519068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 427
++ 17.519074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 428
+- 17.519074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 428
++ 17.519081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 429
+- 17.519081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 429
++ 17.519098 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 430
+- 17.519098 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 430
++ 17.519103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 431
+- 17.519103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 431
++ 17.519109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 432
+- 17.519109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 432
++ 17.519126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 433
+- 17.519126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 433
++ 17.519135 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 434
+- 17.519135 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 434
++ 17.519153 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 435
+- 17.519153 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 435
++ 17.519156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 436
+- 17.519156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 436
+r 17.534012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 422
+r 17.534029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 423
+r 17.534033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 424
+r 17.534046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 425
+r 17.534054 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 426
+r 17.534068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 427
+r 17.534074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 428
+r 17.534081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 429
+r 17.534099 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 430
+r 17.534103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 431
+r 17.534109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 432
+r 17.534126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 433
+r 17.534135 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 434
+r 17.534153 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 435
+r 17.534157 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 15001 74 436
++ 17.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 75 46
+- 17.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 75 46
++ 17.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 75 47
+- 17.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 75 47
+s -t 17.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 17.600305390 -Hs 9 -Hd -2 -Ni 9 -Nx 278.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 17.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 75 46
+r 17.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 75 47
++ 17.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 75
+- 17.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 75
+r 17.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 75
++ 17.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 75
+- 17.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 75
++ 17.619003 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 47
+- 17.619003 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 47
+r 17.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 75
++ 17.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 15537 76
+- 17.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 15537 76
+r 17.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 15537 76
++ 17.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 15537 76
+- 17.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 15537 76
+r 17.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 15537 76
+r 17.634004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 47
++ 17.639002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 437
+- 17.639002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 437
++ 17.639021 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 438
+- 17.639021 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 438
++ 17.639022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 439
+- 17.639022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 439
++ 17.639025 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 440
+- 17.639025 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 440
++ 17.639027 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 441
+- 17.639027 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 441
++ 17.639044 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 442
+- 17.639044 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 442
++ 17.639061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 443
+- 17.639061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 443
++ 17.639069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 444
+- 17.639069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 444
++ 17.63907 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 445
+- 17.63907 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 445
++ 17.639077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 446
+- 17.639077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 446
++ 17.639079 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 447
+- 17.639079 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 447
++ 17.639095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 448
+- 17.639095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 448
++ 17.639099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 449
+- 17.639099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 449
+r 17.654002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 437
+r 17.654021 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 438
+r 17.654022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 439
+r 17.654026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 440
+r 17.654028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 441
+r 17.654044 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 442
+r 17.654061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 443
+r 17.65407 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 444
+r 17.65407 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 445
+r 17.654077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 446
+r 17.65408 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 447
+r 17.654096 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 448
+r 17.6541 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 15537 76 449
+s -t 17.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 17.700305388 -Hs 9 -Hd -2 -Ni 9 -Nx 281.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 17.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 77 48
+- 17.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 77 48
+r 17.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 77 48
++ 17.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 77
+- 17.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 77
+r 17.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 77
++ 17.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 77
+- 17.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 77
++ 17.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 449
+- 17.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 449
+r 17.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 77
+r 17.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 449
++ 17.779013 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 48
+- 17.779013 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 48
+r 17.794013 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 48
+s -t 17.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 17.800305386 -Hs 9 -Hd -2 -Ni 9 -Nx 284.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 17.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 17.900305385 -Hs 9 -Hd -2 -Ni 9 -Nx 287.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 18 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 16001 78
+- 18 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 16001 78
+s -t 18.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 18.000305384 -Hs 9 -Hd -2 -Ni 9 -Nx 290.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 18.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 16001 78
++ 18.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 16001 78
+- 18.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 16001 78
+r 18.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 16001 78
++ 18.019004 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 450
+- 18.019004 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 450
++ 18.019006 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 451
+- 18.019006 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 451
++ 18.01902 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 452
+- 18.01902 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 452
++ 18.019037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 453
+- 18.019037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 453
++ 18.019037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 454
+- 18.019037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 454
++ 18.019039 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 455
+- 18.019039 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 455
++ 18.019056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 456
+- 18.019056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 456
++ 18.01906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 457
+- 18.01906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 457
++ 18.019073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 458
+- 18.019073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 458
++ 18.019089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 459
+- 18.019089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 459
++ 18.019096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 460
+- 18.019096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 460
++ 18.019106 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 461
+- 18.019106 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 461
++ 18.019118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 462
+- 18.019118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 462
++ 18.019123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 463
+- 18.019123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 463
++ 18.019138 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 464
+- 18.019138 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 464
+r 18.034004 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 450
+r 18.034007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 451
+r 18.03402 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 452
+r 18.034037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 453
+r 18.034038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 454
+r 18.034039 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 455
+r 18.034057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 456
+r 18.034061 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 457
+r 18.034074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 458
+r 18.034089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 459
+r 18.034096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 460
+r 18.034106 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 461
+r 18.034118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 462
+r 18.034124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 463
+r 18.034138 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 16001 78 464
++ 18.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 79 49
+- 18.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 79 49
++ 18.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 79 50
+- 18.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 79 50
+s -t 18.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 18.100305383 -Hs 9 -Hd -2 -Ni 9 -Nx 293.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 18.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 79 49
+r 18.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 79 50
++ 18.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 79
+- 18.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 79
+r 18.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 79
++ 18.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 79
+- 18.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 79
++ 18.119014 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 50
+- 18.119014 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 50
+r 18.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 79
++ 18.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 16537 80
+- 18.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 16537 80
+r 18.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 16537 80
++ 18.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 16537 80
+- 18.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 16537 80
+r 18.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 16537 80
+r 18.134015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 50
++ 18.139 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 465
+- 18.139 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 465
++ 18.139009 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 466
+- 18.139009 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 466
++ 18.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 467
+- 18.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 467
++ 18.139027 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 468
+- 18.139027 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 468
++ 18.139046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 469
+- 18.139046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 469
++ 18.139055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 470
+- 18.139055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 470
++ 18.139057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 471
+- 18.139057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 471
++ 18.139066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 472
+- 18.139066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 472
++ 18.139077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 473
+- 18.139077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 473
++ 18.13908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 474
+- 18.13908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 474
++ 18.139099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 475
+- 18.139099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 475
++ 18.139112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 476
+- 18.139112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 476
++ 18.139124 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 477
+- 18.139124 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 477
+r 18.154001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 465
+r 18.154009 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 466
+r 18.154017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 467
+r 18.154028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 468
+r 18.154047 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 469
+r 18.154055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 470
+r 18.154057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 471
+r 18.154067 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 472
+r 18.154078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 473
+r 18.15408 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 474
+r 18.154099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 475
+r 18.154113 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 476
+r 18.154125 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 16537 80 477
+s -t 18.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 18.200305382 -Hs 9 -Hd -2 -Ni 9 -Nx 296.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 18.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 81 51
+- 18.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 81 51
+r 18.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 81 51
++ 18.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 81
+- 18.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 81
+r 18.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 81
++ 18.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 81
+- 18.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 81
++ 18.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 477
+- 18.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 477
+r 18.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 81
+r 18.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 477
++ 18.279009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 51
+- 18.279009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 51
+r 18.29401 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 51
+s -t 18.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 18.300305382 -Hs 9 -Hd -2 -Ni 9 -Nx 299.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 18.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 18.400305382 -Hs 9 -Hd -2 -Ni 9 -Nx 302.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 18.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 17001 82
+- 18.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 17001 82
+s -t 18.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 18.500305382 -Hs 9 -Hd -2 -Ni 9 -Nx 305.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 18.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 17001 82
++ 18.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 17001 82
+- 18.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 17001 82
+r 18.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 17001 82
++ 18.519001 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 478
+- 18.519001 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 478
++ 18.519002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 479
+- 18.519002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 479
++ 18.519003 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 480
+- 18.519003 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 480
++ 18.519011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 481
+- 18.519011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 481
++ 18.519015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 482
+- 18.519015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 482
++ 18.519026 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 483
+- 18.519026 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 483
++ 18.519035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 484
+- 18.519035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 484
++ 18.519041 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 485
+- 18.519041 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 485
++ 18.519059 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 486
+- 18.519059 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 486
++ 18.51906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 487
+- 18.51906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 487
++ 18.51907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 488
+- 18.51907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 488
++ 18.519073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 489
+- 18.519073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 489
++ 18.519088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 490
+- 18.519088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 490
++ 18.519094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 491
+- 18.519094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 491
++ 18.519095 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 492
+- 18.519095 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 492
+r 18.534001 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 478
+r 18.534003 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 479
+r 18.534004 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 480
+r 18.534011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 481
+r 18.534015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 482
+r 18.534027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 483
+r 18.534036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 484
+r 18.534042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 485
+r 18.53406 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 486
+r 18.534061 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 487
+r 18.534071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 488
+r 18.534074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 489
+r 18.534088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 490
+r 18.534095 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 491
+r 18.534096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 17001 82 492
++ 18.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 83 52
+- 18.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 83 52
++ 18.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 83 53
+- 18.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 83 53
+s -t 18.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 18.600305383 -Hs 9 -Hd -2 -Ni 9 -Nx 308.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 18.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 83 52
+r 18.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 83 53
++ 18.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 83
+- 18.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 83
+r 18.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 83
++ 18.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 83
+- 18.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 83
++ 18.61901 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 53
+- 18.61901 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 53
+r 18.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 83
++ 18.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 17537 84
+- 18.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 17537 84
+r 18.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 17537 84
++ 18.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 17537 84
+- 18.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 17537 84
+r 18.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 17537 84
+r 18.63401 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 53
++ 18.639015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 493
+- 18.639015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 493
++ 18.639016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 494
+- 18.639016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 494
++ 18.639017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 495
+- 18.639017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 495
++ 18.639022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 496
+- 18.639022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 496
++ 18.639033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 497
+- 18.639033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 497
++ 18.639051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 498
+- 18.639051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 498
++ 18.639068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 499
+- 18.639068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 499
++ 18.639084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 500
+- 18.639084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 500
++ 18.639097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 501
+- 18.639097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 501
++ 18.63911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 502
+- 18.63911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 502
++ 18.639126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 503
+- 18.639126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 503
++ 18.639145 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 504
+- 18.639145 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 504
++ 18.63915 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 505
+- 18.63915 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 505
+r 18.654015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 493
+r 18.654017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 494
+r 18.654018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 495
+r 18.654022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 496
+r 18.654033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 497
+r 18.654051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 498
+r 18.654069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 499
+r 18.654084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 500
+r 18.654097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 501
+r 18.654111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 502
+r 18.654127 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 503
+r 18.654145 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 504
+r 18.654151 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 17537 84 505
+s -t 18.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 18.700305384 -Hs 9 -Hd -2 -Ni 9 -Nx 311.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 18.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 85 54
+- 18.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 85 54
+r 18.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 85 54
++ 18.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 85
+- 18.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 85
+r 18.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 85
++ 18.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 85
+- 18.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 85
++ 18.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 505
+- 18.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 505
+r 18.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 85
+r 18.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 505
++ 18.779006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 54
+- 18.779006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 54
+r 18.794007 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 54
+s -t 18.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 18.800305385 -Hs 9 -Hd -2 -Ni 9 -Nx 314.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 18.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 18.900305387 -Hs 9 -Hd -2 -Ni 9 -Nx 317.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 19 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 18001 86
+- 19 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 18001 86
+s -t 19.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 19.000305389 -Hs 9 -Hd -2 -Ni 9 -Nx 320.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 19.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 18001 86
++ 19.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 18001 86
+- 19.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 18001 86
+r 19.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 18001 86
++ 19.019017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 506
+- 19.019017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 506
++ 19.019027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 507
+- 19.019027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 507
++ 19.019042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 508
+- 19.019042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 508
++ 19.01905 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 509
+- 19.01905 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 509
++ 19.019069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 510
+- 19.019069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 510
++ 19.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 511
+- 19.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 511
++ 19.01908 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 512
+- 19.01908 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 512
++ 19.019091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 513
+- 19.019091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 513
++ 19.019105 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 514
+- 19.019105 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 514
++ 19.019123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 515
+- 19.019123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 515
++ 19.019124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 516
+- 19.019124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 516
++ 19.019128 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 517
+- 19.019128 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 517
++ 19.019136 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 518
+- 19.019136 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 518
++ 19.019145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 519
+- 19.019145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 519
++ 19.019147 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 520
+- 19.019147 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 520
+r 19.034017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 506
+r 19.034028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 507
+r 19.034042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 508
+r 19.03405 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 509
+r 19.03407 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 510
+r 19.034078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 511
+r 19.034081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 512
+r 19.034092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 513
+r 19.034106 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 514
+r 19.034123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 515
+r 19.034125 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 516
+r 19.034129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 517
+r 19.034136 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 518
+r 19.034145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 519
+r 19.034147 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 18001 86 520
++ 19.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 87 55
+- 19.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 87 55
++ 19.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 87 56
+- 19.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 87 56
+s -t 19.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 19.100305391 -Hs 9 -Hd -2 -Ni 9 -Nx 323.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 19.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 87 55
+r 19.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 87 56
++ 19.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 87
+- 19.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 87
+r 19.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 87
++ 19.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 87
+- 19.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 87
++ 19.119016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 56
+- 19.119016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 56
+r 19.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 87
++ 19.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 18537 88
+- 19.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 18537 88
+r 19.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 18537 88
++ 19.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 18537 88
+- 19.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 18537 88
+r 19.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 18537 88
+r 19.134017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 56
++ 19.139012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 521
+- 19.139012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 521
++ 19.139013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 522
+- 19.139013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 522
++ 19.139025 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 523
+- 19.139025 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 523
++ 19.139043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 524
+- 19.139043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 524
++ 19.139063 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 525
+- 19.139063 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 525
++ 19.139068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 526
+- 19.139068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 526
++ 19.139082 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 527
+- 19.139082 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 527
++ 19.139098 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 528
+- 19.139098 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 528
++ 19.139115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 529
+- 19.139115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 529
++ 19.139126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 530
+- 19.139126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 530
++ 19.139141 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 531
+- 19.139141 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 531
++ 19.139145 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 532
+- 19.139145 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 532
++ 19.139149 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 533
+- 19.139149 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 533
+r 19.154012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 521
+r 19.154014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 522
+r 19.154026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 523
+r 19.154044 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 524
+r 19.154063 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 525
+r 19.154069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 526
+r 19.154083 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 527
+r 19.154099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 528
+r 19.154115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 529
+r 19.154126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 530
+r 19.154142 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 531
+r 19.154146 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 532
+r 19.15415 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 18537 88 533
+s -t 19.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 19.200305393 -Hs 9 -Hd -2 -Ni 9 -Nx 326.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 19.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 89 57
+- 19.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 89 57
+r 19.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 89 57
++ 19.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 89
+- 19.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 89
+r 19.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 89
++ 19.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 89
+- 19.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 89
++ 19.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 533
+- 19.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 533
+r 19.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 89
+r 19.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 533
++ 19.279007 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 57
+- 19.279007 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 57
+r 19.294008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 57
+s -t 19.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 19.300305396 -Hs 9 -Hd -2 -Ni 9 -Nx 329.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 19.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 19.400305399 -Hs 9 -Hd -2 -Ni 9 -Nx 332.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 19.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 19001 90
+- 19.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 19001 90
+s -t 19.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 19.500305402 -Hs 9 -Hd -2 -Ni 9 -Nx 335.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 19.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 19001 90
++ 19.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 19001 90
+- 19.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 19001 90
+r 19.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 19001 90
++ 19.519007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 534
+- 19.519007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 534
++ 19.519016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 535
+- 19.519016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 535
++ 19.519029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 536
+- 19.519029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 536
++ 19.519045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 537
+- 19.519045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 537
++ 19.519064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 538
+- 19.519064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 538
++ 19.519067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 539
+- 19.519067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 539
++ 19.519077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 540
+- 19.519077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 540
++ 19.519081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 541
+- 19.519081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 541
++ 19.519094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 542
+- 19.519094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 542
++ 19.5191 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 543
+- 19.5191 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 543
++ 19.519119 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 544
+- 19.519119 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 544
++ 19.519139 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 545
+- 19.519139 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 545
++ 19.51914 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 546
+- 19.51914 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 546
++ 19.519148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 547
+- 19.519148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 547
++ 19.519163 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 548
+- 19.519163 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 548
+r 19.534007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 534
+r 19.534016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 535
+r 19.534029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 536
+r 19.534046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 537
+r 19.534064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 538
+r 19.534068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 539
+r 19.534078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 540
+r 19.534082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 541
+r 19.534094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 542
+r 19.5341 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 543
+r 19.534119 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 544
+r 19.534139 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 545
+r 19.534141 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 546
+r 19.534148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 547
+r 19.534163 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 19001 90 548
++ 19.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 91 58
+- 19.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 91 58
++ 19.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 91 59
+- 19.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 91 59
+s -t 19.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 19.600305405 -Hs 9 -Hd -2 -Ni 9 -Nx 338.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 19.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 91 58
+r 19.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 91 59
++ 19.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 91
+- 19.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 91
+r 19.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 91
++ 19.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 91
+- 19.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 91
++ 19.619001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 59
+- 19.619001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 59
+r 19.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 91
++ 19.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 19537 92
+- 19.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 19537 92
+r 19.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 19537 92
++ 19.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 19537 92
+- 19.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 19537 92
+r 19.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 19537 92
+r 19.634001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 59
++ 19.639015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 549
+- 19.639015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 549
++ 19.639022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 550
+- 19.639022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 550
++ 19.639022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 551
+- 19.639022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 551
++ 19.639032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 552
+- 19.639032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 552
++ 19.639033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 553
+- 19.639033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 553
++ 19.639048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 554
+- 19.639048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 554
++ 19.639065 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 555
+- 19.639065 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 555
++ 19.639068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 556
+- 19.639068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 556
++ 19.639086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 557
+- 19.639086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 557
++ 19.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 558
+- 19.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 558
++ 19.6391 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 559
+- 19.6391 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 559
++ 19.639117 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 560
+- 19.639117 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 560
++ 19.639134 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 561
+- 19.639134 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 561
+r 19.654016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 549
+r 19.654022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 550
+r 19.654023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 551
+r 19.654033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 552
+r 19.654033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 553
+r 19.654048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 554
+r 19.654066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 555
+r 19.654069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 556
+r 19.654087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 557
+r 19.654091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 558
+r 19.654101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 559
+r 19.654118 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 560
+r 19.654135 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 19537 92 561
+s -t 19.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 19.700305409 -Hs 9 -Hd -2 -Ni 9 -Nx 341.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 19.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 93 60
+- 19.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 93 60
+r 19.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 93 60
++ 19.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 93
+- 19.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 93
+r 19.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 93
++ 19.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 93
+- 19.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 93
++ 19.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 561
+- 19.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 561
+r 19.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 93
+r 19.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 561
++ 19.779005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 60
+- 19.779005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 60
+r 19.794006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 60
+s -t 19.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 19.800305413 -Hs 9 -Hd -2 -Ni 9 -Nx 344.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 19.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 19.900305417 -Hs 9 -Hd -2 -Ni 9 -Nx 347.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 20 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 20001 94
+- 20 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 20001 94
+s -t 20.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 20.000305421 -Hs 9 -Hd -2 -Ni 9 -Nx 350.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 20.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 20001 94
++ 20.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 20001 94
+- 20.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 20001 94
+r 20.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 20001 94
++ 20.019016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 562
+- 20.019016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 562
++ 20.019017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 563
+- 20.019017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 563
++ 20.019022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 564
+- 20.019022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 564
++ 20.019036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 565
+- 20.019036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 565
++ 20.019051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 566
+- 20.019051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 566
++ 20.019055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 567
+- 20.019055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 567
++ 20.019073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 568
+- 20.019073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 568
++ 20.019092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 569
+- 20.019092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 569
++ 20.019098 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 570
+- 20.019098 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 570
++ 20.019109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 571
+- 20.019109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 571
++ 20.019118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 572
+- 20.019118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 572
++ 20.019136 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 573
+- 20.019136 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 573
++ 20.019145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 574
+- 20.019145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 574
++ 20.01916 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 575
+- 20.01916 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 575
++ 20.01916 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 576
+- 20.01916 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 576
+r 20.034017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 562
+r 20.034018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 563
+r 20.034022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 564
+r 20.034037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 565
+r 20.034051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 566
+r 20.034055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 567
+r 20.034074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 568
+r 20.034093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 569
+r 20.034099 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 570
+r 20.03411 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 571
+r 20.034119 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 572
+r 20.034137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 573
+r 20.034146 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 574
+r 20.03416 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 575
+r 20.034161 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 20001 94 576
++ 20.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 95 61
+- 20.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 95 61
++ 20.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 95 62
+- 20.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 95 62
+s -t 20.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 20.100305426 -Hs 9 -Hd -2 -Ni 9 -Nx 353.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 20.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 95 61
+r 20.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 95 62
++ 20.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 95
+- 20.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 95
+r 20.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 95
++ 20.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 95
+- 20.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 95
++ 20.119005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 62
+- 20.119005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 62
+r 20.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 95
++ 20.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 20537 96
+- 20.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 20537 96
+r 20.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 20537 96
++ 20.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 20537 96
+- 20.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 20537 96
+r 20.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 20537 96
+r 20.134006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 62
++ 20.139007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 577
+- 20.139007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 577
++ 20.139023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 578
+- 20.139023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 578
++ 20.13903 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 579
+- 20.13903 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 579
++ 20.139048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 580
+- 20.139048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 580
++ 20.139048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 581
+- 20.139049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 581
++ 20.139053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 582
+- 20.139053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 582
++ 20.139067 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 583
+- 20.139067 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 583
++ 20.139077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 584
+- 20.139077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 584
++ 20.139084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 585
+- 20.139084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 585
++ 20.139088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 586
+- 20.139088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 586
++ 20.139101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 587
+- 20.139101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 587
++ 20.139109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 588
+- 20.139109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 588
++ 20.139121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 589
+- 20.139121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 589
+r 20.154008 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 577
+r 20.154024 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 578
+r 20.154031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 579
+r 20.154049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 580
+r 20.154049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 581
+r 20.154053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 582
+r 20.154068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 583
+r 20.154078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 584
+r 20.154084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 585
+r 20.154088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 586
+r 20.154102 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 587
+r 20.15411 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 588
+r 20.154121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 20537 96 589
+s -t 20.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 20.200305431 -Hs 9 -Hd -2 -Ni 9 -Nx 356.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 20.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 97 63
+- 20.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 97 63
+r 20.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 97 63
++ 20.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 97
+- 20.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 97
+r 20.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 97
++ 20.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 97
+- 20.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 97
++ 20.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 589
+- 20.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 589
+r 20.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 97
+r 20.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 589
++ 20.279002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 63
+- 20.279002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 63
+r 20.294002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 63
+s -t 20.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 20.300305436 -Hs 9 -Hd -2 -Ni 9 -Nx 359.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 20.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 20.400305441 -Hs 9 -Hd -2 -Ni 9 -Nx 362.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 20.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 21001 98
+- 20.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 21001 98
+s -t 20.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 20.500305446 -Hs 9 -Hd -2 -Ni 9 -Nx 365.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 20.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 21001 98
++ 20.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 21001 98
+- 20.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 21001 98
+r 20.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 21001 98
++ 20.51901 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 590
+- 20.51901 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 590
++ 20.51902 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 591
+- 20.51902 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 591
++ 20.51904 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 592
+- 20.51904 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 592
++ 20.519045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 593
+- 20.519045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 593
++ 20.519053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 594
+- 20.519053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 594
++ 20.51906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 595
+- 20.51906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 595
++ 20.519078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 596
+- 20.519078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 596
++ 20.519089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 597
+- 20.519089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 597
++ 20.519104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 598
+- 20.519104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 598
++ 20.519111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 599
+- 20.519111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 599
++ 20.519115 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 600
+- 20.519115 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 600
++ 20.519128 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 601
+- 20.519128 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 601
++ 20.51914 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 602
+- 20.51914 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 602
++ 20.519145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 603
+- 20.519145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 603
++ 20.51916 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 604
+- 20.51916 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 604
+r 20.53401 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 590
+r 20.534021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 591
+r 20.53404 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 592
+r 20.534045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 593
+r 20.534053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 594
+r 20.534061 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 595
+r 20.534078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 596
+r 20.53409 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 597
+r 20.534104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 598
+r 20.534112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 599
+r 20.534116 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 600
+r 20.534129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 601
+r 20.534141 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 602
+r 20.534145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 603
+r 20.534161 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 21001 98 604
++ 20.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 99 64
+- 20.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 99 64
++ 20.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 99 65
+- 20.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 99 65
+s -t 20.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 20.600305452 -Hs 9 -Hd -2 -Ni 9 -Nx 368.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 20.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 99 64
+r 20.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 99 65
++ 20.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 99
+- 20.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 99
+r 20.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 99
++ 20.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 99
+- 20.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 99
++ 20.619017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 65
+- 20.619017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 65
+r 20.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 99
++ 20.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 21537 100
+- 20.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 21537 100
+r 20.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 21537 100
++ 20.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 21537 100
+- 20.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 21537 100
+r 20.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 21537 100
+r 20.634018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 65
++ 20.639014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 605
+- 20.639014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 605
++ 20.639023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 606
+- 20.639023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 606
++ 20.639026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 607
+- 20.639026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 607
++ 20.639043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 608
+- 20.639043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 608
++ 20.639052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 609
+- 20.639052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 609
++ 20.639071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 610
+- 20.639071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 610
++ 20.639084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 611
+- 20.639084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 611
++ 20.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 612
+- 20.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 612
++ 20.639098 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 613
+- 20.639098 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 613
++ 20.639098 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 614
+- 20.639098 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 614
++ 20.639114 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 615
+- 20.639114 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 615
++ 20.639121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 616
+- 20.639121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 616
++ 20.639136 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 617
+- 20.639136 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 617
+r 20.654015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 605
+r 20.654024 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 606
+r 20.654026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 607
+r 20.654043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 608
+r 20.654052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 609
+r 20.654071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 610
+r 20.654085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 611
+r 20.654092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 612
+r 20.654098 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 613
+r 20.654099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 614
+r 20.654115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 615
+r 20.654122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 616
+r 20.654137 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 21537 100 617
+s -t 20.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 20.700305457 -Hs 9 -Hd -2 -Ni 9 -Nx 371.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 20.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 101 66
+- 20.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 101 66
+r 20.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 101 66
++ 20.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 101
+- 20.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 101
+r 20.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 101
++ 20.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 101
+- 20.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 101
++ 20.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 617
+- 20.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 617
+r 20.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 101
+r 20.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 617
++ 20.779009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 66
+- 20.779009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 66
+r 20.794009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 66
+s -t 20.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 20.800305463 -Hs 9 -Hd -2 -Ni 9 -Nx 374.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 20.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 20.900305469 -Hs 9 -Hd -2 -Ni 9 -Nx 377.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 21 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 22001 102
+- 21 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 22001 102
+s -t 21.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 21.000305476 -Hs 9 -Hd -2 -Ni 9 -Nx 380.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 21.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 22001 102
++ 21.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 22001 102
+- 21.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 22001 102
+r 21.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 22001 102
++ 21.019002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 618
+- 21.019002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 618
++ 21.019015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 619
+- 21.019015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 619
++ 21.019032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 620
+- 21.019032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 620
++ 21.019046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 621
+- 21.019046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 621
++ 21.019057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 622
+- 21.019057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 622
++ 21.019065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 623
+- 21.019065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 623
++ 21.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 624
+- 21.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 624
++ 21.019087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 625
+- 21.019087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 625
++ 21.0191 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 626
+- 21.0191 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 626
++ 21.0191 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 627
+- 21.0191 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 627
++ 21.019102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 628
+- 21.019102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 628
++ 21.019111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 629
+- 21.019111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 629
++ 21.019121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 630
+- 21.019121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 630
++ 21.01913 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 631
+- 21.01913 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 631
++ 21.019147 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 632
+- 21.019147 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 632
+r 21.034002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 618
+r 21.034015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 619
+r 21.034032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 620
+r 21.034047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 621
+r 21.034057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 622
+r 21.034066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 623
+r 21.034077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 624
+r 21.034088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 625
+r 21.0341 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 626
+r 21.034101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 627
+r 21.034103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 628
+r 21.034111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 629
+r 21.034121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 630
+r 21.034131 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 631
+r 21.034147 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 22001 102 632
++ 21.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 103 67
+- 21.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 103 67
++ 21.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 103 68
+- 21.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 103 68
+s -t 21.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 21.100305482 -Hs 9 -Hd -2 -Ni 9 -Nx 383.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 21.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 103 67
+r 21.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 103 68
++ 21.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 103
+- 21.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 103
+r 21.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 103
++ 21.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 103
+- 21.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 103
++ 21.119017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 68
+- 21.119017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 68
+r 21.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 103
++ 21.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 22537 104
+- 21.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 22537 104
+r 21.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 22537 104
++ 21.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 22537 104
+- 21.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 22537 104
+r 21.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 22537 104
+r 21.134018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 68
++ 21.139014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 633
+- 21.139014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 633
++ 21.139033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 634
+- 21.139033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 634
++ 21.139042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 635
+- 21.139042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 635
++ 21.139051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 636
+- 21.139051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 636
++ 21.139069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 637
+- 21.139069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 637
++ 21.139088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 638
+- 21.139088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 638
++ 21.139099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 639
+- 21.139099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 639
++ 21.139101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 640
+- 21.139101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 640
++ 21.13912 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 641
+- 21.13912 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 641
++ 21.13913 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 642
+- 21.13913 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 642
++ 21.139148 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 643
+- 21.139148 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 643
++ 21.139157 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 644
+- 21.139157 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 644
++ 21.139167 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 645
+- 21.139167 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 645
+r 21.154014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 633
+r 21.154033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 634
+r 21.154042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 635
+r 21.154051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 636
+r 21.154069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 637
+r 21.154088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 638
+r 21.154099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 639
+r 21.154101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 640
+r 21.154121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 641
+r 21.15413 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 642
+r 21.154148 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 643
+r 21.154157 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 644
+r 21.154168 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 22537 104 645
+s -t 21.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 21.200305488 -Hs 9 -Hd -2 -Ni 9 -Nx 386.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 21.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 105 69
+- 21.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 105 69
+r 21.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 105 69
++ 21.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 105
+- 21.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 105
+r 21.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 105
++ 21.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 105
+- 21.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 105
++ 21.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 645
+- 21.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 645
+r 21.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 105
+r 21.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 645
++ 21.279001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 69
+- 21.279001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 69
+r 21.294002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 69
+s -t 21.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 21.300305495 -Hs 9 -Hd -2 -Ni 9 -Nx 389.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 21.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 21.400305502 -Hs 9 -Hd -2 -Ni 9 -Nx 392.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 21.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 23001 106
+- 21.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 23001 106
+s -t 21.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 21.500305508 -Hs 9 -Hd -2 -Ni 9 -Nx 395.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 21.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 23001 106
++ 21.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 23001 106
+- 21.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 23001 106
+r 21.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 23001 106
++ 21.519002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 646
+- 21.519002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 646
++ 21.51902 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 647
+- 21.51902 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 647
++ 21.519021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 648
+- 21.519021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 648
++ 21.519035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 649
+- 21.519035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 649
++ 21.519036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 650
+- 21.519036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 650
++ 21.519038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 651
+- 21.519038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 651
++ 21.519056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 652
+- 21.519056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 652
++ 21.519059 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 653
+- 21.519059 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 653
++ 21.519062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 654
+- 21.519062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 654
++ 21.519063 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 655
+- 21.519063 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 655
++ 21.519074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 656
+- 21.519074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 656
++ 21.519083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 657
+- 21.519083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 657
++ 21.519093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 658
+- 21.519093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 658
++ 21.519103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 659
+- 21.519103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 659
++ 21.519113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 660
+- 21.519113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 660
+r 21.534002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 646
+r 21.534021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 647
+r 21.534021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 648
+r 21.534035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 649
+r 21.534036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 650
+r 21.534039 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 651
+r 21.534056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 652
+r 21.534059 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 653
+r 21.534063 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 654
+r 21.534063 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 655
+r 21.534074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 656
+r 21.534084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 657
+r 21.534094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 658
+r 21.534104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 659
+r 21.534113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 23001 106 660
++ 21.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 107 70
+- 21.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 107 70
++ 21.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 107 71
+- 21.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 107 71
+s -t 21.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 21.600305515 -Hs 9 -Hd -2 -Ni 9 -Nx 398.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 21.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 107 70
+r 21.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 107 71
++ 21.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 107
+- 21.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 107
+r 21.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 107
++ 21.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 107
+- 21.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 107
++ 21.619017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 71
+- 21.619017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 71
+r 21.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 107
++ 21.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 23537 108
+- 21.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 23537 108
+r 21.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 23537 108
++ 21.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 23537 108
+- 21.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 23537 108
+r 21.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 23537 108
+r 21.634017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 71
++ 21.639006 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 661
+- 21.639006 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 661
++ 21.639021 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 662
+- 21.639021 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 662
++ 21.639037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 663
+- 21.639037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 663
++ 21.639056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 664
+- 21.639056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 664
++ 21.639062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 665
+- 21.639062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 665
++ 21.63907 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 666
+- 21.63907 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 666
++ 21.639081 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 667
+- 21.639081 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 667
++ 21.639099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 668
+- 21.639099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 668
++ 21.639101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 669
+- 21.639101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 669
++ 21.639101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 670
+- 21.639101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 670
++ 21.63912 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 671
+- 21.63912 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 671
++ 21.639139 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 672
+- 21.639139 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 672
++ 21.639148 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 673
+- 21.639148 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 673
+r 21.654007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 661
+r 21.654022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 662
+r 21.654038 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 663
+r 21.654057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 664
+r 21.654062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 665
+r 21.654071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 666
+r 21.654081 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 667
+r 21.654099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 668
+r 21.654101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 669
+r 21.654102 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 670
+r 21.65412 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 671
+r 21.65414 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 672
+r 21.654149 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 23537 108 673
+s -t 21.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 21.700305522 -Hs 9 -Hd -2 -Ni 9 -Nx 401.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 21.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 109 72
+- 21.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 109 72
+r 21.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 109 72
++ 21.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 109
+- 21.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 109
+r 21.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 109
++ 21.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 109
+- 21.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 109
++ 21.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 673
+- 21.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 673
+r 21.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 109
+r 21.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 673
++ 21.779011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 72
+- 21.779011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 72
+r 21.794011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 72
+s -t 21.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 21.800305530 -Hs 9 -Hd -2 -Ni 9 -Nx 404.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 21.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 21.900305537 -Hs 9 -Hd -2 -Ni 9 -Nx 407.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 22 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 24001 110
+- 22 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 24001 110
+s -t 22.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 22.000305544 -Hs 9 -Hd -2 -Ni 9 -Nx 410.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 22.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 24001 110
++ 22.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 24001 110
+- 22.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 24001 110
+r 22.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 24001 110
++ 22.019003 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 674
+- 22.019003 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 674
++ 22.019011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 675
+- 22.019011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 675
++ 22.019011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 676
+- 22.019012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 676
++ 22.019028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 677
+- 22.019028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 677
++ 22.019034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 678
+- 22.019034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 678
++ 22.019044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 679
+- 22.019044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 679
++ 22.019061 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 680
+- 22.019061 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 680
++ 22.01907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 681
+- 22.01907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 681
++ 22.019072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 682
+- 22.019072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 682
++ 22.019073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 683
+- 22.019073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 683
++ 22.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 684
+- 22.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 684
++ 22.019089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 685
+- 22.019089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 685
++ 22.019104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 686
+- 22.019104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 686
++ 22.019123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 687
+- 22.019123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 687
++ 22.01914 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 688
+- 22.01914 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 688
+r 22.034003 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 674
+r 22.034012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 675
+r 22.034012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 676
+r 22.034029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 677
+r 22.034034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 678
+r 22.034045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 679
+r 22.034061 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 680
+r 22.03407 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 681
+r 22.034073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 682
+r 22.034073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 683
+r 22.034078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 684
+r 22.03409 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 685
+r 22.034105 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 686
+r 22.034124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 687
+r 22.03414 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 24001 110 688
++ 22.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 111 73
+- 22.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 111 73
++ 22.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 111 74
+- 22.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 111 74
+s -t 22.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 22.100305552 -Hs 9 -Hd -2 -Ni 9 -Nx 413.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 22.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 111 73
+r 22.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 111 74
++ 22.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 111
+- 22.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 111
+r 22.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 111
++ 22.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 111
+- 22.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 111
++ 22.119005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 74
+- 22.119005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 74
+r 22.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 111
++ 22.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 24537 112
+- 22.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 24537 112
+r 22.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 24537 112
++ 22.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 24537 112
+- 22.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 24537 112
+r 22.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 24537 112
+r 22.134006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 74
++ 22.139001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 689
+- 22.139001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 689
++ 22.139001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 690
+- 22.139001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 690
++ 22.13901 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 691
+- 22.13901 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 691
++ 22.139019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 692
+- 22.139019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 692
++ 22.139027 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 693
+- 22.139027 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 693
++ 22.139036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 694
+- 22.139036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 694
++ 22.139042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 695
+- 22.139042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 695
++ 22.13905 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 696
+- 22.13905 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 696
++ 22.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 697
+- 22.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 697
++ 22.13907 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 698
+- 22.13907 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 698
++ 22.139071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 699
+- 22.139071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 699
++ 22.139085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 700
+- 22.139085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 700
++ 22.13909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 701
+- 22.13909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 701
+r 22.154001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 689
+r 22.154002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 690
+r 22.15401 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 691
+r 22.154019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 692
+r 22.154028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 693
+r 22.154037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 694
+r 22.154042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 695
+r 22.15405 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 696
+r 22.154058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 697
+r 22.15407 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 698
+r 22.154071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 699
+r 22.154085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 700
+r 22.154091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 24537 112 701
+s -t 22.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 22.200305559 -Hs 9 -Hd -2 -Ni 9 -Nx 416.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 22.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 113 75
+- 22.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 113 75
+r 22.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 113 75
++ 22.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 113
+- 22.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 113
+r 22.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 113
++ 22.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 113
+- 22.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 113
++ 22.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 701
+- 22.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 701
+r 22.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 113
+r 22.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 701
++ 22.279011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 75
+- 22.279011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 75
+r 22.294012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 75
+s -t 22.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 22.300305567 -Hs 9 -Hd -2 -Ni 9 -Nx 419.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 22.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 22.400305574 -Hs 9 -Hd -2 -Ni 9 -Nx 422.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 22.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 25001 114
+- 22.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 25001 114
+s -t 22.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 22.500305582 -Hs 9 -Hd -2 -Ni 9 -Nx 425.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 22.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 25001 114
++ 22.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 25001 114
+- 22.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 25001 114
+r 22.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 25001 114
++ 22.519014 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 702
+- 22.519014 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 702
++ 22.519023 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 703
+- 22.519023 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 703
++ 22.51904 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 704
+- 22.51904 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 704
++ 22.519054 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 705
+- 22.519054 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 705
++ 22.519062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 706
+- 22.519062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 706
++ 22.519079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 707
+- 22.519079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 707
++ 22.519082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 708
+- 22.519082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 708
++ 22.519098 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 709
+- 22.519098 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 709
++ 22.519102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 710
+- 22.519102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 710
++ 22.519111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 711
+- 22.519111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 711
++ 22.519112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 712
+- 22.519112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 712
++ 22.519115 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 713
+- 22.519115 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 713
++ 22.519123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 714
+- 22.519123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 714
++ 22.519137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 715
+- 22.519137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 715
++ 22.519145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 716
+- 22.519145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 716
+r 22.534015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 702
+r 22.534023 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 703
+r 22.53404 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 704
+r 22.534055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 705
+r 22.534062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 706
+r 22.53408 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 707
+r 22.534082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 708
+r 22.534099 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 709
+r 22.534102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 710
+r 22.534111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 711
+r 22.534113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 712
+r 22.534116 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 713
+r 22.534124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 714
+r 22.534137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 715
+r 22.534145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 25001 114 716
++ 22.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 115 76
+- 22.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 115 76
++ 22.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 115 77
+- 22.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 115 77
+s -t 22.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 22.600305590 -Hs 9 -Hd -2 -Ni 9 -Nx 428.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 22.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 115 76
+r 22.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 115 77
++ 22.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 115
+- 22.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 115
+r 22.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 115
++ 22.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 115
+- 22.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 115
++ 22.619009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 77
+- 22.619009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 77
+r 22.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 115
++ 22.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 25537 116
+- 22.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 25537 116
+r 22.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 25537 116
++ 22.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 25537 116
+- 22.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 25537 116
+r 22.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 25537 116
+r 22.63401 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 77
++ 22.639007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 717
+- 22.639007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 717
++ 22.639018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 718
+- 22.639018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 718
++ 22.639034 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 719
+- 22.639034 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 719
++ 22.639037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 720
+- 22.639037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 720
++ 22.63905 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 721
+- 22.63905 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 721
++ 22.639068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 722
+- 22.639068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 722
++ 22.639078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 723
+- 22.639078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 723
++ 22.63909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 724
+- 22.63909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 724
++ 22.639106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 725
+- 22.639106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 725
++ 22.639122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 726
+- 22.639122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 726
++ 22.639124 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 727
+- 22.639124 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 727
++ 22.639141 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 728
+- 22.639141 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 728
++ 22.639161 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 729
+- 22.639161 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 729
+r 22.654008 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 717
+r 22.654018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 718
+r 22.654034 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 719
+r 22.654038 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 720
+r 22.654051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 721
+r 22.654069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 722
+r 22.654079 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 723
+r 22.654091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 724
+r 22.654106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 725
+r 22.654123 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 726
+r 22.654125 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 727
+r 22.654142 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 728
+r 22.654162 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 25537 116 729
+s -t 22.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 22.700305598 -Hs 9 -Hd -2 -Ni 9 -Nx 431.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 22.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 117 78
+- 22.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 117 78
+r 22.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 117 78
++ 22.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 117
+- 22.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 117
+r 22.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 117
++ 22.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 117
+- 22.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 117
++ 22.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 729
+- 22.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 729
+r 22.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 117
+r 22.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 729
++ 22.779008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 78
+- 22.779008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 78
+r 22.794008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 78
+s -t 22.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 22.800305606 -Hs 9 -Hd -2 -Ni 9 -Nx 434.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 22.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 22.900305614 -Hs 9 -Hd -2 -Ni 9 -Nx 437.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 23 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 26001 118
+- 23 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 26001 118
+s -t 23.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 23.000305622 -Hs 9 -Hd -2 -Ni 9 -Nx 440.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 23.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 26001 118
++ 23.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 26001 118
+- 23.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 26001 118
+r 23.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 26001 118
++ 23.019001 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 730
+- 23.019001 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 730
++ 23.019016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 731
+- 23.019016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 731
++ 23.019034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 732
+- 23.019034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 732
++ 23.019053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 733
+- 23.019053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 733
++ 23.019059 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 734
+- 23.019059 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 734
++ 23.019074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 735
+- 23.019074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 735
++ 23.019079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 736
+- 23.019079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 736
++ 23.019083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 737
+- 23.019083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 737
++ 23.019086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 738
+- 23.019086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 738
++ 23.019091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 739
+- 23.019091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 739
++ 23.0191 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 740
+- 23.0191 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 740
++ 23.019113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 741
+- 23.019113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 741
++ 23.019118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 742
+- 23.019118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 742
++ 23.019119 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 743
+- 23.019119 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 743
++ 23.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 744
+- 23.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 744
+r 23.034002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 730
+r 23.034017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 731
+r 23.034035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 732
+r 23.034054 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 733
+r 23.03406 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 734
+r 23.034075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 735
+r 23.03408 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 736
+r 23.034084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 737
+r 23.034087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 738
+r 23.034092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 739
+r 23.034101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 740
+r 23.034113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 741
+r 23.034118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 742
+r 23.03412 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 743
+r 23.034134 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 26001 118 744
++ 23.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 119 79
+- 23.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 119 79
++ 23.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 119 80
+- 23.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 119 80
+s -t 23.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 23.100305630 -Hs 9 -Hd -2 -Ni 9 -Nx 443.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 23.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 119 79
+r 23.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 119 80
++ 23.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 119
+- 23.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 119
+r 23.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 119
++ 23.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 119
+- 23.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 119
++ 23.11901 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 80
+- 23.11901 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 80
+r 23.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 119
++ 23.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 26537 120
+- 23.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 26537 120
+r 23.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 26537 120
++ 23.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 26537 120
+- 23.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 26537 120
+r 23.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 26537 120
+r 23.134011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 80
++ 23.139018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 745
+- 23.139018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 745
++ 23.139028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 746
+- 23.139028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 746
++ 23.139041 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 747
+- 23.139041 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 747
++ 23.139051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 748
+- 23.139051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 748
++ 23.139055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 749
+- 23.139055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 749
++ 23.13907 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 750
+- 23.13907 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 750
++ 23.139088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 751
+- 23.139088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 751
++ 23.139101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 752
+- 23.139101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 752
++ 23.139112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 753
+- 23.139112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 753
++ 23.139121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 754
+- 23.139121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 754
++ 23.139131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 755
+- 23.139131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 755
++ 23.13915 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 756
+- 23.13915 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 756
++ 23.139157 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 757
+- 23.139157 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 757
+r 23.154018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 745
+r 23.154028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 746
+r 23.154042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 747
+r 23.154052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 748
+r 23.154056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 749
+r 23.15407 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 750
+r 23.154089 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 751
+r 23.154102 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 752
+r 23.154113 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 753
+r 23.154122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 754
+r 23.154131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 755
+r 23.15415 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 756
+r 23.154157 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 26537 120 757
+s -t 23.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 23.200305639 -Hs 9 -Hd -2 -Ni 9 -Nx 446.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 23.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 121 81
+- 23.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 121 81
+r 23.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 121 81
++ 23.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 121
+- 23.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 121
+r 23.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 121
++ 23.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 121
+- 23.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 121
++ 23.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 757
+- 23.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 757
+r 23.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 121
+r 23.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 757
++ 23.279012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 81
+- 23.279012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 81
+r 23.294013 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 81
+s -t 23.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 23.300305647 -Hs 9 -Hd -2 -Ni 9 -Nx 449.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 23.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 23.400305655 -Hs 9 -Hd -2 -Ni 9 -Nx 452.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 23.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 27001 122
+- 23.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 27001 122
+s -t 23.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 23.500305664 -Hs 9 -Hd -2 -Ni 9 -Nx 455.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 23.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 27001 122
++ 23.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 27001 122
+- 23.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 27001 122
+r 23.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 27001 122
++ 23.519017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 758
+- 23.519017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 758
++ 23.51902 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 759
+- 23.51902 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 759
++ 23.519039 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 760
+- 23.519039 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 760
++ 23.519053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 761
+- 23.519053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 761
++ 23.519069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 762
+- 23.519069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 762
++ 23.51908 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 763
+- 23.51908 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 763
++ 23.519088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 764
+- 23.519088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 764
++ 23.519093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 765
+- 23.519093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 765
++ 23.519101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 766
+- 23.519101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 766
++ 23.519106 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 767
+- 23.519106 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 767
++ 23.519118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 768
+- 23.519118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 768
++ 23.519132 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 769
+- 23.519132 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 769
++ 23.519137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 770
+- 23.519137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 770
++ 23.519149 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 771
+- 23.519149 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 771
++ 23.519167 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 772
+- 23.519167 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 772
+r 23.534017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 758
+r 23.53402 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 759
+r 23.53404 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 760
+r 23.534054 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 761
+r 23.53407 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 762
+r 23.534081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 763
+r 23.534089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 764
+r 23.534094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 765
+r 23.534101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 766
+r 23.534107 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 767
+r 23.534118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 768
+r 23.534132 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 769
+r 23.534138 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 770
+r 23.534149 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 771
+r 23.534168 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 27001 122 772
++ 23.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 123 82
+- 23.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 123 82
++ 23.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 123 83
+- 23.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 123 83
+s -t 23.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 23.600305672 -Hs 9 -Hd -2 -Ni 9 -Nx 458.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 23.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 123 82
+r 23.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 123 83
++ 23.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 123
+- 23.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 123
+r 23.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 123
++ 23.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 123
+- 23.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 123
++ 23.619005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 83
+- 23.619005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 83
+r 23.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 123
++ 23.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 27537 124
+- 23.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 27537 124
+r 23.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 27537 124
++ 23.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 27537 124
+- 23.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 27537 124
+r 23.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 27537 124
+r 23.634006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 83
++ 23.639019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 773
+- 23.639019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 773
++ 23.639028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 774
+- 23.639028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 774
++ 23.639032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 775
+- 23.639032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 775
++ 23.639043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 776
+- 23.639043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 776
++ 23.639051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 777
+- 23.639051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 777
++ 23.639068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 778
+- 23.639068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 778
++ 23.639068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 779
+- 23.639068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 779
++ 23.639073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 780
+- 23.639073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 780
++ 23.639088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 781
+- 23.639088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 781
++ 23.639106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 782
+- 23.639106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 782
++ 23.639116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 783
+- 23.639116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 783
++ 23.639135 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 784
+- 23.639135 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 784
++ 23.639138 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 785
+- 23.639138 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 785
+r 23.654019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 773
+r 23.654028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 774
+r 23.654032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 775
+r 23.654043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 776
+r 23.654052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 777
+r 23.654068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 778
+r 23.654069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 779
+r 23.654073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 780
+r 23.654089 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 781
+r 23.654106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 782
+r 23.654116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 783
+r 23.654136 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 784
+r 23.654139 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 27537 124 785
+s -t 23.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 23.700305680 -Hs 9 -Hd -2 -Ni 9 -Nx 461.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 23.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 125 84
+- 23.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 125 84
+r 23.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 125 84
++ 23.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 125
+- 23.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 125
+r 23.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 125
++ 23.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 125
+- 23.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 125
++ 23.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 785
+- 23.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 785
+r 23.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 125
+r 23.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 785
++ 23.779012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 84
+- 23.779012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 84
+r 23.794012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 84
+s -t 23.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 23.800305689 -Hs 9 -Hd -2 -Ni 9 -Nx 464.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 23.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 23.900305697 -Hs 9 -Hd -2 -Ni 9 -Nx 467.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 24 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 28001 126
+- 24 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 28001 126
+s -t 24.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 24.000305706 -Hs 9 -Hd -2 -Ni 9 -Nx 470.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 24.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 28001 126
++ 24.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 28001 126
+- 24.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 28001 126
+r 24.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 28001 126
++ 24.019005 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 786
+- 24.019005 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 786
++ 24.019006 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 787
+- 24.019006 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 787
++ 24.019024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 788
+- 24.019024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 788
++ 24.019036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 789
+- 24.019036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 789
++ 24.019047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 790
+- 24.019047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 790
++ 24.019051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 791
+- 24.019051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 791
++ 24.019066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 792
+- 24.019066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 792
++ 24.019067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 793
++ 24.019067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 794
+- 24.019067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 793
+- 24.019067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 794
++ 24.019073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 795
+- 24.019073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 795
++ 24.019088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 796
+- 24.019088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 796
++ 24.019094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 797
+- 24.019094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 797
++ 24.019095 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 798
+- 24.019095 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 798
++ 24.019099 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 799
+- 24.019099 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 799
++ 24.019109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 800
+- 24.019109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 800
+r 24.034006 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 786
+r 24.034007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 787
+r 24.034025 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 788
+r 24.034037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 789
+r 24.034047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 790
+r 24.034051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 791
+r 24.034067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 792
+r 24.034067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 793
+r 24.034068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 794
+r 24.034073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 795
+r 24.034089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 796
+r 24.034094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 797
+r 24.034096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 798
+r 24.034099 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 799
+r 24.034109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 28001 126 800
++ 24.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 127 85
+- 24.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 127 85
++ 24.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 127 86
+- 24.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 127 86
+s -t 24.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 24.100305715 -Hs 9 -Hd -2 -Ni 9 -Nx 473.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 24.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 127 85
+r 24.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 127 86
++ 24.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 127
+- 24.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 127
+r 24.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 127
++ 24.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 127
+- 24.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 127
++ 24.119006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 86
+- 24.119006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 86
+r 24.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 127
++ 24.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 28537 128
+- 24.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 28537 128
+r 24.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 28537 128
++ 24.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 28537 128
+- 24.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 28537 128
+r 24.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 28537 128
+r 24.134007 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 86
++ 24.139016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 801
+- 24.139016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 801
++ 24.139029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 802
+- 24.139029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 802
++ 24.139043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 803
+- 24.139043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 803
++ 24.139057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 804
+- 24.139057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 804
++ 24.139071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 805
+- 24.139071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 805
++ 24.139088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 806
+- 24.139088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 806
++ 24.139095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 807
+- 24.139095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 807
++ 24.139107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 808
+- 24.139107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 808
++ 24.13912 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 809
+- 24.13912 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 809
++ 24.139126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 810
+- 24.139126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 810
++ 24.139132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 811
+- 24.139132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 811
++ 24.139142 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 812
+- 24.139142 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 812
++ 24.139151 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 813
+- 24.139151 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 813
+r 24.154017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 801
+r 24.15403 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 802
+r 24.154044 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 803
+r 24.154057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 804
+r 24.154071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 805
+r 24.154089 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 806
+r 24.154095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 807
+r 24.154107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 808
+r 24.154121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 809
+r 24.154126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 810
+r 24.154132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 811
+r 24.154143 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 812
+r 24.154151 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 28537 128 813
+s -t 24.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 24.200305723 -Hs 9 -Hd -2 -Ni 9 -Nx 476.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 24.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 129 87
+- 24.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 129 87
+r 24.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 129 87
++ 24.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 129
+- 24.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 129
+r 24.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 129
++ 24.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 129
+- 24.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 129
++ 24.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 813
+- 24.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 813
+r 24.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 129
+r 24.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 813
++ 24.279011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 87
+- 24.279011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 87
+r 24.294012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 87
+s -t 24.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 24.300305732 -Hs 9 -Hd -2 -Ni 9 -Nx 479.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 24.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 24.400305741 -Hs 9 -Hd -2 -Ni 9 -Nx 482.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 24.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 29001 130
+- 24.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 29001 130
+s -t 24.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 24.500305750 -Hs 9 -Hd -2 -Ni 9 -Nx 485.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 24.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 29001 130
++ 24.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 29001 130
+- 24.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 29001 130
+r 24.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 29001 130
++ 24.51901 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 814
+- 24.51901 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 814
++ 24.519024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 815
+- 24.519024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 815
++ 24.519041 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 816
+- 24.519041 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 816
++ 24.519042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 817
+- 24.519042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 817
++ 24.51906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 818
+- 24.51906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 818
++ 24.519062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 819
+- 24.519062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 819
++ 24.519079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 820
+- 24.519079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 820
++ 24.519098 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 821
+- 24.519098 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 821
++ 24.519109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 822
+- 24.519109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 822
++ 24.519113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 823
+- 24.519113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 823
++ 24.519122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 824
+- 24.519122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 824
++ 24.519134 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 825
+- 24.519134 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 825
++ 24.519145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 826
+- 24.519145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 826
++ 24.519156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 827
+- 24.519156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 827
++ 24.519174 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 828
+- 24.519174 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 828
+r 24.534011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 814
+r 24.534024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 815
+r 24.534042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 816
+r 24.534043 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 817
+r 24.53406 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 818
+r 24.534062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 819
+r 24.53408 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 820
+r 24.534099 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 821
+r 24.534109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 822
+r 24.534114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 823
+r 24.534123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 824
+r 24.534134 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 825
+r 24.534146 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 826
+r 24.534156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 827
+r 24.534174 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 29001 130 828
++ 24.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 131 88
+- 24.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 131 88
++ 24.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 131 89
+- 24.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 131 89
+s -t 24.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 24.600305758 -Hs 9 -Hd -2 -Ni 9 -Nx 488.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 24.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 131 88
+r 24.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 131 89
++ 24.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 131
+- 24.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 131
+r 24.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 131
++ 24.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 131
+- 24.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 131
++ 24.619006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 89
+- 24.619006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 89
+r 24.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 131
++ 24.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 29537 132
+- 24.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 29537 132
+r 24.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 29537 132
++ 24.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 29537 132
+- 24.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 29537 132
+r 24.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 29537 132
+r 24.634007 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 89
++ 24.63902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 829
+- 24.63902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 829
++ 24.639029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 830
+- 24.639029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 830
++ 24.639046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 831
+- 24.639046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 831
++ 24.63906 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 832
+- 24.63906 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 832
++ 24.639078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 833
+- 24.639078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 833
++ 24.639085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 834
+- 24.639085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 834
++ 24.639087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 835
+- 24.639087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 835
++ 24.63909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 836
+- 24.63909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 836
++ 24.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 837
+- 24.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 837
++ 24.639103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 838
+- 24.639103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 838
++ 24.639112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 839
+- 24.639112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 839
++ 24.639131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 840
+- 24.639131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 840
++ 24.639144 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 841
+- 24.639144 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 841
+r 24.65402 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 829
+r 24.654029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 830
+r 24.654046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 831
+r 24.654061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 832
+r 24.654079 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 833
+r 24.654086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 834
+r 24.654087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 835
+r 24.654091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 836
+r 24.654092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 837
+r 24.654104 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 838
+r 24.654112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 839
+r 24.654131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 840
+r 24.654145 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 29537 132 841
+s -t 24.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 24.700305767 -Hs 9 -Hd -2 -Ni 9 -Nx 491.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 24.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 133 90
+- 24.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 133 90
+r 24.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 133 90
++ 24.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 133
+- 24.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 133
+r 24.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 133
++ 24.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 133
+- 24.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 133
++ 24.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 841
+- 24.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 841
+r 24.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 133
+r 24.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 841
++ 24.779015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 90
+- 24.779015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 90
+r 24.794016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 90
+s -t 24.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 24.800305776 -Hs 9 -Hd -2 -Ni 9 -Nx 494.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 24.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 24.900305785 -Hs 9 -Hd -2 -Ni 9 -Nx 497.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 25 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 30001 135
+- 25 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 30001 135
+s -t 25.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 25.000305794 -Hs 9 -Hd -2 -Ni 9 -Nx 500.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 25.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 30001 135
++ 25.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 30001 135
+- 25.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 30001 135
+r 25.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 30001 135
++ 25.01901 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 842
+- 25.01901 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 842
++ 25.019016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 843
+- 25.019016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 843
++ 25.019023 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 844
+- 25.019023 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 844
++ 25.019029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 845
+- 25.019029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 845
++ 25.019036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 846
+- 25.019036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 846
++ 25.019055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 847
+- 25.019055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 847
++ 25.019069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 848
+- 25.019069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 848
++ 25.019072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 849
+- 25.019072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 849
++ 25.019078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 850
+- 25.019078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 850
++ 25.019088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 851
+- 25.019088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 851
++ 25.019093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 852
+- 25.019093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 852
++ 25.0191 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 853
+- 25.0191 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 853
++ 25.019119 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 854
+- 25.019119 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 854
++ 25.019138 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 855
+- 25.019138 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 855
++ 25.019157 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 856
+- 25.019157 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 856
+r 25.03401 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 842
+r 25.034017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 843
+r 25.034023 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 844
+r 25.034029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 845
+r 25.034036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 846
+r 25.034056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 847
+r 25.034069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 848
+r 25.034073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 849
+r 25.034079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 850
+r 25.034089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 851
+r 25.034094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 852
+r 25.034101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 853
+r 25.034119 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 854
+r 25.034139 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 855
+r 25.034158 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 30001 135 856
++ 25.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 136 91
+- 25.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 136 91
++ 25.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 136 92
+- 25.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 136 92
+s -t 25.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 25.100305803 -Hs 9 -Hd -2 -Ni 9 -Nx 503.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 25.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 136 91
+r 25.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 136 92
++ 25.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 136
+- 25.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 136
+r 25.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 136
++ 25.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 136
+- 25.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 136
++ 25.119003 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 92
+- 25.119003 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 92
+r 25.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 136
++ 25.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 30537 137
+- 25.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 30537 137
+r 25.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 30537 137
++ 25.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 30537 137
+- 25.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 30537 137
+r 25.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 30537 137
+r 25.134003 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 92
++ 25.13901 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 857
+- 25.13901 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 857
++ 25.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 858
+- 25.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 858
++ 25.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 859
+- 25.139018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 859
++ 25.139025 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 860
+- 25.139025 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 860
++ 25.139039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 861
+- 25.139039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 861
++ 25.139054 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 862
+- 25.139054 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 862
++ 25.139055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 863
+- 25.139055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 863
++ 25.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 864
+- 25.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 864
++ 25.139073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 865
+- 25.139073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 865
++ 25.13908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 866
+- 25.13908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 866
++ 25.139087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 867
+- 25.139087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 867
++ 25.139103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 868
+- 25.139103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 868
++ 25.139121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 869
+- 25.139121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 869
+r 25.154011 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 857
+r 25.154018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 858
+r 25.154018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 859
+r 25.154025 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 860
+r 25.154039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 861
+r 25.154054 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 862
+r 25.154056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 863
+r 25.154059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 864
+r 25.154074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 865
+r 25.15408 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 866
+r 25.154088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 867
+r 25.154103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 868
+r 25.154122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 30537 137 869
+s -t 25.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 25.200305812 -Hs 9 -Hd -2 -Ni 9 -Nx 506.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 25.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 138 93
+- 25.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 138 93
+r 25.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 138 93
++ 25.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 138
+- 25.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 138
+r 25.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 138
++ 25.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 138
+- 25.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 138
++ 25.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 869
+- 25.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 869
+r 25.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 138
+r 25.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 869
++ 25.279008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 93
+- 25.279008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 93
+r 25.294009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 93
+s -t 25.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 25.300305821 -Hs 9 -Hd -2 -Ni 9 -Nx 509.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 25.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 25.400305830 -Hs 9 -Hd -2 -Ni 9 -Nx 512.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 25.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 31001 139
+- 25.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 31001 139
+s -t 25.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 25.500305839 -Hs 9 -Hd -2 -Ni 9 -Nx 515.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 25.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 31001 139
++ 25.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 31001 139
+- 25.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 31001 139
+r 25.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 31001 139
++ 25.519003 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 870
+- 25.519003 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 870
++ 25.519018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 871
+- 25.519018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 871
++ 25.519022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 872
+- 25.519022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 872
++ 25.519042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 873
+- 25.519042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 873
++ 25.519053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 874
+- 25.519053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 874
++ 25.519053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 875
+- 25.519053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 875
++ 25.519069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 876
+- 25.519069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 876
++ 25.519075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 877
+- 25.519075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 877
++ 25.519087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 878
+- 25.519087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 878
++ 25.519092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 879
+- 25.519092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 879
++ 25.519094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 880
+- 25.519094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 880
++ 25.519102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 881
+- 25.519102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 881
++ 25.51912 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 882
+- 25.51912 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 882
++ 25.519122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 883
+- 25.519122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 883
++ 25.519122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 884
+- 25.519123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 884
+r 25.534003 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 870
+r 25.534018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 871
+r 25.534023 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 872
+r 25.534042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 873
+r 25.534053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 874
+r 25.534054 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 875
+r 25.53407 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 876
+r 25.534075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 877
+r 25.534088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 878
+r 25.534092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 879
+r 25.534095 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 880
+r 25.534102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 881
+r 25.534121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 882
+r 25.534123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 883
+r 25.534123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 31001 139 884
++ 25.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 140 94
+- 25.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 140 94
++ 25.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 140 95
+- 25.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 140 95
+s -t 25.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 25.600305848 -Hs 9 -Hd -2 -Ni 9 -Nx 518.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 25.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 140 94
+r 25.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 140 95
++ 25.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 140
+- 25.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 140
+r 25.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 140
++ 25.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 140
+- 25.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 140
++ 25.619004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 95
+- 25.619004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 95
+r 25.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 140
++ 25.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 31537 141
+- 25.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 31537 141
+r 25.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 31537 141
++ 25.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 31537 141
+- 25.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 31537 141
+r 25.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 31537 141
+r 25.634005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 95
++ 25.639017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 885
+- 25.639017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 885
++ 25.639023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 886
+- 25.639023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 886
++ 25.639031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 887
+- 25.639031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 887
++ 25.639035 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 888
+- 25.639035 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 888
++ 25.639038 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 889
+- 25.639038 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 889
++ 25.639047 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 890
+- 25.639047 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 890
++ 25.639061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 891
+- 25.639061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 891
++ 25.639064 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 892
+- 25.639064 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 892
++ 25.639076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 893
+- 25.639076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 893
++ 25.639086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 894
+- 25.639086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 894
++ 25.639089 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 895
+- 25.639089 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 895
++ 25.639092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 896
+- 25.639092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 896
++ 25.6391 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 897
+- 25.6391 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 897
+r 25.654018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 885
+r 25.654024 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 886
+r 25.654031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 887
+r 25.654036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 888
+r 25.654039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 889
+r 25.654047 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 890
+r 25.654062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 891
+r 25.654064 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 892
+r 25.654076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 893
+r 25.654086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 894
+r 25.654089 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 895
+r 25.654093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 896
+r 25.6541 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 31537 141 897
+s -t 25.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 25.700305857 -Hs 9 -Hd -2 -Ni 9 -Nx 521.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 25.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 142 96
+- 25.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 142 96
+r 25.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 142 96
++ 25.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 142
+- 25.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 142
+r 25.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 142
++ 25.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 142
+- 25.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 142
++ 25.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 897
+- 25.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 897
+r 25.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 142
+r 25.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 897
++ 25.779 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 96
+- 25.779 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 96
+r 25.794001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 96
+s -t 25.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 25.800305866 -Hs 9 -Hd -2 -Ni 9 -Nx 524.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 25.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r -t 25.900305875 -Hs 9 -Hd -2 -Ni 9 -Nx 527.01 -Ny 200.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 26 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 32001 143
+- 26 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 32001 143
+s -t 26.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 26.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 32001 143
++ 26.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 32001 143
+- 26.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 32001 143
+r 26.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 32001 143
++ 26.019011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 898
+- 26.019011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 898
++ 26.019017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 899
+- 26.019017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 899
++ 26.019027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 900
+- 26.019027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 900
++ 26.019035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 901
+- 26.019035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 901
++ 26.019048 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 902
+- 26.019048 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 902
++ 26.019056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 903
+- 26.019056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 903
++ 26.019056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 904
+- 26.019056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 904
++ 26.019065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 905
+- 26.019065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 905
++ 26.019067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 906
+- 26.019067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 906
++ 26.019081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 907
+- 26.019081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 907
++ 26.019085 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 908
+- 26.019085 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 908
++ 26.019087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 909
+- 26.019087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 909
++ 26.0191 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 910
+- 26.0191 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 910
++ 26.019119 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 911
+- 26.019119 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 911
++ 26.019134 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 912
+- 26.019134 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 912
+r 26.034012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 898
+r 26.034018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 899
+r 26.034027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 900
+r 26.034036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 901
+r 26.034048 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 902
+r 26.034056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 903
+r 26.034057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 904
+r 26.034065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 905
+r 26.034067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 906
+r 26.034082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 907
+r 26.034085 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 908
+r 26.034087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 909
+r 26.034101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 910
+r 26.03412 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 911
+r 26.034135 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 32001 143 912
++ 26.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 144 97
+- 26.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 144 97
++ 26.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 144 98
+- 26.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 144 98
+s -t 26.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 26.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 144 97
+r 26.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 144 98
++ 26.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 144
+- 26.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 144
+r 26.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 144
++ 26.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 144
+- 26.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 144
++ 26.119016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 98
+- 26.119016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 98
+r 26.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 144
++ 26.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 32537 145
+- 26.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 32537 145
+r 26.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 32537 145
++ 26.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 32537 145
+- 26.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 32537 145
+r 26.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 32537 145
+r 26.134017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 98
++ 26.139013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 913
+- 26.139013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 913
++ 26.139014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 914
+- 26.139014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 914
++ 26.139018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 915
+- 26.139018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 915
++ 26.139022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 916
+- 26.139022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 916
++ 26.139037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 917
+- 26.139037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 917
++ 26.139043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 918
+- 26.139043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 918
++ 26.139051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 919
+- 26.139051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 919
++ 26.13907 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 920
+- 26.13907 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 920
++ 26.139073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 921
+- 26.139073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 921
++ 26.13909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 922
+- 26.13909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 922
++ 26.139101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 923
+- 26.139101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 923
++ 26.139116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 924
+- 26.139116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 924
++ 26.139135 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 925
+- 26.139135 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 925
+r 26.154014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 913
+r 26.154015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 914
+r 26.154018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 915
+r 26.154022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 916
+r 26.154037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 917
+r 26.154043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 918
+r 26.154051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 919
+r 26.15407 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 920
+r 26.154074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 921
+r 26.15409 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 922
+r 26.154101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 923
+r 26.154116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 924
+r 26.154135 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 32537 145 925
+s -t 26.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 26.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 146 99
+- 26.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 146 99
+r 26.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 146 99
++ 26.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 146
+- 26.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 146
+r 26.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 146
++ 26.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 146
+- 26.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 146
++ 26.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 925
+- 26.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 925
+r 26.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 146
+r 26.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 925
++ 26.279011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 99
+- 26.279011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 99
+r 26.294012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 99
+s -t 26.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 26.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 26.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 33001 147
+- 26.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 33001 147
+s -t 26.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 26.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 33001 147
++ 26.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 33001 147
+- 26.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 33001 147
+r 26.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 33001 147
++ 26.519014 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 926
+- 26.519014 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 926
++ 26.519033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 927
+- 26.519033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 927
++ 26.519038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 928
+- 26.519038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 928
++ 26.519054 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 929
+- 26.519054 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 929
++ 26.51907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 930
+- 26.51907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 930
++ 26.519078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 931
+- 26.519078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 931
++ 26.519087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 932
+- 26.519087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 932
++ 26.519103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 933
+- 26.519103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 933
++ 26.519111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 934
+- 26.519111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 934
++ 26.519112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 935
+- 26.519112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 935
++ 26.519122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 936
+- 26.519122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 936
++ 26.519136 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 937
+- 26.519136 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 937
++ 26.519143 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 938
+- 26.519143 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 938
++ 26.519143 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 939
+- 26.519143 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 939
++ 26.519149 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 940
+- 26.519149 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 940
+r 26.534014 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 926
+r 26.534033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 927
+r 26.534038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 928
+r 26.534055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 929
+r 26.53407 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 930
+r 26.534078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 931
+r 26.534087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 932
+r 26.534103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 933
+r 26.534112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 934
+r 26.534112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 935
+r 26.534123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 936
+r 26.534136 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 937
+r 26.534143 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 938
+r 26.534144 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 939
+r 26.534149 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 33001 147 940
++ 26.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 148 100
+- 26.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 148 100
++ 26.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 148 101
+- 26.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 148 101
+s -t 26.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 26.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 148 100
+r 26.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 148 101
++ 26.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 148
+- 26.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 148
+r 26.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 148
++ 26.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 148
+- 26.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 148
++ 26.619002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 101
+- 26.619002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 101
+r 26.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 148
++ 26.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 33537 149
+- 26.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 33537 149
+r 26.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 33537 149
++ 26.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 33537 149
+- 26.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 33537 149
+r 26.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 33537 149
+r 26.634002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 101
++ 26.639017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 941
+- 26.639017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 941
++ 26.639017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 942
+- 26.639018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 942
++ 26.639024 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 943
+- 26.639024 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 943
++ 26.639044 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 944
+- 26.639044 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 944
++ 26.639054 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 945
+- 26.639054 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 945
++ 26.639055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 946
+- 26.639055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 946
++ 26.639065 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 947
+- 26.639065 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 947
++ 26.639078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 948
+- 26.639078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 948
++ 26.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 949
+- 26.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 949
++ 26.639101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 950
+- 26.639101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 950
++ 26.63911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 951
+- 26.63911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 951
++ 26.639125 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 952
+- 26.639125 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 952
++ 26.63914 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 953
+- 26.63914 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 953
+r 26.654018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 941
+r 26.654018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 942
+r 26.654024 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 943
+r 26.654044 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 944
+r 26.654054 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 945
+r 26.654055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 946
+r 26.654065 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 947
+r 26.654078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 948
+r 26.654091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 949
+r 26.654101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 950
+r 26.654111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 951
+r 26.654125 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 952
+r 26.654141 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 33537 149 953
+s -t 26.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 26.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 150 102
+- 26.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 150 102
+r 26.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 150 102
++ 26.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 150
+- 26.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 150
+r 26.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 150
++ 26.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 150
+- 26.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 150
++ 26.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 953
+- 26.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 953
+r 26.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 150
+r 26.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 953
++ 26.779008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 102
+- 26.779008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 102
+r 26.794009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 102
+s -t 26.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 26.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 27 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 34001 151
+- 27 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 34001 151
+s -t 27.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 27.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 34001 151
++ 27.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 34001 151
+- 27.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 34001 151
+r 27.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 34001 151
++ 27.019008 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 954
+- 27.019008 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 954
++ 27.019028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 955
+- 27.019028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 955
++ 27.019031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 956
+- 27.019031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 956
++ 27.019037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 957
+- 27.019037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 957
++ 27.019049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 958
+- 27.019049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 958
++ 27.019056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 959
+- 27.019056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 959
++ 27.01907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 960
+- 27.01907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 960
++ 27.019075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 961
+- 27.019075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 961
++ 27.019076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 962
+- 27.019076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 962
++ 27.019092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 963
+- 27.019092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 963
++ 27.019094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 964
+- 27.019094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 964
++ 27.019108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 965
+- 27.019108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 965
++ 27.019117 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 966
+- 27.019117 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 966
++ 27.019121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 967
+- 27.019121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 967
++ 27.019128 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 968
+- 27.019128 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 968
+r 27.034009 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 954
+r 27.034028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 955
+r 27.034031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 956
+r 27.034038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 957
+r 27.034049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 958
+r 27.034056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 959
+r 27.03407 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 960
+r 27.034075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 961
+r 27.034076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 962
+r 27.034093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 963
+r 27.034095 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 964
+r 27.034108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 965
+r 27.034117 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 966
+r 27.034121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 967
+r 27.034128 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 34001 151 968
++ 27.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 152 103
+- 27.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 152 103
++ 27.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 152 104
+- 27.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 152 104
+s -t 27.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 27.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 152 103
+r 27.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 152 104
++ 27.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 152
+- 27.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 152
+r 27.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 152
++ 27.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 152
+- 27.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 152
++ 27.119007 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 104
+- 27.119007 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 104
+r 27.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 152
++ 27.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 34537 153
+- 27.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 34537 153
+r 27.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 34537 153
++ 27.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 34537 153
+- 27.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 34537 153
+r 27.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 34537 153
+r 27.134007 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 104
++ 27.139004 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 969
+- 27.139004 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 969
++ 27.139012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 970
+- 27.139012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 970
++ 27.139025 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 971
+- 27.139025 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 971
++ 27.139028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 972
+- 27.139028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 972
++ 27.139028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 973
+- 27.139028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 973
++ 27.139047 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 974
+- 27.139047 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 974
++ 27.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 975
+- 27.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 975
++ 27.139062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 976
+- 27.139062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 976
++ 27.139074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 977
+- 27.139074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 977
++ 27.139091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 978
+- 27.139091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 978
++ 27.139093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 979
+- 27.139093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 979
++ 27.139102 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 980
+- 27.139102 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 980
++ 27.139107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 981
+- 27.139107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 981
+r 27.154005 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 969
+r 27.154013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 970
+r 27.154026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 971
+r 27.154028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 972
+r 27.154029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 973
+r 27.154047 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 974
+r 27.154059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 975
+r 27.154062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 976
+r 27.154074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 977
+r 27.154092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 978
+r 27.154093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 979
+r 27.154102 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 980
+r 27.154108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 34537 153 981
+s -t 27.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 27.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 154 105
+- 27.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 154 105
+r 27.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 154 105
++ 27.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 154
+- 27.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 154
+r 27.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 154
++ 27.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 154
+- 27.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 154
++ 27.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 981
+- 27.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 981
+r 27.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 154
+r 27.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 981
++ 27.279008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 105
+- 27.279008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 105
+r 27.294009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 105
+s -t 27.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 27.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 27.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 35001 155
+- 27.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 35001 155
+s -t 27.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 27.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 35001 155
++ 27.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 35001 155
+- 27.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 35001 155
+r 27.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 35001 155
++ 27.519002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 982
+- 27.519002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 982
++ 27.519011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 983
+- 27.519011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 983
++ 27.519027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 984
+- 27.519027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 984
++ 27.519033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 985
+- 27.519033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 985
++ 27.519036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 986
+- 27.519036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 986
++ 27.519046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 987
+- 27.519046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 987
++ 27.51906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 988
+- 27.51906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 988
++ 27.519064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 989
+- 27.519064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 989
++ 27.519072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 990
+- 27.519072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 990
++ 27.51908 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 991
+- 27.51908 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 991
++ 27.519089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 992
+- 27.519089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 992
++ 27.519109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 993
+- 27.519109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 993
++ 27.519126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 994
+- 27.519126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 994
++ 27.519135 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 995
+- 27.519135 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 995
++ 27.519152 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 996
+- 27.519152 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 996
+r 27.534003 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 982
+r 27.534012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 983
+r 27.534028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 984
+r 27.534034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 985
+r 27.534037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 986
+r 27.534046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 987
+r 27.534061 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 988
+r 27.534064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 989
+r 27.534073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 990
+r 27.53408 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 991
+r 27.53409 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 992
+r 27.534109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 993
+r 27.534126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 994
+r 27.534135 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 995
+r 27.534152 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 35001 155 996
++ 27.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 156 106
+- 27.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 156 106
++ 27.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 156 107
+- 27.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 156 107
+s -t 27.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 27.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 156 106
+r 27.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 156 107
++ 27.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 156
+- 27.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 156
+r 27.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 156
++ 27.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 156
+- 27.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 156
++ 27.619002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 107
+- 27.619002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 107
+r 27.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 156
++ 27.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 35537 157
+- 27.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 35537 157
+r 27.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 35537 157
++ 27.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 35537 157
+- 27.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 35537 157
+r 27.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 35537 157
+r 27.634002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 107
++ 27.639009 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 997
+- 27.639009 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 997
++ 27.639012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 998
+- 27.639012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 998
++ 27.63902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 999
+- 27.63902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 999
++ 27.639022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1000
+- 27.639022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1000
++ 27.639031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1001
+- 27.639031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1001
++ 27.639034 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1002
+- 27.639034 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1002
++ 27.639045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1003
+- 27.639045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1003
++ 27.639059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1004
+- 27.639059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1004
++ 27.639071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1005
+- 27.639071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1005
++ 27.639077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1006
+- 27.639077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1006
++ 27.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1007
+- 27.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1007
++ 27.639103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1008
+- 27.639103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1008
++ 27.63912 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1009
+- 27.63912 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1009
+r 27.654009 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 997
+r 27.654012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 998
+r 27.654021 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 999
+r 27.654023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1000
+r 27.654032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1001
+r 27.654035 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1002
+r 27.654045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1003
+r 27.654059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1004
+r 27.654071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1005
+r 27.654078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1006
+r 27.654092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1007
+r 27.654103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1008
+r 27.65412 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 35537 157 1009
+s -t 27.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 27.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 158 108
+- 27.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 158 108
+r 27.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 158 108
++ 27.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 158
+- 27.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 158
+r 27.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 158
++ 27.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 158
+- 27.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 158
++ 27.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1009
+- 27.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1009
+r 27.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 158
+r 27.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1009
++ 27.779006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 108
+- 27.779006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 108
+r 27.794006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 108
+s -t 27.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 27.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 28 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 36001 159
+- 28 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 36001 159
+s -t 28.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 28.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 36001 159
++ 28.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 36001 159
+- 28.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 36001 159
+r 28.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 36001 159
++ 28.01901 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1010
+- 28.01901 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1010
++ 28.019024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1011
+- 28.019024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1011
++ 28.019029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1012
+- 28.019029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1012
++ 28.019044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1013
+- 28.019044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1013
++ 28.019053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1014
+- 28.019053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1014
++ 28.019069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1015
+- 28.019069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1015
++ 28.019073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1016
+- 28.019073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1016
++ 28.019074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1017
+- 28.019074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1017
++ 28.019082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1018
+- 28.019082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1018
++ 28.019083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1019
+- 28.019083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1019
++ 28.019087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1020
+- 28.019087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1020
++ 28.019103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1021
+- 28.019103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1021
++ 28.019116 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1022
+- 28.019116 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1022
++ 28.019122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1023
+- 28.019122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1023
++ 28.019123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1024
+- 28.019123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1024
+r 28.034011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1010
+r 28.034025 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1011
+r 28.034029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1012
+r 28.034044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1013
+r 28.034053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1014
+r 28.034069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1015
+r 28.034074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1016
+r 28.034074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1017
+r 28.034083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1018
+r 28.034084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1019
+r 28.034087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1020
+r 28.034104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1021
+r 28.034117 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1022
+r 28.034123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1023
+r 28.034124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 36001 159 1024
++ 28.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 160 109
+- 28.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 160 109
++ 28.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 160 110
+- 28.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 160 110
+s -t 28.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 28.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 160 109
+r 28.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 160 110
++ 28.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 160
+- 28.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 160
+r 28.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 160
++ 28.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 160
+- 28.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 160
++ 28.119008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 110
+- 28.119008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 110
+r 28.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 160
++ 28.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 36537 161
+- 28.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 36537 161
+r 28.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 36537 161
++ 28.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 36537 161
+- 28.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 36537 161
+r 28.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 36537 161
+r 28.134009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 110
++ 28.139 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1025
+- 28.139 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1025
++ 28.139001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1026
+- 28.139001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1026
++ 28.139007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1027
+- 28.139007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1027
++ 28.139019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1028
+- 28.139019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1028
++ 28.139032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1029
+- 28.139032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1029
++ 28.139033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1030
+- 28.139033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1030
++ 28.139038 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1031
+- 28.139038 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1031
++ 28.139057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1032
+- 28.139057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1032
++ 28.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1033
+- 28.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1033
++ 28.139073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1034
+- 28.139073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1034
++ 28.139093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1035
+- 28.139093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1035
++ 28.139112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1036
+- 28.139112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1036
++ 28.139125 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1037
+- 28.139125 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1037
+r 28.154001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1025
+r 28.154002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1026
+r 28.154007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1027
+r 28.15402 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1028
+r 28.154032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1029
+r 28.154033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1030
+r 28.154039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1031
+r 28.154058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1032
+r 28.154059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1033
+r 28.154074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1034
+r 28.154093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1035
+r 28.154113 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1036
+r 28.154125 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 36537 161 1037
+s -t 28.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 28.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 162 111
+- 28.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 162 111
+r 28.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 162 111
++ 28.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 162
+- 28.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 162
+r 28.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 162
++ 28.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 162
+- 28.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 162
++ 28.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1037
+- 28.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1037
+r 28.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 162
+r 28.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1037
++ 28.279003 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 111
+- 28.279003 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 111
+r 28.294003 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 111
+s -t 28.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 28.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 28.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 37001 163
+- 28.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 37001 163
+s -t 28.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 28.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 37001 163
++ 28.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 37001 163
+- 28.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 37001 163
+r 28.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 37001 163
++ 28.519006 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1038
+- 28.519006 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1038
++ 28.519025 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1039
+- 28.519025 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1039
++ 28.519036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1040
+- 28.519036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1040
++ 28.519041 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1041
+- 28.519041 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1041
++ 28.519057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1042
+- 28.519057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1042
++ 28.519064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1043
+- 28.519064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1043
++ 28.519077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1044
+- 28.519077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1044
++ 28.519086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1045
+- 28.519086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1045
++ 28.519103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1046
+- 28.519103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1046
++ 28.51912 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1047
+- 28.51912 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1047
++ 28.519139 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1048
+- 28.519139 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1048
++ 28.519145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1049
+- 28.519145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1049
++ 28.51915 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1050
+- 28.51915 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1050
++ 28.519161 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1051
+- 28.519161 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1051
++ 28.519175 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1052
+- 28.519175 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1052
+r 28.534007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1038
+r 28.534026 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1039
+r 28.534036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1040
+r 28.534041 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1041
+r 28.534057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1042
+r 28.534064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1043
+r 28.534077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1044
+r 28.534086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1045
+r 28.534103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1046
+r 28.534121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1047
+r 28.534139 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1048
+r 28.534146 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1049
+r 28.534151 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1050
+r 28.534161 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1051
+r 28.534175 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 37001 163 1052
++ 28.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 164 112
+- 28.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 164 112
++ 28.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 164 113
+- 28.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 164 113
+s -t 28.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 28.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 164 112
+r 28.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 164 113
++ 28.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 164
+- 28.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 164
+r 28.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 164
++ 28.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 164
+- 28.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 164
++ 28.619001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 113
+- 28.619001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 113
+r 28.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 164
++ 28.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 37537 165
+- 28.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 37537 165
+r 28.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 37537 165
++ 28.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 37537 165
+- 28.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 37537 165
+r 28.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 37537 165
+r 28.634002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 113
++ 28.63901 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1053
+- 28.63901 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1053
++ 28.639012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1054
+- 28.639012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1054
++ 28.63902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1055
+- 28.63902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1055
++ 28.639033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1056
+- 28.639033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1056
++ 28.639044 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1057
+- 28.639044 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1057
++ 28.639061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1058
+- 28.639061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1058
++ 28.639068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1059
+- 28.639068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1059
++ 28.63907 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1060
+- 28.63907 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1060
++ 28.639088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1061
+- 28.639088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1061
++ 28.639107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1062
+- 28.639107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1062
++ 28.639127 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1063
+- 28.639127 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1063
++ 28.639143 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1064
+- 28.639143 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1064
++ 28.639155 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1065
+- 28.639155 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1065
+r 28.65401 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1053
+r 28.654013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1054
+r 28.654021 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1055
+r 28.654033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1056
+r 28.654045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1057
+r 28.654061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1058
+r 28.654068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1059
+r 28.654071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1060
+r 28.654088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1061
+r 28.654108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1062
+r 28.654127 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1063
+r 28.654143 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1064
+r 28.654156 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 37537 165 1065
+s -t 28.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 28.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 166 114
+- 28.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 166 114
+r 28.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 166 114
++ 28.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 166
+- 28.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 166
+r 28.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 166
++ 28.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 166
+- 28.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 166
++ 28.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1065
+- 28.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1065
+r 28.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 166
+r 28.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1065
++ 28.779001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 114
+- 28.779001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 114
+r 28.794001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 114
+s -t 28.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 28.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 29 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 38001 167
+- 29 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 38001 167
+s -t 29.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 29.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 38001 167
++ 29.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 38001 167
+- 29.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 38001 167
+r 29.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 38001 167
++ 29.019001 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1066
+- 29.019001 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1066
++ 29.01902 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1067
+- 29.01902 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1067
++ 29.019033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1068
+- 29.019033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1068
++ 29.019042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1069
+- 29.019042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1069
++ 29.019046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1070
+- 29.019046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1070
++ 29.019047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1071
+- 29.019047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1071
++ 29.019057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1072
+- 29.019057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1072
++ 29.019068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1073
+- 29.019068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1073
++ 29.019076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1074
+- 29.019076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1074
++ 29.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1075
+- 29.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1075
++ 29.019083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1076
+- 29.019083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1076
++ 29.019086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1077
+- 29.019086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1077
++ 29.019101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1078
+- 29.019101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1078
++ 29.019115 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1079
+- 29.019115 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1079
++ 29.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1080
+- 29.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1080
+r 29.034001 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1066
+r 29.03402 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1067
+r 29.034034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1068
+r 29.034043 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1069
+r 29.034047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1070
+r 29.034048 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1071
+r 29.034058 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1072
+r 29.034069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1073
+r 29.034076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1074
+r 29.034077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1075
+r 29.034084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1076
+r 29.034087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1077
+r 29.034101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1078
+r 29.034115 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1079
+r 29.034134 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 38001 167 1080
++ 29.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 168 115
+- 29.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 168 115
++ 29.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 168 116
+- 29.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 168 116
+s -t 29.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 29.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 168 115
+r 29.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 168 116
++ 29.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 168
+- 29.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 168
+r 29.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 168
++ 29.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 168
+- 29.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 168
++ 29.119002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 116
+- 29.119002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 116
+r 29.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 168
++ 29.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 38537 169
+- 29.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 38537 169
+r 29.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 38537 169
++ 29.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 38537 169
+- 29.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 38537 169
+r 29.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 38537 169
+r 29.134002 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 116
++ 29.139002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1081
+- 29.139002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1081
++ 29.139018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1082
+- 29.139018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1082
++ 29.139022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1083
+- 29.139022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1083
++ 29.139036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1084
+- 29.139036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1084
++ 29.139039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1085
+- 29.139039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1085
++ 29.139051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1086
+- 29.139051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1086
++ 29.139052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1087
+- 29.139052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1087
++ 29.139067 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1088
+- 29.139067 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1088
++ 29.139078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1089
+- 29.139078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1089
++ 29.139093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1090
+- 29.139093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1090
++ 29.1391 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1091
+- 29.1391 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1091
++ 29.139101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1092
+- 29.139101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1092
++ 29.139106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1093
+- 29.139106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1093
+r 29.154002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1081
+r 29.154018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1082
+r 29.154023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1083
+r 29.154036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1084
+r 29.15404 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1085
+r 29.154051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1086
+r 29.154052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1087
+r 29.154068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1088
+r 29.154078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1089
+r 29.154094 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1090
+r 29.1541 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1091
+r 29.154101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1092
+r 29.154107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 38537 169 1093
+s -t 29.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 29.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 170 117
+- 29.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 170 117
+r 29.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 170 117
++ 29.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 170
+- 29.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 170
+r 29.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 170
++ 29.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 170
+- 29.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 170
++ 29.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1093
+- 29.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1093
+r 29.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 170
+r 29.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1093
++ 29.279007 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 117
+- 29.279007 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 117
+r 29.294008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 117
+s -t 29.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 29.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 29.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 39001 171
+- 29.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 39001 171
+s -t 29.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 29.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 39001 171
++ 29.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 39001 171
+- 29.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 39001 171
+r 29.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 39001 171
++ 29.519001 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1094
+- 29.519001 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1094
++ 29.519007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1095
+- 29.519007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1095
++ 29.519015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1096
+- 29.519015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1096
++ 29.519022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1097
+- 29.519022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1097
++ 29.519028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1098
+- 29.519028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1098
++ 29.519028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1099
+- 29.519029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1099
++ 29.519037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1100
+- 29.519037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1100
++ 29.519038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1101
+- 29.519038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1101
++ 29.519038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1102
+- 29.519038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1102
++ 29.519056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1103
+- 29.519056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1103
++ 29.519057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1104
+- 29.519057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1104
++ 29.519071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1105
+- 29.519071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1105
++ 29.519075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1106
+- 29.519075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1106
++ 29.519076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1107
+- 29.519076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1107
++ 29.51909 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1108
+- 29.51909 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1108
+r 29.534002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1094
+r 29.534007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1095
+r 29.534016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1096
+r 29.534022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1097
+r 29.534029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1098
+r 29.534029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1099
+r 29.534037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1100
+r 29.534038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1101
+r 29.534039 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1102
+r 29.534056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1103
+r 29.534057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1104
+r 29.534072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1105
+r 29.534076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1106
+r 29.534077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1107
+r 29.534091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 39001 171 1108
++ 29.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 172 118
+- 29.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 172 118
++ 29.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 172 119
+- 29.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 172 119
+s -t 29.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 29.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 172 118
+r 29.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 172 119
++ 29.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 172
+- 29.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 172
+r 29.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 172
++ 29.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 172
+- 29.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 172
++ 29.619004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 119
+- 29.619004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 119
+r 29.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 172
++ 29.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 39537 173
+- 29.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 39537 173
+r 29.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 39537 173
++ 29.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 39537 173
+- 29.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 39537 173
+r 29.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 39537 173
+r 29.634005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 119
++ 29.639015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1109
+- 29.639015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1109
++ 29.639035 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1110
+- 29.639035 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1110
++ 29.639046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1111
+- 29.639046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1111
++ 29.639049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1112
+- 29.639049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1112
++ 29.639069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1113
+- 29.639069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1113
++ 29.63908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1114
+- 29.63908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1114
++ 29.639092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1115
+- 29.639092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1115
++ 29.639102 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1116
+- 29.639102 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1116
++ 29.639102 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1117
+- 29.639103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1117
++ 29.639109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1118
+- 29.639109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1118
++ 29.63911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1119
+- 29.63911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1119
++ 29.639119 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1120
+- 29.639119 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1120
++ 29.639129 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1121
+- 29.639129 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1121
+r 29.654015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1109
+r 29.654035 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1110
+r 29.654047 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1111
+r 29.65405 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1112
+r 29.654069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1113
+r 29.65408 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1114
+r 29.654092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1115
+r 29.654103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1116
+r 29.654103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1117
+r 29.654109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1118
+r 29.65411 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1119
+r 29.65412 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1120
+r 29.654129 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 39537 173 1121
+s -t 29.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 29.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 174 120
+- 29.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 174 120
+r 29.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 174 120
++ 29.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 174
+- 29.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 174
+r 29.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 174
++ 29.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 174
+- 29.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 174
++ 29.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1121
+- 29.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1121
+r 29.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 174
+r 29.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1121
++ 29.779001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 120
+- 29.779001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 120
+r 29.794001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 120
+s -t 29.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 29.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 30 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 40001 175
+- 30 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 40001 175
+s -t 30.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 30.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 40001 175
++ 30.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 40001 175
+- 30.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 40001 175
+r 30.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 40001 175
++ 30.019019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1122
+- 30.019019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1122
++ 30.019027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1123
+- 30.019027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1123
++ 30.019044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1124
+- 30.019044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1124
++ 30.019046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1125
+- 30.019046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1125
++ 30.01905 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1126
+- 30.01905 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1126
++ 30.019065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1127
+- 30.019065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1127
++ 30.019067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1128
+- 30.019067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1128
++ 30.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1129
+- 30.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1129
++ 30.019096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1130
+- 30.019096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1130
++ 30.019103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1131
+- 30.019103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1131
++ 30.019122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1132
+- 30.019122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1132
++ 30.019124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1133
+- 30.019124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1133
++ 30.019126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1134
+- 30.019126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1134
++ 30.01914 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1135
+- 30.01914 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1135
++ 30.019142 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1136
+- 30.019142 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1136
+r 30.03402 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1122
+r 30.034027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1123
+r 30.034044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1124
+r 30.034046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1125
+r 30.03405 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1126
+r 30.034066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1127
+r 30.034068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1128
+r 30.034078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1129
+r 30.034097 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1130
+r 30.034103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1131
+r 30.034122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1132
+r 30.034125 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1133
+r 30.034126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1134
+r 30.034141 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1135
+r 30.034143 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 40001 175 1136
++ 30.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 177 121
+- 30.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 177 121
++ 30.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 177 122
+- 30.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 177 122
+s -t 30.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 30.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 177 121
+r 30.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 177 122
++ 30.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 177
+- 30.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 177
+r 30.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 177
++ 30.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 177
+- 30.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 177
++ 30.119007 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 122
+- 30.119007 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 122
+r 30.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 177
++ 30.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 40537 178
+- 30.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 40537 178
+r 30.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 40537 178
++ 30.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 40537 178
+- 30.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 40537 178
+r 30.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 40537 178
+r 30.134007 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 122
++ 30.139001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1137
+- 30.139001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1137
++ 30.139009 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1138
+- 30.139009 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1138
++ 30.139023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1139
+- 30.139023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1139
++ 30.139029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1140
+- 30.139029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1140
++ 30.139045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1141
+- 30.139045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1141
++ 30.139059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1142
+- 30.139059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1142
++ 30.139073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1143
+- 30.139073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1143
++ 30.139074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1144
+- 30.139074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1144
++ 30.139076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1145
+- 30.139076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1145
++ 30.139094 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1146
+- 30.139094 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1146
++ 30.139108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1147
+- 30.139108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1147
++ 30.139115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1148
+- 30.139115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1148
++ 30.139132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1149
+- 30.139132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1149
+r 30.154002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1137
+r 30.15401 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1138
+r 30.154024 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1139
+r 30.154029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1140
+r 30.154045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1141
+r 30.154059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1142
+r 30.154074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1143
+r 30.154075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1144
+r 30.154076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1145
+r 30.154094 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1146
+r 30.154109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1147
+r 30.154115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1148
+r 30.154133 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 40537 178 1149
+s -t 30.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 30.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 179 123
+- 30.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 179 123
+r 30.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 179 123
++ 30.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 179
+- 30.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 179
+r 30.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 179
++ 30.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 179
+- 30.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 179
++ 30.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1149
+- 30.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1149
+r 30.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 179
+r 30.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1149
++ 30.279003 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 123
+- 30.279003 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 123
+r 30.294003 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 123
+s -t 30.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 30.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 30.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 41001 180
+- 30.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 41001 180
+s -t 30.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 30.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 41001 180
++ 30.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 41001 180
+- 30.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 41001 180
+r 30.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 41001 180
++ 30.519015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1150
+- 30.519015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1150
++ 30.51902 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1151
+- 30.51902 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1151
++ 30.519031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1152
+- 30.519031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1152
++ 30.519046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1153
+- 30.519046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1153
++ 30.519062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1154
+- 30.519062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1154
++ 30.519065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1155
+- 30.519065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1155
++ 30.51907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1156
+- 30.51907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1156
++ 30.519073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1157
+- 30.519073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1157
++ 30.519088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1158
+- 30.519088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1158
++ 30.519102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1159
+- 30.519102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1159
++ 30.519121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1160
+- 30.519121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1160
++ 30.51913 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1161
+- 30.51913 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1161
++ 30.519137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1162
+- 30.519137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1162
++ 30.51915 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1163
+- 30.51915 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1163
++ 30.519153 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1164
+- 30.519153 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1164
+r 30.534016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1150
+r 30.534021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1151
+r 30.534032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1152
+r 30.534047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1153
+r 30.534062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1154
+r 30.534065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1155
+r 30.53407 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1156
+r 30.534074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1157
+r 30.534088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1158
+r 30.534102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1159
+r 30.534121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1160
+r 30.53413 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1161
+r 30.534137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1162
+r 30.534151 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1163
+r 30.534153 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 41001 180 1164
++ 30.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 181 124
+- 30.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 181 124
++ 30.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 181 125
+- 30.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 181 125
+s -t 30.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 30.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 181 124
+r 30.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 181 125
++ 30.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 181
+- 30.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 181
+r 30.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 181
++ 30.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 181
+- 30.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 181
++ 30.61902 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 125
+- 30.61902 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 125
+r 30.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 181
++ 30.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 41537 182
+- 30.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 41537 182
+r 30.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 41537 182
++ 30.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 41537 182
+- 30.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 41537 182
+r 30.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 41537 182
+r 30.63402 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 125
++ 30.639 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1165
+- 30.639 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1165
++ 30.639001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1166
+- 30.639001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1166
++ 30.639003 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1167
+- 30.639003 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1167
++ 30.639016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1168
+- 30.639016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1168
++ 30.639017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1169
+- 30.639017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1169
++ 30.639032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1170
+- 30.639032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1170
++ 30.63904 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1171
+- 30.63904 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1171
++ 30.639049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1172
+- 30.639049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1172
++ 30.639057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1173
+- 30.639057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1173
++ 30.639068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1174
+- 30.639068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1174
++ 30.639077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1175
+- 30.639077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1175
++ 30.639095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1176
+- 30.639095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1176
++ 30.639101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1177
+- 30.639101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1177
+r 30.654001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1165
+r 30.654001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1166
+r 30.654003 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1167
+r 30.654016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1168
+r 30.654017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1169
+r 30.654032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1170
+r 30.65404 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1171
+r 30.654049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1172
+r 30.654058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1173
+r 30.654068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1174
+r 30.654078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1175
+r 30.654096 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1176
+r 30.654102 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 41537 182 1177
+s -t 30.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 30.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 183 126
+- 30.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 183 126
+r 30.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 183 126
++ 30.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 183
+- 30.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 183
+r 30.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 183
++ 30.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 183
+- 30.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 183
++ 30.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1177
+- 30.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1177
+r 30.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 183
+r 30.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1177
++ 30.779016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 126
+- 30.779016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 126
+r 30.794017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 126
+s -t 30.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 30.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 31 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 42001 184
+- 31 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 42001 184
+s -t 31.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 31.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 42001 184
++ 31.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 42001 184
+- 31.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 42001 184
+r 31.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 42001 184
++ 31.019003 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1178
+- 31.019003 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1178
++ 31.019023 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1179
+- 31.019023 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1179
++ 31.01903 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1180
+- 31.01903 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1180
++ 31.019034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1181
+- 31.019034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1181
++ 31.019042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1182
+- 31.019042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1182
++ 31.019056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1183
+- 31.019056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1183
++ 31.019075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1184
+- 31.019075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1184
++ 31.019091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1185
+- 31.019091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1185
++ 31.019094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1186
+- 31.019094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1186
++ 31.019097 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1187
+- 31.019097 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1187
++ 31.019108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1188
+- 31.019108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1188
++ 31.019126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1189
+- 31.019126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1189
++ 31.019145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1190
+- 31.019145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1190
++ 31.019148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1191
+- 31.019148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1191
++ 31.01915 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1192
+- 31.01915 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1192
+r 31.034004 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1178
+r 31.034023 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1179
+r 31.03403 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1180
+r 31.034034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1181
+r 31.034042 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1182
+r 31.034056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1183
+r 31.034076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1184
+r 31.034091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1185
+r 31.034094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1186
+r 31.034097 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1187
+r 31.034109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1188
+r 31.034127 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1189
+r 31.034146 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1190
+r 31.034149 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1191
+r 31.03415 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 42001 184 1192
++ 31.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 185 127
+- 31.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 185 127
++ 31.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 185 128
+- 31.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 185 128
+s -t 31.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 31.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 185 127
+r 31.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 185 128
++ 31.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 185
+- 31.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 185
+r 31.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 185
++ 31.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 185
+- 31.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 185
++ 31.119 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 128
+- 31.119 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 128
+r 31.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 185
++ 31.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 42537 186
+- 31.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 42537 186
+r 31.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 42537 186
++ 31.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 42537 186
+- 31.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 42537 186
+r 31.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 42537 186
+r 31.134001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 128
++ 31.13901 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1193
+- 31.13901 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1193
++ 31.139019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1194
+- 31.139019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1194
++ 31.139036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1195
+- 31.139036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1195
++ 31.139039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1196
+- 31.139039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1196
++ 31.139042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1197
+- 31.139042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1197
++ 31.139061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1198
+- 31.139061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1198
++ 31.139076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1199
+- 31.139076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1199
++ 31.13909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1200
+- 31.13909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1200
++ 31.139101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1201
+- 31.139101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1201
++ 31.13912 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1202
+- 31.13912 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1202
++ 31.13913 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1203
+- 31.13913 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1203
++ 31.139142 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1204
+- 31.139142 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1204
++ 31.139149 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1205
+- 31.139149 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1205
+r 31.154011 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1193
+r 31.15402 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1194
+r 31.154036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1195
+r 31.154039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1196
+r 31.154043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1197
+r 31.154062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1198
+r 31.154076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1199
+r 31.15409 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1200
+r 31.154101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1201
+r 31.154121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1202
+r 31.154131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1203
+r 31.154142 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1204
+r 31.154149 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 42537 186 1205
+s -t 31.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 31.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 187 129
+- 31.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 187 129
+r 31.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 187 129
++ 31.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 187
+- 31.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 187
+r 31.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 187
++ 31.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 187
+- 31.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 187
++ 31.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1205
+- 31.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1205
+r 31.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 187
+r 31.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1205
++ 31.279 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 129
+- 31.279 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 129
+r 31.294001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 129
+s -t 31.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 31.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 31.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 43001 188
+- 31.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 43001 188
+s -t 31.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 31.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 43001 188
++ 31.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 43001 188
+- 31.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 43001 188
+r 31.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 43001 188
++ 31.519009 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1206
+- 31.519009 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1206
++ 31.519012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1207
+- 31.519012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1207
++ 31.519021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1208
+- 31.519021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1208
++ 31.519025 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1209
+- 31.519025 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1209
++ 31.51903 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1210
+- 31.51903 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1210
++ 31.519033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1211
+- 31.519033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1211
++ 31.519036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1212
+- 31.519036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1212
++ 31.519055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1213
+- 31.519055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1213
++ 31.519068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1214
+- 31.519068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1214
++ 31.519079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1215
+- 31.519079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1215
++ 31.519086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1216
+- 31.519086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1216
++ 31.519092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1217
+- 31.519092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1217
++ 31.519102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1218
+- 31.519102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1218
++ 31.519104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1219
+- 31.519104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1219
++ 31.51912 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1220
+- 31.51912 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1220
+r 31.534009 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1206
+r 31.534012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1207
+r 31.534021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1208
+r 31.534026 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1209
+r 31.534031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1210
+r 31.534034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1211
+r 31.534037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1212
+r 31.534056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1213
+r 31.534069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1214
+r 31.534079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1215
+r 31.534087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1216
+r 31.534093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1217
+r 31.534103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1218
+r 31.534104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1219
+r 31.53412 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 43001 188 1220
++ 31.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 189 130
+- 31.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 189 130
++ 31.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 189 131
+- 31.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 189 131
+s -t 31.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 31.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 189 130
+r 31.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 189 131
++ 31.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 189
+- 31.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 189
+r 31.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 189
++ 31.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 189
+- 31.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 189
++ 31.619012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 131
+- 31.619012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 131
+r 31.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 189
++ 31.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 43537 190
+- 31.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 43537 190
+r 31.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 43537 190
++ 31.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 43537 190
+- 31.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 43537 190
+r 31.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 43537 190
+r 31.634013 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 131
++ 31.639012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1221
+- 31.639012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1221
++ 31.639026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1222
+- 31.639026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1222
++ 31.639045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1223
+- 31.639045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1223
++ 31.639049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1224
+- 31.639049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1224
++ 31.639061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1225
+- 31.639061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1225
++ 31.639062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1226
+- 31.639062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1226
++ 31.639071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1227
+- 31.639071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1227
++ 31.639082 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1228
+- 31.639082 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1228
++ 31.6391 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1229
+- 31.6391 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1229
++ 31.639105 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1230
+- 31.639105 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1230
++ 31.63912 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1231
+- 31.63912 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1231
++ 31.639134 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1232
+- 31.639134 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1232
++ 31.639143 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1233
+- 31.639143 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1233
+r 31.654013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1221
+r 31.654026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1222
+r 31.654045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1223
+r 31.65405 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1224
+r 31.654062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1225
+r 31.654062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1226
+r 31.654071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1227
+r 31.654083 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1228
+r 31.6541 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1229
+r 31.654106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1230
+r 31.654121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1231
+r 31.654135 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1232
+r 31.654144 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 43537 190 1233
+s -t 31.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 31.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 191 132
+- 31.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 191 132
+r 31.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 191 132
++ 31.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 191
+- 31.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 191
+r 31.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 191
++ 31.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 191
+- 31.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 191
++ 31.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1233
+- 31.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1233
+r 31.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 191
+r 31.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1233
++ 31.779018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 132
+- 31.779018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 132
+r 31.794018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 132
+s -t 31.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 31.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 32 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 44001 192
+- 32 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 44001 192
+s -t 32.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 32.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 44001 192
++ 32.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 44001 192
+- 32.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 44001 192
+r 32.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 44001 192
++ 32.019003 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1234
+- 32.019003 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1234
++ 32.019014 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1235
+- 32.019014 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1235
++ 32.019022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1236
+- 32.019022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1236
++ 32.019033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1237
+- 32.019033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1237
++ 32.019035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1238
+- 32.019035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1238
++ 32.019049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1239
+- 32.019049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1239
++ 32.019062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1240
+- 32.019062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1240
++ 32.019062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1241
+- 32.019063 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1241
++ 32.019071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1242
+- 32.019071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1242
++ 32.019084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1243
+- 32.019084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1243
++ 32.01909 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1244
+- 32.01909 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1244
++ 32.019105 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1245
+- 32.019105 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1245
++ 32.019107 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1246
+- 32.019107 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1246
++ 32.019112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1247
+- 32.019112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1247
++ 32.019128 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1248
+- 32.019128 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1248
+r 32.034004 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1234
+r 32.034014 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1235
+r 32.034022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1236
+r 32.034033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1237
+r 32.034035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1238
+r 32.034049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1239
+r 32.034063 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1240
+r 32.034063 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1241
+r 32.034072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1242
+r 32.034085 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1243
+r 32.03409 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1244
+r 32.034105 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1245
+r 32.034108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1246
+r 32.034112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1247
+r 32.034129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 44001 192 1248
++ 32.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 193 133
+- 32.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 193 133
++ 32.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 193 134
+- 32.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 193 134
+s -t 32.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 32.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 193 133
+r 32.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 193 134
++ 32.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 193
+- 32.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 193
+r 32.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 193
++ 32.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 193
+- 32.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 193
++ 32.119015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 134
+- 32.119015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 134
+r 32.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 193
++ 32.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 44537 194
+- 32.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 44537 194
+r 32.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 44537 194
++ 32.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 44537 194
+- 32.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 44537 194
+r 32.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 44537 194
+r 32.134016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 134
++ 32.139014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1249
+- 32.139014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1249
++ 32.139015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1250
+- 32.139015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1250
++ 32.139016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1251
+- 32.139016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1251
++ 32.139032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1252
+- 32.139032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1252
++ 32.139046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1253
+- 32.139046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1253
++ 32.139063 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1254
+- 32.139063 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1254
++ 32.139074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1255
+- 32.139074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1255
++ 32.139085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1256
+- 32.139085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1256
++ 32.139104 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1257
+- 32.139104 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1257
++ 32.139108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1258
+- 32.139108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1258
++ 32.139116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1259
+- 32.139116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1259
++ 32.139121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1260
+- 32.139121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1260
++ 32.139128 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1261
+- 32.139128 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1261
+r 32.154015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1249
+r 32.154016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1250
+r 32.154017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1251
+r 32.154032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1252
+r 32.154047 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1253
+r 32.154063 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1254
+r 32.154074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1255
+r 32.154085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1256
+r 32.154105 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1257
+r 32.154109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1258
+r 32.154117 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1259
+r 32.154122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1260
+r 32.154129 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 44537 194 1261
+s -t 32.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 32.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 195 135
+- 32.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 195 135
+r 32.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 195 135
++ 32.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 195
+- 32.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 195
+r 32.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 195
++ 32.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 195
+- 32.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 195
++ 32.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1261
+- 32.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1261
+r 32.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 195
+r 32.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1261
++ 32.279019 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 135
+- 32.279019 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 135
+r 32.29402 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 135
+s -t 32.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 32.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 32.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 45001 196
+- 32.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 45001 196
+s -t 32.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 32.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 45001 196
++ 32.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 45001 196
+- 32.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 45001 196
+r 32.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 45001 196
++ 32.519015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1262
+- 32.519015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1262
++ 32.519032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1263
+- 32.519032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1263
++ 32.519044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1264
+- 32.519044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1264
++ 32.519049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1265
+- 32.519049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1265
++ 32.519051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1266
+- 32.519051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1266
++ 32.51906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1267
+- 32.51906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1267
++ 32.519075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1268
+- 32.519075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1268
++ 32.519076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1269
+- 32.519076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1269
++ 32.519096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1270
+- 32.519096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1270
++ 32.519112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1271
+- 32.519112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1271
++ 32.519121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1272
+- 32.519121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1272
++ 32.519129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1273
+- 32.519129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1273
++ 32.519129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1274
+- 32.519129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1274
++ 32.519148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1275
+- 32.519148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1275
++ 32.519156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1276
+- 32.519156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1276
+r 32.534015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1262
+r 32.534032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1263
+r 32.534044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1264
+r 32.53405 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1265
+r 32.534052 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1266
+r 32.534061 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1267
+r 32.534076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1268
+r 32.534077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1269
+r 32.534096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1270
+r 32.534113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1271
+r 32.534122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1272
+r 32.534129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1273
+r 32.53413 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1274
+r 32.534149 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1275
+r 32.534157 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 45001 196 1276
++ 32.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 197 136
+- 32.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 197 136
++ 32.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 197 137
+- 32.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 197 137
+s -t 32.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 32.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 197 136
+r 32.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 197 137
++ 32.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 197
+- 32.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 197
+r 32.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 197
++ 32.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 197
+- 32.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 197
++ 32.619017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 137
+- 32.619017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 137
+r 32.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 197
++ 32.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 45537 198
+- 32.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 45537 198
+r 32.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 45537 198
++ 32.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 45537 198
+- 32.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 45537 198
+r 32.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 45537 198
+r 32.634017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 137
++ 32.639012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1277
+- 32.639012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1277
++ 32.639027 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1278
+- 32.639027 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1278
++ 32.639042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1279
+- 32.639042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1279
++ 32.63905 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1280
+- 32.63905 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1280
++ 32.639058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1281
+- 32.639058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1281
++ 32.639066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1282
+- 32.639066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1282
++ 32.639081 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1283
+- 32.639081 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1283
++ 32.639099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1284
+- 32.639099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1284
++ 32.639108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1285
+- 32.639108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1285
++ 32.639121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1286
+- 32.639121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1286
++ 32.639132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1287
+- 32.639132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1287
++ 32.639151 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1288
+- 32.639151 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1288
++ 32.639157 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1289
+- 32.639157 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1289
+r 32.654013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1277
+r 32.654028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1278
+r 32.654042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1279
+r 32.654051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1280
+r 32.654058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1281
+r 32.654067 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1282
+r 32.654082 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1283
+r 32.654099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1284
+r 32.654109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1285
+r 32.654122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1286
+r 32.654132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1287
+r 32.654152 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1288
+r 32.654158 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 45537 198 1289
+s -t 32.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 32.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 199 138
+- 32.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 199 138
+r 32.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 199 138
++ 32.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 199
+- 32.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 199
+r 32.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 199
++ 32.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 199
+- 32.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 199
++ 32.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1289
+- 32.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1289
+r 32.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 199
+r 32.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1289
++ 32.779017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 138
+- 32.779017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 138
+r 32.794017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 138
+s -t 32.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 32.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 33 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 46001 200
+- 33 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 46001 200
+s -t 33.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 33.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 46001 200
++ 33.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 46001 200
+- 33.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 46001 200
+r 33.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 46001 200
++ 33.01901 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1290
+- 33.01901 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1290
++ 33.019026 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1291
+- 33.019026 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1291
++ 33.019033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1292
+- 33.019033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1292
++ 33.019034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1293
+- 33.019034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1293
++ 33.019049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1294
+- 33.019049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1294
++ 33.019057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1295
+- 33.019057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1295
++ 33.019074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1296
+- 33.019074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1296
++ 33.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1297
+- 33.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1297
++ 33.019083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1298
+- 33.019083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1298
++ 33.019089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1299
+- 33.019089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1299
++ 33.019093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1300
+- 33.019093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1300
++ 33.019102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1301
+- 33.019102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1301
++ 33.019121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1302
+- 33.019121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1302
++ 33.019123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1303
+- 33.019123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1303
++ 33.01914 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1304
+- 33.01914 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1304
+r 33.034011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1290
+r 33.034026 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1291
+r 33.034034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1292
+r 33.034034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1293
+r 33.03405 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1294
+r 33.034058 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1295
+r 33.034075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1296
+r 33.034078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1297
+r 33.034084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1298
+r 33.034089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1299
+r 33.034094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1300
+r 33.034103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1301
+r 33.034122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1302
+r 33.034123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1303
+r 33.03414 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 46001 200 1304
++ 33.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 201 139
+- 33.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 201 139
++ 33.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 201 140
+- 33.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 201 140
+s -t 33.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 33.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 201 139
+r 33.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 201 140
++ 33.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 201
+- 33.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 201
+r 33.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 201
++ 33.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 201
+- 33.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 201
++ 33.119016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 140
+- 33.119016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 140
+r 33.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 201
++ 33.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 46537 202
+- 33.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 46537 202
+r 33.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 46537 202
++ 33.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 46537 202
+- 33.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 46537 202
+r 33.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 46537 202
+r 33.134016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 140
++ 33.139007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1305
+- 33.139007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1305
++ 33.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1306
+- 33.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1306
++ 33.13902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1307
+- 33.13902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1307
++ 33.139035 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1308
+- 33.139035 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1308
++ 33.139043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1309
+- 33.139043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1309
++ 33.139056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1310
+- 33.139056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1310
++ 33.13906 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1311
+- 33.13906 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1311
++ 33.139074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1312
+- 33.139074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1312
++ 33.13908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1313
+- 33.13908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1313
++ 33.13909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1314
+- 33.13909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1314
++ 33.13909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1315
+- 33.139091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1315
++ 33.13911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1316
+- 33.13911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1316
++ 33.139121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1317
+- 33.139121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1317
+r 33.154008 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1305
+r 33.154017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1306
+r 33.15402 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1307
+r 33.154036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1308
+r 33.154043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1309
+r 33.154057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1310
+r 33.15406 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1311
+r 33.154075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1312
+r 33.15408 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1313
+r 33.154091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1314
+r 33.154091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1315
+r 33.15411 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1316
+r 33.154121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 46537 202 1317
+s -t 33.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 33.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 203 141
+- 33.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 203 141
+r 33.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 203 141
++ 33.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 203
+- 33.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 203
+r 33.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 203
++ 33.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 203
+- 33.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 203
++ 33.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1317
+- 33.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1317
+r 33.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 203
+r 33.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1317
++ 33.279016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 141
+- 33.279016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 141
+r 33.294016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 141
+s -t 33.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 33.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 33.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 47001 204
+- 33.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 47001 204
+s -t 33.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 33.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 47001 204
++ 33.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 47001 204
+- 33.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 47001 204
+r 33.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 47001 204
++ 33.519015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1318
+- 33.519015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1318
++ 33.519028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1319
+- 33.519028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1319
++ 33.519034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1320
+- 33.519034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1320
++ 33.519053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1321
+- 33.519053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1321
++ 33.519066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1322
+- 33.519066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1322
++ 33.519072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1323
+- 33.519072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1323
++ 33.519077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1324
+- 33.519077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1324
++ 33.519077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1325
+- 33.519077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1325
++ 33.519082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1326
+- 33.519082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1326
++ 33.519083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1327
+- 33.519083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1327
++ 33.519086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1328
+- 33.519086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1328
++ 33.519099 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1329
+- 33.519099 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1329
++ 33.519112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1330
+- 33.519112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1330
++ 33.519122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1331
+- 33.519122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1331
++ 33.519132 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1332
+- 33.519132 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1332
+r 33.534015 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1318
+r 33.534029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1319
+r 33.534034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1320
+r 33.534054 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1321
+r 33.534066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1322
+r 33.534072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1323
+r 33.534077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1324
+r 33.534078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1325
+r 33.534082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1326
+r 33.534084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1327
+r 33.534086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1328
+r 33.5341 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1329
+r 33.534113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1330
+r 33.534122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1331
+r 33.534133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 47001 204 1332
++ 33.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 205 142
+- 33.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 205 142
++ 33.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 205 143
+- 33.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 205 143
+s -t 33.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 33.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 205 142
+r 33.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 205 143
++ 33.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 205
+- 33.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 205
+r 33.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 205
++ 33.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 205
+- 33.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 205
++ 33.619011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 143
+- 33.619011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 143
+r 33.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 205
++ 33.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 47537 206
+- 33.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 47537 206
+r 33.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 47537 206
++ 33.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 47537 206
+- 33.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 47537 206
+r 33.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 47537 206
+r 33.634012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 143
++ 33.639013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1333
+- 33.639013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1333
++ 33.639014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1334
+- 33.639014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1334
++ 33.63902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1335
+- 33.63902 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1335
++ 33.639026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1336
+- 33.639026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1336
++ 33.639037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1337
+- 33.639037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1337
++ 33.639046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1338
+- 33.639046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1338
++ 33.639063 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1339
+- 33.639063 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1339
++ 33.639072 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1340
+- 33.639072 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1340
++ 33.639084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1341
+- 33.639084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1341
++ 33.639093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1342
+- 33.639093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1342
++ 33.639108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1343
+- 33.639108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1343
++ 33.639126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1344
+- 33.639126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1344
++ 33.639145 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1345
+- 33.639145 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1345
+r 33.654014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1333
+r 33.654014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1334
+r 33.654021 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1335
+r 33.654027 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1336
+r 33.654038 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1337
+r 33.654046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1338
+r 33.654064 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1339
+r 33.654073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1340
+r 33.654084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1341
+r 33.654094 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1342
+r 33.654109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1343
+r 33.654127 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1344
+r 33.654145 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 47537 206 1345
+s -t 33.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 33.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 207 144
+- 33.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 207 144
+r 33.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 207 144
++ 33.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 207
+- 33.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 207
+r 33.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 207
++ 33.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 207
+- 33.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 207
++ 33.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1345
+- 33.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1345
+r 33.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 207
+r 33.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1345
++ 33.779008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 144
+- 33.779008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 144
+r 33.794009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 144
+s -t 33.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 33.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 34 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 48001 208
+- 34 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 48001 208
+s -t 34.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 34.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 48001 208
++ 34.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 48001 208
+- 34.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 48001 208
+r 34.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 48001 208
++ 34.019009 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1346
+- 34.019009 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1346
++ 34.019011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1347
+- 34.019011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1347
++ 34.019018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1348
+- 34.019018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1348
++ 34.019026 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1349
+- 34.019026 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1349
++ 34.019039 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1350
+- 34.019039 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1350
++ 34.019051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1351
+- 34.019051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1351
++ 34.019062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1352
+- 34.019062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1352
++ 34.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1353
+- 34.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1353
++ 34.019087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1354
+- 34.019087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1354
++ 34.019087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1355
+- 34.019088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1355
++ 34.019104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1356
+- 34.019104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1356
++ 34.019112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1357
+- 34.019112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1357
++ 34.019129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1358
+- 34.019129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1358
++ 34.019131 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1359
+- 34.019131 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1359
++ 34.01914 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1360
+- 34.01914 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1360
+r 34.034009 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1346
+r 34.034011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1347
+r 34.034019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1348
+r 34.034026 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1349
+r 34.03404 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1350
+r 34.034052 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1351
+r 34.034062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1352
+r 34.034078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1353
+r 34.034088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1354
+r 34.034088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1355
+r 34.034105 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1356
+r 34.034113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1357
+r 34.03413 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1358
+r 34.034131 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1359
+r 34.034141 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 48001 208 1360
++ 34.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 209 145
+- 34.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 209 145
++ 34.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 209 146
+- 34.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 209 146
+s -t 34.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 34.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 209 145
+r 34.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 209 146
++ 34.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 209
+- 34.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 209
+r 34.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 209
++ 34.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 209
+- 34.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 209
++ 34.119015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 146
+- 34.119015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 146
+r 34.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 209
++ 34.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 48537 210
+- 34.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 48537 210
+r 34.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 48537 210
++ 34.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 48537 210
+- 34.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 48537 210
+r 34.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 48537 210
+r 34.134015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 146
++ 34.139007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1361
+- 34.139007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1361
++ 34.139015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1362
+- 34.139015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1362
++ 34.139025 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1363
+- 34.139025 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1363
++ 34.139042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1364
+- 34.139042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1364
++ 34.139052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1365
+- 34.139052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1365
++ 34.139053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1366
+- 34.139053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1366
++ 34.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1367
+- 34.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1367
++ 34.139063 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1368
+- 34.139063 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1368
++ 34.139075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1369
+- 34.139075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1369
++ 34.139079 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1370
+- 34.139079 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1370
++ 34.139083 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1371
+- 34.139083 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1371
++ 34.139089 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1372
+- 34.139089 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1372
++ 34.139103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1373
+- 34.139103 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1373
+r 34.154008 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1361
+r 34.154015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1362
+r 34.154025 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1363
+r 34.154043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1364
+r 34.154053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1365
+r 34.154053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1366
+r 34.154058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1367
+r 34.154063 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1368
+r 34.154076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1369
+r 34.15408 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1370
+r 34.154084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1371
+r 34.15409 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1372
+r 34.154104 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 48537 210 1373
+s -t 34.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 34.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 211 147
+- 34.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 211 147
+r 34.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 211 147
++ 34.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 211
+- 34.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 211
+r 34.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 211
++ 34.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 211
+- 34.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 211
++ 34.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1373
+- 34.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1373
+r 34.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 211
+r 34.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1373
++ 34.27901 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 147
+- 34.27901 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 147
+r 34.294011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 147
+s -t 34.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 34.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 34.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 49001 212
+- 34.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 49001 212
+s -t 34.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 34.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 49001 212
++ 34.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 49001 212
+- 34.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 49001 212
+r 34.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 49001 212
++ 34.51902 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1374
+- 34.51902 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1374
++ 34.519022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1375
+- 34.519022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1375
++ 34.519025 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1376
+- 34.519025 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1376
++ 34.519028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1377
+- 34.519028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1377
++ 34.51903 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1378
+- 34.51903 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1378
++ 34.519032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1379
+- 34.519032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1379
++ 34.519039 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1380
+- 34.519039 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1380
++ 34.519056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1381
+- 34.519056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1381
++ 34.519065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1382
+- 34.519065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1382
++ 34.519084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1383
+- 34.519084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1383
++ 34.519096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1384
+- 34.519096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1384
++ 34.51911 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1385
+- 34.51911 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1385
++ 34.519125 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1386
+- 34.519125 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1386
++ 34.519137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1387
+- 34.519137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1387
++ 34.519154 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1388
+- 34.519154 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1388
+r 34.53402 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1374
+r 34.534022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1375
+r 34.534026 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1376
+r 34.534029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1377
+r 34.534031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1378
+r 34.534032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1379
+r 34.53404 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1380
+r 34.534057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1381
+r 34.534066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1382
+r 34.534085 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1383
+r 34.534097 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1384
+r 34.53411 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1385
+r 34.534125 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1386
+r 34.534137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1387
+r 34.534154 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 49001 212 1388
++ 34.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 213 148
+- 34.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 213 148
++ 34.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 213 149
+- 34.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 213 149
+s -t 34.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 34.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 213 148
+r 34.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 213 149
++ 34.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 213
+- 34.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 213
+r 34.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 213
++ 34.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 213
+- 34.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 213
++ 34.619011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 149
+- 34.619011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 149
+r 34.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 213
++ 34.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 49537 214
+- 34.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 49537 214
+r 34.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 49537 214
++ 34.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 49537 214
+- 34.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 49537 214
+r 34.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 49537 214
+r 34.634012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 149
++ 34.639016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1389
+- 34.639016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1389
++ 34.639016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1390
+- 34.639016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1390
++ 34.639035 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1391
+- 34.639035 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1391
++ 34.63904 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1392
+- 34.63904 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1392
++ 34.639051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1393
+- 34.639051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1393
++ 34.639051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1394
+- 34.639051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1394
++ 34.639064 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1395
+- 34.639064 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1395
++ 34.639074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1396
+- 34.639074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1396
++ 34.639086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1397
+- 34.639086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1397
++ 34.639101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1398
+- 34.639101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1398
++ 34.639111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1399
+- 34.639111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1399
++ 34.639111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1400
+- 34.639111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1400
++ 34.639121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1401
+- 34.639121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1401
+r 34.654016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1389
+r 34.654017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1390
+r 34.654035 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1391
+r 34.65404 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1392
+r 34.654051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1393
+r 34.654052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1394
+r 34.654064 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1395
+r 34.654074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1396
+r 34.654087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1397
+r 34.654101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1398
+r 34.654111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1399
+r 34.654112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1400
+r 34.654122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 49537 214 1401
+s -t 34.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 34.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 215 150
+- 34.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 215 150
+r 34.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 215 150
++ 34.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 215
+- 34.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 215
+r 34.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 215
++ 34.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 215
+- 34.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 215
++ 34.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1401
+- 34.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1401
+r 34.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 215
+r 34.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1401
++ 34.779008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 150
+- 34.779008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 150
+r 34.794009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 150
+s -t 34.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 34.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 35 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 50001 216
+- 35 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 50001 216
+s -t 35.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 35.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 50001 216
++ 35.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 50001 216
+- 35.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 50001 216
+r 35.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 50001 216
++ 35.019006 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1402
+- 35.019006 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1402
++ 35.019021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1403
+- 35.019021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1403
++ 35.019027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1404
+- 35.019027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1404
++ 35.019027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1405
+- 35.019027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1405
++ 35.019045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1406
+- 35.019045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1406
++ 35.019065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1407
+- 35.019065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1407
++ 35.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1408
+- 35.019077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1408
++ 35.019084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1409
+- 35.019084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1409
++ 35.019094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1410
+- 35.019094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1410
++ 35.019101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1411
+- 35.019101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1411
++ 35.019119 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1412
+- 35.019119 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1412
++ 35.019138 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1413
+- 35.019138 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1413
++ 35.019152 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1414
+- 35.019152 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1414
++ 35.019156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1415
+- 35.019156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1415
++ 35.019157 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1416
+- 35.019157 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1416
+r 35.034007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1402
+r 35.034022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1403
+r 35.034027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1404
+r 35.034028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1405
+r 35.034046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1406
+r 35.034065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1407
+r 35.034078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1408
+r 35.034084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1409
+r 35.034094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1410
+r 35.034102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1411
+r 35.03412 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1412
+r 35.034139 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1413
+r 35.034153 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1414
+r 35.034156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1415
+r 35.034158 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 50001 216 1416
++ 35.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 217 151
+- 35.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 217 151
++ 35.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 217 152
+- 35.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 217 152
+s -t 35.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 35.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 217 151
+r 35.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 217 152
++ 35.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 217
+- 35.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 217
+r 35.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 217
++ 35.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 217
+- 35.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 217
++ 35.119014 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 152
+- 35.119014 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 152
+r 35.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 217
++ 35.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 50537 218
+- 35.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 50537 218
+r 35.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 50537 218
++ 35.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 50537 218
+- 35.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 50537 218
+r 35.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 50537 218
+r 35.134015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 152
++ 35.139015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1417
+- 35.139015 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1417
++ 35.139031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1418
+- 35.139031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1418
++ 35.139039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1419
+- 35.139039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1419
++ 35.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1420
+- 35.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1420
++ 35.139075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1421
+- 35.139075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1421
++ 35.139095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1422
+- 35.139095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1422
++ 35.139098 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1423
+- 35.139098 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1423
++ 35.1391 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1424
+- 35.1391 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1424
++ 35.139108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1425
+- 35.139108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1425
++ 35.139112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1426
+- 35.139112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1426
++ 35.139119 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1427
+- 35.139119 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1427
++ 35.139131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1428
+- 35.139131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1428
++ 35.13914 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1429
+- 35.13914 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1429
+r 35.154016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1417
+r 35.154032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1418
+r 35.154039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1419
+r 35.154059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1420
+r 35.154075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1421
+r 35.154095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1422
+r 35.154099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1423
+r 35.1541 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1424
+r 35.154109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1425
+r 35.154113 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1426
+r 35.15412 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1427
+r 35.154131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1428
+r 35.154141 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 50537 218 1429
+s -t 35.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 35.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 219 153
+- 35.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 219 153
+r 35.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 219 153
++ 35.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 219
+- 35.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 219
+r 35.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 219
++ 35.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 219
+- 35.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 219
++ 35.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1429
+- 35.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1429
+r 35.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 219
+r 35.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1429
++ 35.27901 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 153
+- 35.27901 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 153
+r 35.294011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 153
+s -t 35.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 35.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 35.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 51001 220
+- 35.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 51001 220
+s -t 35.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 35.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 51001 220
++ 35.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 51001 220
+- 35.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 51001 220
+r 35.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 51001 220
++ 35.519013 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1430
+- 35.519013 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1430
++ 35.519026 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1431
+- 35.519026 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1431
++ 35.519034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1432
+- 35.519034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1432
++ 35.519045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1433
+- 35.519045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1433
++ 35.519053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1434
+- 35.519053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1434
++ 35.519055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1435
+- 35.519055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1435
++ 35.51907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1436
+- 35.51907 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1436
++ 35.519078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1437
+- 35.519078 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1437
++ 35.519096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1438
+- 35.519096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1438
++ 35.519113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1439
+- 35.519113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1439
++ 35.519123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1440
+- 35.519123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1440
++ 35.519136 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1441
+- 35.519136 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1441
++ 35.519155 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1442
+- 35.519155 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1442
++ 35.519162 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1443
+- 35.519162 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1443
++ 35.51917 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1444
+- 35.51917 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1444
+r 35.534014 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1430
+r 35.534026 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1431
+r 35.534035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1432
+r 35.534046 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1433
+r 35.534054 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1434
+r 35.534055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1435
+r 35.53407 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1436
+r 35.534079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1437
+r 35.534097 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1438
+r 35.534113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1439
+r 35.534123 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1440
+r 35.534136 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1441
+r 35.534156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1442
+r 35.534163 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1443
+r 35.534171 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 51001 220 1444
++ 35.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 221 154
+- 35.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 221 154
++ 35.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 221 155
+- 35.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 221 155
+s -t 35.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 35.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 221 154
+r 35.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 221 155
++ 35.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 221
+- 35.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 221
+r 35.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 221
++ 35.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 221
+- 35.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 221
++ 35.619015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 155
+- 35.619015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 155
+r 35.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 221
++ 35.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 51537 222
+- 35.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 51537 222
+r 35.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 51537 222
++ 35.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 51537 222
+- 35.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 51537 222
+r 35.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 51537 222
+r 35.634015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 155
++ 35.639006 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1445
+- 35.639006 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1445
++ 35.639017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1446
+- 35.639017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1446
++ 35.639035 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1447
+- 35.639035 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1447
++ 35.639037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1448
+- 35.639037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1448
++ 35.639039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1449
+- 35.639039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1449
++ 35.639041 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1450
+- 35.639041 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1450
++ 35.639042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1451
+- 35.639042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1451
++ 35.639043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1452
+- 35.639043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1452
++ 35.639049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1453
+- 35.639049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1453
++ 35.639059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1454
+- 35.639059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1454
++ 35.639062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1455
+- 35.639062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1455
++ 35.639066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1456
+- 35.639066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1456
++ 35.639071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1457
+- 35.639071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1457
+r 35.654007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1445
+r 35.654018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1446
+r 35.654035 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1447
+r 35.654037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1448
+r 35.654039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1449
+r 35.654041 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1450
+r 35.654042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1451
+r 35.654044 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1452
+r 35.65405 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1453
+r 35.654059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1454
+r 35.654063 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1455
+r 35.654067 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1456
+r 35.654071 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 51537 222 1457
+s -t 35.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 35.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 223 156
+- 35.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 223 156
+r 35.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 223 156
++ 35.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 223
+- 35.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 223
+r 35.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 223
++ 35.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 223
+- 35.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 223
++ 35.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1457
+- 35.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1457
+r 35.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 223
+r 35.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1457
++ 35.779014 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 156
+- 35.779014 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 156
+r 35.794015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 156
+s -t 35.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 35.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 36 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 52001 224
+- 36 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 52001 224
+s -t 36.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 36.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 52001 224
++ 36.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 52001 224
+- 36.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 52001 224
+r 36.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 52001 224
++ 36.019007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1458
+- 36.019007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1458
++ 36.019022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1459
+- 36.019022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1459
++ 36.01904 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1460
+- 36.01904 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1460
++ 36.019055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1461
+- 36.019055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1461
++ 36.019058 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1462
+- 36.019058 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1462
++ 36.019076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1463
+- 36.019076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1463
++ 36.019084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1464
+- 36.019084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1464
++ 36.019095 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1465
+- 36.019095 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1465
++ 36.019106 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1466
+- 36.019106 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1466
++ 36.01911 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1467
+- 36.01911 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1467
++ 36.019112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1468
+- 36.019112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1468
++ 36.019113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1469
+- 36.019113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1469
++ 36.019128 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1470
+- 36.019128 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1470
++ 36.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1471
+- 36.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1471
++ 36.019143 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1472
+- 36.019143 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1472
+r 36.034008 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1458
+r 36.034022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1459
+r 36.034041 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1460
+r 36.034055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1461
+r 36.034059 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1462
+r 36.034076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1463
+r 36.034085 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1464
+r 36.034096 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1465
+r 36.034107 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1466
+r 36.034111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1467
+r 36.034112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1468
+r 36.034113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1469
+r 36.034129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1470
+r 36.034133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1471
+r 36.034144 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 52001 224 1472
++ 36.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 225 157
+- 36.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 225 157
++ 36.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 225 158
+- 36.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 225 158
+s -t 36.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 36.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 225 157
+r 36.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 225 158
++ 36.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 225
+- 36.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 225
+r 36.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 225
++ 36.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 225
+- 36.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 225
++ 36.119015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 158
+- 36.119015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 158
+r 36.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 225
++ 36.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 52537 226
+- 36.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 52537 226
+r 36.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 52537 226
++ 36.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 52537 226
+- 36.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 52537 226
+r 36.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 52537 226
+r 36.134015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 158
++ 36.13901 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1473
+- 36.13901 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1473
++ 36.139012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1474
+- 36.139012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1474
++ 36.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1475
+- 36.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1475
++ 36.139022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1476
+- 36.139022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1476
++ 36.13903 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1477
+- 36.13903 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1477
++ 36.139042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1478
+- 36.139042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1478
++ 36.139043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1479
+- 36.139043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1479
++ 36.139061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1480
+- 36.139061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1480
++ 36.139069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1481
+- 36.139069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1481
++ 36.139086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1482
+- 36.139086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1482
++ 36.139106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1483
+- 36.139106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1483
++ 36.13911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1484
+- 36.13911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1484
++ 36.139122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1485
+- 36.139122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1485
+r 36.15401 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1473
+r 36.154012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1474
+r 36.154018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1475
+r 36.154022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1476
+r 36.15403 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1477
+r 36.154042 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1478
+r 36.154044 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1479
+r 36.154061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1480
+r 36.15407 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1481
+r 36.154087 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1482
+r 36.154107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1483
+r 36.154111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1484
+r 36.154122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 52537 226 1485
+s -t 36.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 36.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 227 159
+- 36.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 227 159
+r 36.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 227 159
++ 36.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 227
+- 36.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 227
+r 36.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 227
++ 36.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 227
+- 36.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 227
++ 36.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1485
+- 36.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1485
+r 36.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 227
+r 36.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1485
++ 36.27902 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 159
+- 36.27902 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 159
+r 36.29402 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 159
+s -t 36.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 36.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 36.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 53001 229
+- 36.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 53001 229
+s -t 36.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 36.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 53001 229
++ 36.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 53001 229
+- 36.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 53001 229
+r 36.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 53001 229
++ 36.519005 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1486
+- 36.519005 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1486
++ 36.519007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1487
+- 36.519007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1487
++ 36.519012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1488
+- 36.519012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1488
++ 36.519024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1489
+- 36.519024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1489
++ 36.519035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1490
+- 36.519035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1490
++ 36.519049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1491
+- 36.519049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1491
++ 36.519067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1492
+- 36.519067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1492
++ 36.519079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1493
+- 36.519079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1493
++ 36.519083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1494
+- 36.519083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1494
++ 36.519095 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1495
+- 36.519095 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1495
++ 36.519106 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1496
+- 36.519106 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1496
++ 36.519114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1497
+- 36.519114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1497
++ 36.519114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1498
+- 36.519115 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1498
++ 36.519117 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1499
+- 36.519117 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1499
++ 36.519122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1500
+- 36.519122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1500
+r 36.534005 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1486
+r 36.534007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1487
+r 36.534012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1488
+r 36.534024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1489
+r 36.534035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1490
+r 36.53405 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1491
+r 36.534067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1492
+r 36.53408 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1493
+r 36.534083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1494
+r 36.534095 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1495
+r 36.534106 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1496
+r 36.534115 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1497
+r 36.534115 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1498
+r 36.534118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1499
+r 36.534122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 53001 229 1500
++ 36.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 230 160
+- 36.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 230 160
++ 36.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 230 161
+- 36.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 230 161
+s -t 36.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 36.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 230 160
+r 36.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 230 161
++ 36.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 230
+- 36.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 230
+r 36.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 230
++ 36.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 230
+- 36.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 230
++ 36.619013 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 161
+- 36.619013 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 161
+r 36.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 230
++ 36.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 53537 231
+- 36.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 53537 231
+r 36.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 53537 231
++ 36.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 53537 231
+- 36.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 53537 231
+r 36.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 53537 231
+r 36.634013 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 161
++ 36.639013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1501
+- 36.639013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1501
++ 36.639028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1502
+- 36.639028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1502
++ 36.639036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1503
+- 36.639036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1503
++ 36.639048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1504
+- 36.639048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1504
++ 36.639067 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1505
+- 36.639067 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1505
++ 36.639075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1506
+- 36.639075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1506
++ 36.639079 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1507
+- 36.639079 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1507
++ 36.63909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1508
+- 36.63909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1508
++ 36.639094 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1509
+- 36.639094 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1509
++ 36.639099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1510
+- 36.639099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1510
++ 36.639106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1511
+- 36.639106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1511
++ 36.639115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1512
+- 36.639115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1512
++ 36.639129 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1513
+- 36.639129 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1513
+r 36.654013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1501
+r 36.654028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1502
+r 36.654036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1503
+r 36.654049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1504
+r 36.654067 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1505
+r 36.654075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1506
+r 36.65408 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1507
+r 36.65409 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1508
+r 36.654095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1509
+r 36.654099 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1510
+r 36.654106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1511
+r 36.654115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1512
+r 36.65413 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 53537 231 1513
+s -t 36.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 36.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 232 162
+- 36.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 232 162
+r 36.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 232 162
++ 36.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 232
+- 36.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 232
+r 36.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 232
++ 36.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 232
+- 36.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 232
++ 36.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1513
+- 36.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1513
+r 36.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 232
+r 36.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1513
++ 36.779018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 162
+- 36.779018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 162
+r 36.794018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 162
+s -t 36.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 36.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 37 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 54001 233
+- 37 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 54001 233
+s -t 37.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 37.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 54001 233
++ 37.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 54001 233
+- 37.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 54001 233
+r 37.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 54001 233
++ 37.019017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1514
+- 37.019017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1514
++ 37.01902 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1515
+- 37.01902 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1515
++ 37.019033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1516
+- 37.019033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1516
++ 37.019045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1517
+- 37.019045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1517
++ 37.019062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1518
+- 37.019062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1518
++ 37.019067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1519
+- 37.019067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1519
++ 37.01908 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1520
+- 37.01908 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1520
++ 37.019091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1521
+- 37.019091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1521
++ 37.0191 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1522
+- 37.0191 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1522
++ 37.019102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1523
+- 37.019102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1523
++ 37.019105 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1524
+- 37.019105 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1524
++ 37.019108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1525
+- 37.019108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1525
++ 37.019117 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1526
+- 37.019117 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1526
++ 37.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1527
+- 37.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1527
++ 37.019139 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1528
+- 37.019139 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1528
+r 37.034017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1514
+r 37.03402 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1515
+r 37.034033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1516
+r 37.034045 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1517
+r 37.034062 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1518
+r 37.034067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1519
+r 37.03408 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1520
+r 37.034091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1521
+r 37.034101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1522
+r 37.034102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1523
+r 37.034105 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1524
+r 37.034109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1525
+r 37.034118 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1526
+r 37.034134 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1527
+r 37.034139 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 54001 233 1528
++ 37.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 234 163
+- 37.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 234 163
++ 37.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 234 164
+- 37.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 234 164
+s -t 37.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 37.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 234 163
+r 37.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 234 164
++ 37.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 234
+- 37.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 234
+r 37.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 234
++ 37.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 234
+- 37.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 234
++ 37.119008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 164
+- 37.119008 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 164
+r 37.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 234
++ 37.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 54537 235
+- 37.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 54537 235
+r 37.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 54537 235
++ 37.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 54537 235
+- 37.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 54537 235
+r 37.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 54537 235
+r 37.134009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 164
++ 37.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1529
+- 37.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1529
++ 37.139031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1530
+- 37.139031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1530
++ 37.139036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1531
+- 37.139036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1531
++ 37.139037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1532
+- 37.139037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1532
++ 37.139053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1533
+- 37.139053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1533
++ 37.139069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1534
+- 37.139069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1534
++ 37.139072 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1535
+- 37.139072 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1535
++ 37.139077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1536
+- 37.139077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1536
++ 37.139085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1537
+- 37.139085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1537
++ 37.139093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1538
+- 37.139093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1538
++ 37.139112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1539
+- 37.139112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1539
++ 37.139127 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1540
+- 37.139127 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1540
++ 37.139141 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1541
+- 37.139141 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1541
+r 37.154018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1529
+r 37.154032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1530
+r 37.154036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1531
+r 37.154037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1532
+r 37.154053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1533
+r 37.15407 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1534
+r 37.154073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1535
+r 37.154077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1536
+r 37.154086 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1537
+r 37.154093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1538
+r 37.154113 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1539
+r 37.154128 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1540
+r 37.154142 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 54537 235 1541
+s -t 37.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 37.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 236 165
+- 37.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 236 165
+r 37.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 236 165
++ 37.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 236
+- 37.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 236
+r 37.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 236
++ 37.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 236
+- 37.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 236
++ 37.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1541
+- 37.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1541
+r 37.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 236
+r 37.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1541
++ 37.279012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 165
+- 37.279012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 165
+r 37.294012 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 165
+s -t 37.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 37.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 37.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 55001 237
+- 37.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 55001 237
+s -t 37.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 37.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 55001 237
++ 37.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 55001 237
+- 37.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 55001 237
+r 37.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 55001 237
++ 37.519009 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1542
+- 37.519009 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1542
++ 37.519011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1543
+- 37.519011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1543
++ 37.519013 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1544
+- 37.519013 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1544
++ 37.519021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1545
+- 37.519021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1545
++ 37.51903 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1546
+- 37.51903 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1546
++ 37.519047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1547
+- 37.519047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1547
++ 37.519055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1548
+- 37.519055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1548
++ 37.519067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1549
+- 37.519067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1549
++ 37.519076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1550
+- 37.519076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1550
++ 37.51909 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1551
+- 37.51909 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1551
++ 37.519093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1552
+- 37.519093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1552
++ 37.519109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1553
+- 37.519109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1553
++ 37.519115 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1554
+- 37.519115 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1554
++ 37.519128 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1555
+- 37.519128 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1555
++ 37.519148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1556
+- 37.519148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1556
+r 37.53401 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1542
+r 37.534011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1543
+r 37.534014 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1544
+r 37.534021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1545
+r 37.53403 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1546
+r 37.534047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1547
+r 37.534056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1548
+r 37.534067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1549
+r 37.534077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1550
+r 37.534091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1551
+r 37.534094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1552
+r 37.534109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1553
+r 37.534116 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1554
+r 37.534129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1555
+r 37.534148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 55001 237 1556
++ 37.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 238 166
+- 37.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 238 166
++ 37.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 238 167
+- 37.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 238 167
+s -t 37.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 37.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 238 166
+r 37.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 238 167
++ 37.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 238
+- 37.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 238
+r 37.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 238
++ 37.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 238
+- 37.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 238
++ 37.619015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 167
+- 37.619015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 167
+r 37.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 238
++ 37.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 55537 239
+- 37.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 55537 239
+r 37.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 55537 239
++ 37.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 55537 239
+- 37.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 55537 239
+r 37.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 55537 239
+r 37.634015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 167
++ 37.639019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1557
+- 37.639019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1557
++ 37.639037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1558
+- 37.639037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1558
++ 37.639057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1559
+- 37.639057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1559
++ 37.639059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1560
+- 37.639059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1560
++ 37.639068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1561
+- 37.639068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1561
++ 37.639074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1562
+- 37.639074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1562
++ 37.639076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1563
+- 37.639076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1563
++ 37.639092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1564
+- 37.639092 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1564
++ 37.63911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1565
+- 37.63911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1565
++ 37.639115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1566
+- 37.639115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1566
++ 37.63913 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1567
+- 37.63913 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1567
++ 37.639137 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1568
+- 37.639137 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1568
++ 37.63914 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1569
+- 37.63914 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1569
+r 37.654019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1557
+r 37.654038 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1558
+r 37.654057 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1559
+r 37.654059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1560
+r 37.654068 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1561
+r 37.654075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1562
+r 37.654077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1563
+r 37.654093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1564
+r 37.654111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1565
+r 37.654116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1566
+r 37.65413 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1567
+r 37.654138 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1568
+r 37.65414 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 55537 239 1569
+s -t 37.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 37.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 240 168
+- 37.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 240 168
+r 37.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 240 168
++ 37.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 240
+- 37.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 240
+r 37.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 240
++ 37.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 240
+- 37.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 240
++ 37.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1569
+- 37.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1569
+r 37.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 240
+r 37.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1569
++ 37.77902 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 168
+- 37.77902 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 168
+r 37.79402 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 168
+s -t 37.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 37.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 38 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 56001 241
+- 38 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 56001 241
+s -t 38.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 38.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 56001 241
++ 38.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 56001 241
+- 38.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 56001 241
+r 38.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 56001 241
++ 38.019009 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1570
+- 38.019009 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1570
++ 38.019028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1571
+- 38.019028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1571
++ 38.019033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1572
+- 38.019033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1572
++ 38.019051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1573
+- 38.019051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1573
++ 38.019065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1574
+- 38.019065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1574
++ 38.019076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1575
+- 38.019076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1575
++ 38.019081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1576
+- 38.019081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1576
++ 38.019097 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1577
+- 38.019097 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1577
++ 38.019114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1578
+- 38.019114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1578
++ 38.019114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1579
+- 38.019114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1579
++ 38.019131 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1580
+- 38.019131 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1580
++ 38.019144 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1581
+- 38.019144 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1581
++ 38.019147 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1582
+- 38.019147 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1582
++ 38.01916 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1583
+- 38.01916 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1583
++ 38.019163 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1584
+- 38.019163 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1584
+r 38.034009 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1570
+r 38.034028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1571
+r 38.034034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1572
+r 38.034052 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1573
+r 38.034066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1574
+r 38.034076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1575
+r 38.034081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1576
+r 38.034098 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1577
+r 38.034114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1578
+r 38.034115 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1579
+r 38.034132 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1580
+r 38.034145 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1581
+r 38.034148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1582
+r 38.03416 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1583
+r 38.034164 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 56001 241 1584
++ 38.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 242 169
+- 38.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 242 169
++ 38.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 242 170
+- 38.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 242 170
+s -t 38.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 38.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 242 169
+r 38.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 242 170
++ 38.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 242
+- 38.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 242
+r 38.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 242
++ 38.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 242
+- 38.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 242
++ 38.119001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 170
+- 38.119001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 170
+r 38.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 242
++ 38.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 56537 243
+- 38.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 56537 243
+r 38.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 56537 243
++ 38.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 56537 243
+- 38.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 56537 243
+r 38.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 56537 243
+r 38.134001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 170
++ 38.139018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1585
+- 38.139018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1585
++ 38.139033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1586
+- 38.139033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1586
++ 38.139048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1587
+- 38.139048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1587
++ 38.139052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1588
+- 38.139052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1588
++ 38.139066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1589
+- 38.139066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1589
++ 38.139072 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1590
+- 38.139072 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1590
++ 38.139084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1591
+- 38.139084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1591
++ 38.139104 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1592
+- 38.139104 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1592
++ 38.139111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1593
+- 38.139111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1593
++ 38.139131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1594
+- 38.139131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1594
++ 38.139135 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1595
+- 38.139135 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1595
++ 38.139141 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1596
+- 38.139141 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1596
++ 38.139156 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1597
+- 38.139156 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1597
+r 38.154018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1585
+r 38.154033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1586
+r 38.154048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1587
+r 38.154052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1588
+r 38.154067 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1589
+r 38.154072 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1590
+r 38.154085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1591
+r 38.154105 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1592
+r 38.154112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1593
+r 38.154131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1594
+r 38.154136 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1595
+r 38.154142 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1596
+r 38.154157 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 56537 243 1597
+s -t 38.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 38.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 244 171
+- 38.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 244 171
+r 38.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 244 171
++ 38.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 244
+- 38.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 244
+r 38.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 244
++ 38.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 244
+- 38.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 244
++ 38.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1597
+- 38.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1597
+r 38.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 244
+r 38.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1597
++ 38.279016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 171
+- 38.279016 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 171
+r 38.294017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 171
+s -t 38.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 38.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 38.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 57001 245
+- 38.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 57001 245
+s -t 38.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 38.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 57001 245
++ 38.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 57001 245
+- 38.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 57001 245
+r 38.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 57001 245
++ 38.519018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1598
+- 38.519018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1598
++ 38.519026 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1599
+- 38.519026 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1599
++ 38.519043 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1600
+- 38.519043 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1600
++ 38.51906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1601
+- 38.51906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1601
++ 38.519075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1602
+- 38.519075 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1602
++ 38.51909 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1603
+- 38.51909 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1603
++ 38.519109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1604
+- 38.519109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1604
++ 38.519127 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1605
+- 38.519127 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1605
++ 38.519142 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1606
+- 38.519142 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1606
++ 38.519155 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1607
+- 38.519155 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1607
++ 38.519162 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1608
+- 38.519162 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1608
++ 38.519174 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1609
+- 38.519174 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1609
++ 38.519184 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1610
+- 38.519184 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1610
++ 38.519198 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1611
+- 38.519198 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1611
++ 38.519205 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1612
+- 38.519205 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1612
+r 38.534018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1598
+r 38.534027 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1599
+r 38.534043 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1600
+r 38.53406 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1601
+r 38.534076 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1602
+r 38.534091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1603
+r 38.534109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1604
+r 38.534127 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1605
+r 38.534143 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1606
+r 38.534156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1607
+r 38.534163 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1608
+r 38.534175 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1609
+r 38.534184 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1610
+r 38.534198 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1611
+r 38.534206 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 57001 245 1612
++ 38.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 246 172
+- 38.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 246 172
++ 38.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 246 173
+- 38.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 246 173
+s -t 38.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 38.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 246 172
+r 38.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 246 173
++ 38.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 246
+- 38.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 246
+r 38.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 246
++ 38.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 246
+- 38.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 246
++ 38.619011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 173
+- 38.619011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 173
+r 38.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 246
++ 38.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 57537 247
+- 38.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 57537 247
+r 38.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 57537 247
++ 38.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 57537 247
+- 38.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 57537 247
+r 38.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 57537 247
+r 38.634011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 173
++ 38.639012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1613
+- 38.639012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1613
++ 38.639027 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1614
+- 38.639027 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1614
++ 38.639044 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1615
+- 38.639044 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1615
++ 38.639052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1616
+- 38.639052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1616
++ 38.639063 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1617
+- 38.639063 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1617
++ 38.639079 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1618
+- 38.639079 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1618
++ 38.639094 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1619
+- 38.639094 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1619
++ 38.639102 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1620
+- 38.639102 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1620
++ 38.639114 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1621
+- 38.639114 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1621
++ 38.639127 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1622
+- 38.639127 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1622
++ 38.639132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1623
+- 38.639132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1623
++ 38.639143 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1624
+- 38.639143 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1624
++ 38.639149 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1625
+- 38.639149 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1625
+r 38.654013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1613
+r 38.654028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1614
+r 38.654044 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1615
+r 38.654052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1616
+r 38.654064 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1617
+r 38.654079 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1618
+r 38.654094 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1619
+r 38.654102 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1620
+r 38.654114 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1621
+r 38.654127 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1622
+r 38.654132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1623
+r 38.654144 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1624
+r 38.65415 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 57537 247 1625
+s -t 38.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 38.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 248 174
+- 38.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 248 174
+r 38.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 248 174
++ 38.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 248
+- 38.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 248
+r 38.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 248
++ 38.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 248
+- 38.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 248
++ 38.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1625
+- 38.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1625
+r 38.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 248
+r 38.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1625
++ 38.779009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 174
+- 38.779009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 174
+r 38.79401 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 174
+s -t 38.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 38.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 39 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 58001 249
+- 39 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 58001 249
+s -t 39.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 39.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 58001 249
++ 39.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 58001 249
+- 39.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 58001 249
+r 39.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 58001 249
++ 39.019004 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1626
+- 39.019004 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1626
++ 39.019024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1627
+- 39.019024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1627
++ 39.019039 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1628
+- 39.019039 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1628
++ 39.019056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1629
+- 39.019056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1629
++ 39.019064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1630
+- 39.019064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1630
++ 39.019082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1631
+- 39.019082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1631
++ 39.019101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1632
+- 39.019101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1632
++ 39.019102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1633
+- 39.019102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1633
++ 39.01911 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1634
+- 39.01911 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1634
++ 39.019114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1635
+- 39.019114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1635
++ 39.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1636
+- 39.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1636
++ 39.019149 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1637
+- 39.019149 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1637
++ 39.019155 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1638
+- 39.019155 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1638
++ 39.019162 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1639
+- 39.019162 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1639
++ 39.019163 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1640
+- 39.019163 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1640
+r 39.034005 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1626
+r 39.034024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1627
+r 39.034039 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1628
+r 39.034057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1629
+r 39.034065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1630
+r 39.034083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1631
+r 39.034101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1632
+r 39.034103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1633
+r 39.034111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1634
+r 39.034114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1635
+r 39.034134 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1636
+r 39.03415 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1637
+r 39.034155 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1638
+r 39.034162 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1639
+r 39.034163 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 58001 249 1640
++ 39.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 250 175
+- 39.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 250 175
++ 39.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 250 176
+- 39.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 250 176
+s -t 39.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 39.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 250 175
+r 39.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 250 176
++ 39.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 250
+- 39.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 250
+r 39.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 250
++ 39.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 250
+- 39.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 250
++ 39.11902 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 176
+- 39.11902 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 176
+r 39.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 250
++ 39.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 58537 251
+- 39.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 58537 251
+r 39.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 58537 251
++ 39.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 58537 251
+- 39.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 58537 251
+r 39.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 58537 251
+r 39.13402 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 176
++ 39.13901 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1641
+- 39.13901 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1641
++ 39.139014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1642
+- 39.139014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1642
++ 39.139029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1643
+- 39.139029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1643
++ 39.139047 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1644
+- 39.139047 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1644
++ 39.139052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1645
+- 39.139052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1645
++ 39.139056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1646
+- 39.139056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1646
++ 39.139061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1647
+- 39.139061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1647
++ 39.13908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1648
+- 39.13908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1648
++ 39.139091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1649
+- 39.139091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1649
++ 39.139104 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1650
+- 39.139104 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1650
++ 39.139114 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1651
+- 39.139114 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1651
++ 39.139115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1652
+- 39.139115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1652
++ 39.139117 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1653
+- 39.139117 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1653
+r 39.154011 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1641
+r 39.154014 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1642
+r 39.15403 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1643
+r 39.154048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1644
+r 39.154053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1645
+r 39.154056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1646
+r 39.154062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1647
+r 39.15408 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1648
+r 39.154091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1649
+r 39.154105 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1650
+r 39.154114 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1651
+r 39.154115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1652
+r 39.154117 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 58537 251 1653
+s -t 39.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 39.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 252 177
+- 39.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 252 177
+r 39.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 252 177
++ 39.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 252
+- 39.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 252
+r 39.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 252
++ 39.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 252
+- 39.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 252
++ 39.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1653
+- 39.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1653
+r 39.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 252
+r 39.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1653
++ 39.279017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 177
+- 39.279017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 177
+r 39.294017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 177
+s -t 39.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 39.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 39.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 59001 253
+- 39.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 59001 253
+s -t 39.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 39.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 59001 253
++ 39.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 59001 253
+- 39.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 59001 253
+r 39.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 59001 253
++ 39.519012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1654
+- 39.519012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1654
++ 39.519022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1655
+- 39.519022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1655
++ 39.519025 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1656
+- 39.519025 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1656
++ 39.519032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1657
+- 39.519032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1657
++ 39.519043 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1658
+- 39.519043 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1658
++ 39.519055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1659
+- 39.519055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1659
++ 39.519055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1660
+- 39.519055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1660
++ 39.519067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1661
+- 39.519067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1661
++ 39.519079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1662
+- 39.519079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1662
++ 39.519083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1663
+- 39.519083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1663
++ 39.519086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1664
+- 39.519086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1664
++ 39.519087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1665
+- 39.519087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1665
++ 39.519107 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1666
+- 39.519107 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1666
++ 39.519124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1667
+- 39.519124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1667
++ 39.519129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1668
+- 39.519129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1668
+r 39.534013 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1654
+r 39.534022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1655
+r 39.534025 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1656
+r 39.534033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1657
+r 39.534044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1658
+r 39.534055 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1659
+r 39.534056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1660
+r 39.534068 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1661
+r 39.53408 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1662
+r 39.534084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1663
+r 39.534086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1664
+r 39.534088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1665
+r 39.534108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1666
+r 39.534124 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1667
+r 39.534129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 59001 253 1668
++ 39.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 254 178
+- 39.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 254 178
++ 39.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 254 179
+- 39.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 254 179
+s -t 39.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 39.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 254 178
+r 39.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 254 179
++ 39.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 254
+- 39.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 254
+r 39.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 254
++ 39.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 254
+- 39.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 254
++ 39.619017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 179
+- 39.619017 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 179
+r 39.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 254
++ 39.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 59537 255
+- 39.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 59537 255
+r 39.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 59537 255
++ 39.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 59537 255
+- 39.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 59537 255
+r 39.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 59537 255
+r 39.634018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 179
++ 39.639011 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1669
+- 39.639011 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1669
++ 39.639017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1670
+- 39.639017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1670
++ 39.639026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1671
+- 39.639026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1671
++ 39.639028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1672
+- 39.639028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1672
++ 39.639045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1673
+- 39.639045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1673
++ 39.63906 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1674
+- 39.63906 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1674
++ 39.639074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1675
+- 39.639074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1675
++ 39.639077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1676
+- 39.639077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1676
++ 39.639084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1677
+- 39.639084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1677
++ 39.639097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1678
+- 39.639097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1678
++ 39.639107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1679
+- 39.639107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1679
++ 39.639116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1680
+- 39.639116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1680
++ 39.63913 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1681
+- 39.63913 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1681
+r 39.654012 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1669
+r 39.654018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1670
+r 39.654027 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1671
+r 39.654028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1672
+r 39.654045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1673
+r 39.654061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1674
+r 39.654075 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1675
+r 39.654078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1676
+r 39.654085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1677
+r 39.654097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1678
+r 39.654108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1679
+r 39.654117 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1680
+r 39.654131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 59537 255 1681
+s -t 39.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 39.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 256 180
+- 39.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 256 180
+r 39.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 256 180
++ 39.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 256
+- 39.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 256
+r 39.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 256
++ 39.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 256
+- 39.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 256
++ 39.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1681
+- 39.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1681
+r 39.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 256
+r 39.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1681
++ 39.779014 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 180
+- 39.779014 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 180
+r 39.794015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 180
+s -t 39.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 39.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 40 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 60001 257
+- 40 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 60001 257
+s -t 40.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 40.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 60001 257
++ 40.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 60001 257
+- 40.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 60001 257
+r 40.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 60001 257
++ 40.019018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1682
+- 40.019018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1682
++ 40.019023 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1683
+- 40.019023 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1683
++ 40.019025 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1684
+- 40.019025 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1684
++ 40.019032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1685
+- 40.019032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1685
++ 40.019033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1686
+- 40.019033 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1686
++ 40.019049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1687
+- 40.019049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1687
++ 40.019063 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1688
+- 40.019063 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1688
++ 40.019081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1689
+- 40.019081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1689
++ 40.019098 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1690
+- 40.019098 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1690
++ 40.019103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1691
+- 40.019103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1691
++ 40.019115 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1692
+- 40.019115 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1692
++ 40.01912 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1693
+- 40.01912 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1693
++ 40.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1694
+- 40.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1694
++ 40.019141 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1695
+- 40.019141 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1695
++ 40.019155 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1696
+- 40.019155 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1696
+r 40.034019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1682
+r 40.034024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1683
+r 40.034025 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1684
+r 40.034032 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1685
+r 40.034034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1686
+r 40.03405 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1687
+r 40.034064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1688
+r 40.034082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1689
+r 40.034098 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1690
+r 40.034103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1691
+r 40.034116 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1692
+r 40.03412 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1693
+r 40.034133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1694
+r 40.034142 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1695
+r 40.034156 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 60001 257 1696
++ 40.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 258 181
+- 40.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 258 181
++ 40.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 258 182
+- 40.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 258 182
+s -t 40.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 40.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 258 181
+r 40.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 258 182
++ 40.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 258
+- 40.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 258
+r 40.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 258
++ 40.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 258
+- 40.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 258
++ 40.119003 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 182
+- 40.119003 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 182
+r 40.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 258
++ 40.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 60537 259
+- 40.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 60537 259
+r 40.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 60537 259
++ 40.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 60537 259
+- 40.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 60537 259
+r 40.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 60537 259
+r 40.134004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 182
++ 40.139002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1697
+- 40.139002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1697
++ 40.139007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1698
+- 40.139007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1698
++ 40.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1699
+- 40.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1699
++ 40.13903 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1700
+- 40.13903 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1700
++ 40.139046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1701
+- 40.139046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1701
++ 40.139065 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1702
+- 40.139065 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1702
++ 40.139077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1703
+- 40.139077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1703
++ 40.139091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1704
+- 40.139091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1704
++ 40.139105 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1705
+- 40.139105 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1705
++ 40.13911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1706
+- 40.13911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1706
++ 40.139126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1707
+- 40.139126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1707
++ 40.139133 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1708
+- 40.139133 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1708
++ 40.139137 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1709
+- 40.139137 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1709
+r 40.154003 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1697
+r 40.154007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1698
+r 40.154018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1699
+r 40.154031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1700
+r 40.154046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1701
+r 40.154066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1702
+r 40.154078 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1703
+r 40.154091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1704
+r 40.154106 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1705
+r 40.154111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1706
+r 40.154126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1707
+r 40.154134 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1708
+r 40.154137 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 60537 259 1709
+s -t 40.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 40.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 260 183
+- 40.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 260 183
+r 40.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 260 183
++ 40.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 260
+- 40.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 260
+r 40.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 260
++ 40.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 260
+- 40.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 260
++ 40.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1709
+- 40.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1709
+r 40.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 260
+r 40.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1709
++ 40.279014 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 183
+- 40.279014 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 183
+r 40.294015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 183
+s -t 40.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 40.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 40.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 61001 261
+- 40.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 61001 261
+s -t 40.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 40.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 61001 261
++ 40.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 61001 261
+- 40.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 61001 261
+r 40.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 61001 261
++ 40.519002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1710
+- 40.519002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1710
++ 40.519021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1711
+- 40.519021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1711
++ 40.519028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1712
+- 40.519028 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1712
++ 40.519034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1713
+- 40.519034 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1713
++ 40.519049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1714
+- 40.519049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1714
++ 40.51906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1715
+- 40.51906 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1715
++ 40.519069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1716
+- 40.519069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1716
++ 40.519077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1717
+- 40.519077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1717
++ 40.519082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1718
+- 40.519082 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1718
++ 40.519091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1719
+- 40.519091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1719
++ 40.519097 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1720
+- 40.519097 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1720
++ 40.519101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1721
+- 40.519101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1721
++ 40.51912 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1722
+- 40.51912 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1722
++ 40.51912 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1723
+- 40.519121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1723
++ 40.519132 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1724
+- 40.519132 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1724
+r 40.534003 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1710
+r 40.534022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1711
+r 40.534029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1712
+r 40.534035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1713
+r 40.534049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1714
+r 40.534061 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1715
+r 40.53407 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1716
+r 40.534077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1717
+r 40.534083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1718
+r 40.534092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1719
+r 40.534097 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1720
+r 40.534102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1721
+r 40.534121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1722
+r 40.534121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1723
+r 40.534133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 61001 261 1724
++ 40.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 262 184
+- 40.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 262 184
++ 40.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 262 185
+- 40.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 262 185
+s -t 40.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 40.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 262 184
+r 40.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 262 185
++ 40.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 262
+- 40.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 262
+r 40.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 262
++ 40.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 262
+- 40.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 262
++ 40.619001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 185
+- 40.619001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 185
+r 40.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 262
++ 40.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 61537 263
+- 40.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 61537 263
+r 40.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 61537 263
++ 40.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 61537 263
+- 40.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 61537 263
+r 40.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 61537 263
+r 40.634001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 185
++ 40.639016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1725
+- 40.639016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1725
++ 40.639031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1726
+- 40.639031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1726
++ 40.639032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1727
+- 40.639032 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1727
++ 40.639039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1728
+- 40.639039 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1728
++ 40.639043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1729
+- 40.639043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1729
++ 40.639052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1730
+- 40.639052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1730
++ 40.639069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1731
+- 40.639069 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1731
++ 40.63908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1732
+- 40.63908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1732
++ 40.639093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1733
+- 40.639093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1733
++ 40.639095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1734
+- 40.639095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1734
++ 40.639112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1735
+- 40.639112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1735
++ 40.639116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1736
+- 40.639116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1736
++ 40.639132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1737
+- 40.639132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1737
+r 40.654016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1725
+r 40.654031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1726
+r 40.654033 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1727
+r 40.65404 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1728
+r 40.654043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1729
+r 40.654052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1730
+r 40.65407 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1731
+r 40.654081 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1732
+r 40.654094 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1733
+r 40.654095 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1734
+r 40.654113 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1735
+r 40.654117 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1736
+r 40.654133 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 61537 263 1737
+s -t 40.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 40.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 264 186
+- 40.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 264 186
+r 40.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 264 186
++ 40.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 264
+- 40.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 264
+r 40.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 264
++ 40.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 264
+- 40.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 264
++ 40.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1737
+- 40.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1737
+r 40.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 264
+r 40.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1737
++ 40.779 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 186
+- 40.779 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 186
+r 40.794001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 186
+s -t 40.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 40.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 41 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 62001 265
+- 41 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 62001 265
+s -t 41.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 41.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 62001 265
++ 41.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 62001 265
+- 41.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 62001 265
+r 41.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 62001 265
++ 41.019011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1738
+- 41.019011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1738
++ 41.019012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1739
+- 41.019012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1739
++ 41.019029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1740
+- 41.019029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1740
++ 41.019047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1741
+- 41.019047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1741
++ 41.01905 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1742
+- 41.01905 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1742
++ 41.019056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1743
+- 41.019056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1743
++ 41.019059 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1744
+- 41.019059 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1744
++ 41.019064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1745
+- 41.019064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1745
++ 41.019083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1746
+- 41.019083 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1746
++ 41.019097 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1747
+- 41.019097 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1747
++ 41.019114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1748
+- 41.019114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1748
++ 41.019126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1749
+- 41.019126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1749
++ 41.019127 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1750
+- 41.019127 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1750
++ 41.019143 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1751
+- 41.019143 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1751
++ 41.019163 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1752
+- 41.019163 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1752
+r 41.034011 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1738
+r 41.034013 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1739
+r 41.034029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1740
+r 41.034047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1741
+r 41.034051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1742
+r 41.034057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1743
+r 41.03406 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1744
+r 41.034064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1745
+r 41.034084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1746
+r 41.034098 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1747
+r 41.034115 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1748
+r 41.034126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1749
+r 41.034127 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1750
+r 41.034144 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1751
+r 41.034163 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 62001 265 1752
++ 41.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 266 187
+- 41.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 266 187
++ 41.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 266 188
+- 41.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 266 188
+s -t 41.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 41.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 266 187
+r 41.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 266 188
++ 41.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 266
+- 41.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 266
+r 41.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 266
++ 41.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 266
+- 41.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 266
++ 41.11902 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 188
+- 41.11902 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 188
+r 41.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 266
++ 41.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 62537 267
+- 41.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 62537 267
+r 41.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 62537 267
++ 41.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 62537 267
+- 41.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 62537 267
+r 41.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 62537 267
+r 41.13402 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 188
++ 41.139019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1753
+- 41.139019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1753
++ 41.139028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1754
+- 41.139028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1754
++ 41.139045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1755
+- 41.139045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1755
++ 41.139051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1756
+- 41.139051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1756
++ 41.139064 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1757
+- 41.139064 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1757
++ 41.139082 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1758
+- 41.139082 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1758
++ 41.139089 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1759
+- 41.139089 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1759
++ 41.139101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1760
+- 41.139101 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1760
++ 41.13911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1761
+- 41.13911 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1761
++ 41.139126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1762
+- 41.139126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1762
++ 41.139126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1763
+- 41.139126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1763
++ 41.139141 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1764
+- 41.139141 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1764
++ 41.139157 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1765
+- 41.139157 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1765
+r 41.154019 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1753
+r 41.154028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1754
+r 41.154045 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1755
+r 41.154051 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1756
+r 41.154065 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1757
+r 41.154083 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1758
+r 41.15409 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1759
+r 41.154102 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1760
+r 41.154111 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1761
+r 41.154126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1762
+r 41.154127 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1763
+r 41.154141 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1764
+r 41.154158 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 62537 267 1765
+s -t 41.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 41.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 268 189
+- 41.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 268 189
+r 41.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 268 189
++ 41.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 268
+- 41.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 268
+r 41.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 268
++ 41.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 268
+- 41.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 268
++ 41.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1765
+- 41.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1765
+r 41.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 268
+r 41.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1765
++ 41.279004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 189
+- 41.279004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 189
+r 41.294004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 189
+s -t 41.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 41.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 41.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 63001 269
+- 41.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 63001 269
+s -t 41.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 41.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 63001 269
++ 41.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 63001 269
+- 41.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 63001 269
+r 41.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 63001 269
++ 41.519006 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1766
+- 41.519006 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1766
++ 41.519006 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1767
+- 41.519007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1767
++ 41.519019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1768
+- 41.519019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1768
++ 41.519021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1769
+- 41.519021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1769
++ 41.51903 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1770
+- 41.51903 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1770
++ 41.519035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1771
+- 41.519035 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1771
++ 41.519052 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1772
+- 41.519052 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1772
++ 41.519072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1773
+- 41.519072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1773
++ 41.519077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1774
+- 41.519077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1774
++ 41.519081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1775
+- 41.519081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1775
++ 41.519092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1776
+- 41.519092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1776
++ 41.519092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1777
+- 41.519092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1777
++ 41.519093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1778
+- 41.519093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1778
++ 41.519111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1779
+- 41.519111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1779
++ 41.51912 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1780
+- 41.51912 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1780
+r 41.534007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1766
+r 41.534007 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1767
+r 41.534019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1768
+r 41.534022 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1769
+r 41.534031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1770
+r 41.534036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1771
+r 41.534053 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1772
+r 41.534072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1773
+r 41.534077 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1774
+r 41.534081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1775
+r 41.534092 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1776
+r 41.534093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1777
+r 41.534094 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1778
+r 41.534111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1779
+r 41.53412 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 63001 269 1780
++ 41.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 270 190
+- 41.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 270 190
++ 41.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 270 191
+- 41.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 270 191
+s -t 41.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 41.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 270 190
+r 41.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 270 191
++ 41.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 270
+- 41.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 270
+r 41.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 270
++ 41.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 270
+- 41.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 270
++ 41.619018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 191
+- 41.619018 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 191
+r 41.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 270
++ 41.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 63537 271
+- 41.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 63537 271
+r 41.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 63537 271
++ 41.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 63537 271
+- 41.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 63537 271
+r 41.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 63537 271
+r 41.634019 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 191
++ 41.639001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1781
+- 41.639001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1781
++ 41.639013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1782
+- 41.639013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1782
++ 41.639021 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1783
+- 41.639021 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1783
++ 41.639023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1784
+- 41.639023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1784
++ 41.639041 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1785
+- 41.639041 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1785
++ 41.639053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1786
+- 41.639053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1786
++ 41.639073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1787
+- 41.639073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1787
++ 41.639093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1788
+- 41.639093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1788
++ 41.639104 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1789
+- 41.639104 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1789
++ 41.639119 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1790
+- 41.639119 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1790
++ 41.639126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1791
+- 41.639126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1791
++ 41.639126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1792
+- 41.639126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1792
++ 41.639143 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1793
+- 41.639143 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1793
+r 41.654001 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1781
+r 41.654013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1782
+r 41.654022 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1783
+r 41.654023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1784
+r 41.654041 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1785
+r 41.654054 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1786
+r 41.654074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1787
+r 41.654093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1788
+r 41.654104 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1789
+r 41.654119 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1790
+r 41.654126 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1791
+r 41.654127 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1792
+r 41.654143 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 63537 271 1793
+s -t 41.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 41.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 272 192
+- 41.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 272 192
+r 41.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 272 192
++ 41.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 272
+- 41.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 272
+r 41.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 272
++ 41.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 272
+- 41.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 272
++ 41.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1793
+- 41.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1793
+r 41.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 272
+r 41.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1793
++ 41.779 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 192
+- 41.779 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 192
+r 41.794001 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 192
+s -t 41.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 41.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 42 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 64001 273
+- 42 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 64001 273
+s -t 42.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 42.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 64001 273
++ 42.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 64001 273
+- 42.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 64001 273
+r 42.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 64001 273
++ 42.019012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1794
+- 42.019012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1794
++ 42.019021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1795
+- 42.019021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1795
++ 42.019029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1796
+- 42.019029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1796
++ 42.019043 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1797
+- 42.019043 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1797
++ 42.01905 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1798
+- 42.01905 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1798
++ 42.01905 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1799
+- 42.01905 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1799
++ 42.019069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1800
+- 42.019069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1800
++ 42.019079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1801
+- 42.019079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1801
++ 42.019088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1802
+- 42.019088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1802
++ 42.019104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1803
+- 42.019104 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1803
++ 42.019108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1804
+- 42.019108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1804
++ 42.019125 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1805
+- 42.019125 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1805
++ 42.019127 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1806
+- 42.019127 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1806
++ 42.019143 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1807
+- 42.019143 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1807
++ 42.01916 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1808
+- 42.01916 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1808
+r 42.034013 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1794
+r 42.034021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1795
+r 42.034029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1796
+r 42.034044 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1797
+r 42.03405 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1798
+r 42.034051 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1799
+r 42.034069 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1800
+r 42.03408 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1801
+r 42.034089 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1802
+r 42.034105 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1803
+r 42.034109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1804
+r 42.034126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1805
+r 42.034127 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1806
+r 42.034144 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1807
+r 42.034161 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 64001 273 1808
++ 42.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 274 193
+- 42.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 274 193
++ 42.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 274 194
+- 42.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 274 194
+s -t 42.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 42.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 274 193
+r 42.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 274 194
++ 42.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 274
+- 42.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 274
+r 42.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 274
++ 42.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 274
+- 42.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 274
++ 42.119009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 194
+- 42.119009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 194
+r 42.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 274
++ 42.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 64537 275
+- 42.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 64537 275
+r 42.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 64537 275
++ 42.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 64537 275
+- 42.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 64537 275
+r 42.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 64537 275
+r 42.134009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 194
++ 42.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1809
+- 42.139017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1809
++ 42.139023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1810
+- 42.139023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1810
++ 42.139028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1811
+- 42.139028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1811
++ 42.139031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1812
+- 42.139031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1812
++ 42.139048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1813
+- 42.139048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1813
++ 42.139066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1814
+- 42.139066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1814
++ 42.139076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1815
+- 42.139076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1815
++ 42.139077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1816
+- 42.139077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1816
++ 42.139083 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1817
+- 42.139083 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1817
++ 42.1391 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1818
+- 42.1391 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1818
++ 42.139104 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1819
+- 42.139104 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1819
++ 42.13912 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1820
+- 42.13912 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1820
++ 42.139138 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1821
+- 42.139138 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1821
+r 42.154017 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1809
+r 42.154024 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1810
+r 42.154028 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1811
+r 42.154031 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1812
+r 42.154049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1813
+r 42.154066 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1814
+r 42.154076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1815
+r 42.154077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1816
+r 42.154084 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1817
+r 42.1541 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1818
+r 42.154105 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1819
+r 42.154121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1820
+r 42.154139 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 64537 275 1821
+s -t 42.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 42.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 276 195
+- 42.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 276 195
+r 42.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 276 195
++ 42.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 276
+- 42.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 276
+r 42.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 276
++ 42.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 276
+- 42.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 276
++ 42.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1821
+- 42.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1821
+r 42.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 276
+r 42.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1821
++ 42.27901 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 195
+- 42.27901 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 195
+r 42.29401 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 195
+s -t 42.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 42.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 42.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 65001 277
+- 42.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 65001 277
+s -t 42.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 42.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 65001 277
++ 42.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 65001 277
+- 42.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 65001 277
+r 42.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 65001 277
++ 42.519005 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1822
+- 42.519005 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1822
++ 42.519009 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1823
+- 42.519009 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1823
++ 42.519029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1824
+- 42.519029 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1824
++ 42.519031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1825
+- 42.519031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1825
++ 42.519047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1826
+- 42.519047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1826
++ 42.519047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1827
+- 42.519047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1827
++ 42.519064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1828
+- 42.519064 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1828
++ 42.519084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1829
+- 42.519084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1829
++ 42.519101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1830
+- 42.519101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1830
++ 42.519107 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1831
+- 42.519107 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1831
++ 42.519127 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1832
+- 42.519127 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1832
++ 42.51914 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1833
+- 42.51914 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1833
++ 42.51914 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1834
+- 42.51914 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1834
++ 42.519159 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1835
+- 42.519159 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1835
++ 42.519169 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1836
+- 42.519169 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1836
+r 42.534006 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1822
+r 42.53401 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1823
+r 42.53403 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1824
+r 42.534031 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1825
+r 42.534047 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1826
+r 42.534048 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1827
+r 42.534065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1828
+r 42.534084 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1829
+r 42.534101 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1830
+r 42.534107 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1831
+r 42.534127 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1832
+r 42.53414 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1833
+r 42.534141 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1834
+r 42.534159 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1835
+r 42.53417 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 65001 277 1836
++ 42.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 278 196
+- 42.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 278 196
++ 42.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 278 197
+- 42.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 278 197
+s -t 42.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 42.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 278 196
+r 42.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 278 197
++ 42.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 278
+- 42.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 278
+r 42.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 278
++ 42.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 278
+- 42.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 278
++ 42.619015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 197
+- 42.619015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 197
+r 42.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 278
++ 42.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 65537 279
+- 42.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 65537 279
+r 42.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 65537 279
++ 42.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 65537 279
+- 42.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 65537 279
+r 42.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 65537 279
+r 42.634015 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 197
++ 42.639018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1837
+- 42.639018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1837
++ 42.639023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1838
+- 42.639023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1838
++ 42.639026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1839
+- 42.639026 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1839
++ 42.639046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1840
+- 42.639046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1840
++ 42.639046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1841
+- 42.639046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1841
++ 42.639054 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1842
+- 42.639054 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1842
++ 42.639073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1843
+- 42.639073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1843
++ 42.639076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1844
+- 42.639076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1844
++ 42.639096 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1845
+- 42.639096 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1845
++ 42.639112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1846
+- 42.639112 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1846
++ 42.639117 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1847
+- 42.639117 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1847
++ 42.639119 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1848
+- 42.639119 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1848
++ 42.639129 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1849
+- 42.639129 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1849
+r 42.654018 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1837
+r 42.654024 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1838
+r 42.654027 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1839
+r 42.654046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1840
+r 42.654047 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1841
+r 42.654055 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1842
+r 42.654074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1843
+r 42.654077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1844
+r 42.654096 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1845
+r 42.654113 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1846
+r 42.654118 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1847
+r 42.65412 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1848
+r 42.65413 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 65537 279 1849
+s -t 42.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 42.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 280 198
+- 42.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 280 198
+r 42.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 280 198
++ 42.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 280
+- 42.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 280
+r 42.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 280
++ 42.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 280
+- 42.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 280
++ 42.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1849
+- 42.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1849
+r 42.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 280
+r 42.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1849
++ 42.779006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 198
+- 42.779006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 198
+r 42.794007 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 198
+s -t 42.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 42.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 43 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 66001 281
+- 43 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 66001 281
+s -t 43.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 43.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 66001 281
++ 43.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 66001 281
+- 43.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 66001 281
+r 43.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 66001 281
++ 43.019012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1850
+- 43.019012 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1850
++ 43.019018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1851
+- 43.019018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1851
++ 43.019036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1852
+- 43.019036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1852
++ 43.019049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1853
+- 43.019049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1853
++ 43.019065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1854
+- 43.019065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1854
++ 43.019066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1855
+- 43.019066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1855
++ 43.019071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1856
+- 43.019071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1856
++ 43.019073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1857
+- 43.019073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1857
++ 43.019085 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1858
+- 43.019085 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1858
++ 43.019102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1859
+- 43.019102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1859
++ 43.019111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1860
+- 43.019111 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1860
++ 43.019114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1861
+- 43.019114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1861
++ 43.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1862
+- 43.019133 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1862
++ 43.019148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1863
+- 43.019148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1863
++ 43.019165 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1864
+- 43.019165 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1864
+r 43.034013 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1850
+r 43.034018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1851
+r 43.034037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1852
+r 43.034049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1853
+r 43.034066 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1854
+r 43.034067 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1855
+r 43.034072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1856
+r 43.034074 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1857
+r 43.034085 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1858
+r 43.034103 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1859
+r 43.034112 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1860
+r 43.034114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1861
+r 43.034134 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1862
+r 43.034148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1863
+r 43.034166 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 66001 281 1864
++ 43.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 282 199
+- 43.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 282 199
++ 43.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 282 200
+- 43.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 282 200
+s -t 43.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 43.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 282 199
+r 43.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 282 200
++ 43.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 282
+- 43.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 282
+r 43.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 282
++ 43.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 282
+- 43.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 282
++ 43.119009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 200
+- 43.119009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 200
+r 43.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 282
++ 43.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 66537 283
+- 43.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 66537 283
+r 43.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 66537 283
++ 43.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 66537 283
+- 43.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 66537 283
+r 43.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 66537 283
+r 43.134009 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 200
++ 43.139006 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1865
+- 43.139006 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1865
++ 43.139023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1866
+- 43.139023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1866
++ 43.139029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1867
+- 43.139029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1867
++ 43.139036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1868
+- 43.139036 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1868
++ 43.139049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1869
+- 43.139049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1869
++ 43.139052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1870
+- 43.139052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1870
++ 43.139061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1871
+- 43.139061 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1871
++ 43.13908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1872
+- 43.13908 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1872
++ 43.139096 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1873
+- 43.139096 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1873
++ 43.139114 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1874
+- 43.139114 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1874
++ 43.139115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1875
+- 43.139115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1875
++ 43.139115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1876
+- 43.139115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1876
++ 43.139131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1877
+- 43.139131 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1877
+r 43.154007 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1865
+r 43.154023 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1866
+r 43.154029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1867
+r 43.154037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1868
+r 43.154049 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1869
+r 43.154052 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1870
+r 43.154062 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1871
+r 43.15408 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1872
+r 43.154097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1873
+r 43.154115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1874
+r 43.154115 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1875
+r 43.154116 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1876
+r 43.154132 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 66537 283 1877
+s -t 43.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 43.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 285 201
+- 43.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 285 201
+r 43.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 285 201
++ 43.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 285
+- 43.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 285
+r 43.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 285
++ 43.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 285
+- 43.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 285
++ 43.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1877
+- 43.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1877
+r 43.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 285
+r 43.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1877
++ 43.279005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 201
+- 43.279005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 201
+r 43.294006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 201
+s -t 43.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 43.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 43.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 67001 286
+- 43.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 67001 286
+s -t 43.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 43.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 67001 286
++ 43.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 67001 286
+- 43.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 67001 286
+r 43.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 67001 286
++ 43.519016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1878
+- 43.519016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1878
++ 43.519024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1879
+- 43.519024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1879
++ 43.519037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1880
+- 43.519037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1880
++ 43.519057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1881
+- 43.519057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1881
++ 43.519071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1882
+- 43.519071 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1882
++ 43.519072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1883
+- 43.519072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1883
++ 43.51908 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1884
+- 43.51908 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1884
++ 43.51908 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1885
+- 43.51908 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1885
++ 43.519086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1886
+- 43.519086 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1886
++ 43.519102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1887
+- 43.519102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1887
++ 43.519105 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1888
+- 43.519105 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1888
++ 43.519114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1889
+- 43.519114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1889
++ 43.519122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1890
+- 43.519122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1890
++ 43.519126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1891
+- 43.519126 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1891
++ 43.519129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1892
+- 43.519129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1892
+r 43.534016 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1878
+r 43.534024 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1879
+r 43.534038 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1880
+r 43.534057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1881
+r 43.534072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1882
+r 43.534073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1883
+r 43.53408 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1884
+r 43.534081 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1885
+r 43.534087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1886
+r 43.534102 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1887
+r 43.534106 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1888
+r 43.534114 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1889
+r 43.534122 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1890
+r 43.534127 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1891
+r 43.53413 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 67001 286 1892
++ 43.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 287 202
+- 43.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 287 202
++ 43.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 287 203
+- 43.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 287 203
+s -t 43.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 43.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 287 202
+r 43.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 287 203
++ 43.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 287
+- 43.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 287
+r 43.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 287
++ 43.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 287
+- 43.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 287
++ 43.619005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 203
+- 43.619005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 203
+r 43.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 287
++ 43.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 67537 288
+- 43.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 67537 288
+r 43.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 67537 288
++ 43.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 67537 288
+- 43.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 67537 288
+r 43.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 67537 288
+r 43.634005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 203
++ 43.639011 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1893
+- 43.639011 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1893
++ 43.639024 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1894
+- 43.639024 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1894
++ 43.639037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1895
+- 43.639037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1895
++ 43.639043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1896
+- 43.639043 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1896
++ 43.639046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1897
+- 43.639046 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1897
++ 43.639056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1898
+- 43.639056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1898
++ 43.639076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1899
+- 43.639076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1899
++ 43.639085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1900
+- 43.639085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1900
++ 43.63909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1901
+- 43.63909 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1901
++ 43.639093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1902
+- 43.639093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1902
++ 43.639093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1903
+- 43.639093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1903
++ 43.639107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1904
+- 43.639107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1904
++ 43.639122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1905
+- 43.639122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1905
+r 43.654011 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1893
+r 43.654024 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1894
+r 43.654037 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1895
+r 43.654044 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1896
+r 43.654047 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1897
+r 43.654056 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1898
+r 43.654076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1899
+r 43.654085 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1900
+r 43.65409 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1901
+r 43.654093 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1902
+r 43.654094 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1903
+r 43.654107 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1904
+r 43.654122 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 67537 288 1905
+s -t 43.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 43.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 289 204
+- 43.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 289 204
+r 43.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 289 204
++ 43.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 289
+- 43.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 289
+r 43.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 289
++ 43.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 289
+- 43.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 289
++ 43.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1905
+- 43.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1905
+r 43.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 289
+r 43.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1905
++ 43.779004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 204
+- 43.779004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 204
+r 43.794004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 204
+s -t 43.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 43.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 44 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 68001 290
+- 44 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 68001 290
+s -t 44.000083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 44.005006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 68001 290
++ 44.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 68001 290
+- 44.005006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 68001 290
+r 44.005413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 68001 290
++ 44.019019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1906
+- 44.019019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1906
++ 44.019019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1907
+- 44.019019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1907
++ 44.019021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1908
+- 44.019021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1908
++ 44.019037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1909
+- 44.019037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1909
++ 44.019056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1910
+- 44.019056 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1910
++ 44.019072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1911
+- 44.019072 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1911
++ 44.019087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1912
+- 44.019087 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1912
++ 44.019091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1913
+- 44.019091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1913
++ 44.019093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1914
+- 44.019093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1914
++ 44.019108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1915
+- 44.019108 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1915
++ 44.019121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1916
+- 44.019121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1916
++ 44.019137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1917
+- 44.019137 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1917
++ 44.019148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1918
+- 44.019148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1918
++ 44.01916 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1919
+- 44.01916 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1919
++ 44.019171 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1920
+- 44.019171 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1920
+r 44.034019 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1906
+r 44.03402 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1907
+r 44.034021 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1908
+r 44.034037 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1909
+r 44.034057 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1910
+r 44.034073 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1911
+r 44.034088 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1912
+r 44.034091 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1913
+r 44.034093 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1914
+r 44.034109 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1915
+r 44.034121 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1916
+r 44.034138 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1917
+r 44.034148 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1918
+r 44.034161 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1919
+r 44.034171 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 68001 290 1920
++ 44.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 291 205
+- 44.100015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 291 205
++ 44.100015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 291 206
+- 44.100016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 291 206
+s -t 44.100083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 44.115016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 291 205
+r 44.115016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 291 206
++ 44.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 291
+- 44.115066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 291
+r 44.115467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 291
++ 44.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 291
+- 44.115467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 291
++ 44.119004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 206
+- 44.119004 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 206
+r 44.120467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 291
++ 44.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 68537 292
+- 44.120467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 68537 292
+r 44.125472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 68537 292
++ 44.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 68537 292
+- 44.125472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 68537 292
+r 44.125878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 68537 292
+r 44.134005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 206
++ 44.139002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1921
+- 44.139002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1921
++ 44.139006 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1922
+- 44.139006 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1922
++ 44.139016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1923
+- 44.139016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1923
++ 44.13903 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1924
+- 44.13903 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1924
++ 44.139048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1925
+- 44.139048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1925
++ 44.139053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1926
+- 44.139053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1926
++ 44.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1927
+- 44.139058 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1927
++ 44.139063 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1928
+- 44.139063 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1928
++ 44.139073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1929
+- 44.139073 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1929
++ 44.139082 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1930
+- 44.139082 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1930
++ 44.139097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1931
+- 44.139097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1931
++ 44.139105 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1932
+- 44.139105 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1932
++ 44.13912 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1933
+- 44.13912 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1933
+r 44.154002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1921
+r 44.154006 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1922
+r 44.154016 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1923
+r 44.15403 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1924
+r 44.154048 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1925
+r 44.154053 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1926
+r 44.154059 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1927
+r 44.154064 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1928
+r 44.154074 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1929
+r 44.154082 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1930
+r 44.154097 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1931
+r 44.154105 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1932
+r 44.154121 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 68537 292 1933
+s -t 44.200083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 44.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 293 207
+- 44.240015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 293 207
+r 44.255016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 293 207
++ 44.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 293
+- 44.255066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 293
+r 44.255466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 293
++ 44.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 293
+- 44.255466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 293
++ 44.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1933
+- 44.260015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1933
+r 44.260466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 293
+r 44.275016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1933
++ 44.279005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 207
+- 44.279005 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 207
+r 44.294006 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 207
+s -t 44.300083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 44.400083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 44.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 69001 294
+- 44.5 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 69001 294
+s -t 44.500083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 44.505006 3 4 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 69001 294
++ 44.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 69001 294
+- 44.505006 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 69001 294
+r 44.505413 4 0 tcp 576 ---A--- 0 1.0.0.0 0.0.2.0 69001 294
++ 44.519002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1934
+- 44.519002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1934
++ 44.519017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1935
+- 44.519017 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1935
++ 44.519036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1936
+- 44.519036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1936
++ 44.519048 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1937
+- 44.519048 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1937
++ 44.519049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1938
+- 44.519049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1938
++ 44.519065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1939
+- 44.519065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1939
++ 44.519079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1940
+- 44.519079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1940
++ 44.519097 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1941
+- 44.519097 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1941
++ 44.519113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1942
+- 44.519113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1942
++ 44.519129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1943
+- 44.519129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1943
++ 44.519142 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1944
+- 44.519142 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1944
++ 44.519154 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1945
+- 44.519154 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1945
++ 44.519172 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1946
+- 44.519172 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1946
++ 44.519175 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1947
+- 44.519175 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1947
++ 44.519186 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1948
+- 44.519186 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1948
+r 44.534002 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1934
+r 44.534018 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1935
+r 44.534036 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1936
+r 44.534048 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1937
+r 44.534049 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1938
+r 44.534065 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1939
+r 44.534079 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1940
+r 44.534098 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1941
+r 44.534113 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1942
+r 44.534129 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1943
+r 44.534142 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1944
+r 44.534155 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1945
+r 44.534172 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1946
+r 44.534176 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1947
+r 44.534186 0 1 AM_Data 40 ---A---- 0 1.0.0.0 0.0.2.0 69001 294 1948
++ 44.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 295 208
+- 44.600015 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 295 208
++ 44.600015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 295 209
+- 44.600016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 295 209
+s -t 44.600083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+r 44.615016 1 0 AM_Piggyback_Back 40 -------- 0 4.0.0.0 1.0.0.0 1 295 208
+r 44.615016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 295 209
++ 44.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 295
+- 44.615066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 295
+r 44.615467 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 295
++ 44.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 295
+- 44.615467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 295
++ 44.619011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 209
+- 44.619011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 209
+r 44.620467 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 295
++ 44.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 69537 296
+- 44.620467 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 69537 296
+r 44.625472 3 4 tcp 504 ------- 0 1.0.0.0 0.0.2.0 69537 296
++ 44.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 69537 296
+- 44.625472 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 69537 296
+r 44.625878 4 0 tcp 504 ------- 0 1.0.0.0 0.0.2.0 69537 296
+r 44.634011 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 209
++ 44.639002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1949
+- 44.639002 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1949
++ 44.639003 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1950
+- 44.639003 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1950
++ 44.639013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1951
+- 44.639013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1951
++ 44.639029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1952
+- 44.639029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1952
++ 44.639041 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1953
+- 44.639041 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1953
++ 44.63906 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1954
+- 44.63906 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1954
++ 44.639076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1955
+- 44.639076 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1955
++ 44.639088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1956
+- 44.639088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1956
++ 44.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1957
+- 44.639091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1957
++ 44.639108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1958
+- 44.639108 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1958
++ 44.639109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1959
+- 44.639109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1959
++ 44.639125 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1960
+- 44.639125 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1960
++ 44.639134 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1961
+- 44.639134 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1961
+r 44.654003 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1949
+r 44.654003 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1950
+r 44.654013 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1951
+r 44.654029 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1952
+r 44.654041 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1953
+r 44.65406 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1954
+r 44.654077 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1955
+r 44.654088 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1956
+r 44.654091 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1957
+r 44.654109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1958
+r 44.654109 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1959
+r 44.654125 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1960
+r 44.654135 0 1 AM_Data 40 -------- 0 1.0.0.0 0.0.2.0 69537 296 1961
+s -t 44.700083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
++ 44.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 297 210
+- 44.740015 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 297 210
+r 44.755016 1 0 AM_Data 40 -------- 0 4.0.0.0 1.0.0.0 1 297 210
++ 44.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 297
+- 44.755066 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 297
+r 44.755466 0 4 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 297
++ 44.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 297
+- 44.755466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 297
++ 44.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1961
+- 44.760015 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1961
+r 44.760466 4 3 ack 40 ------- 0 4.0.0.0 1.0.0.0 1 297
+r 44.775016 1 0 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 1961
++ 44.779014 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 210
+- 44.779014 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 210
+r 44.794014 0 1 AM_Bitmap_ack 40 -------- 0 1023.2047.2047.-1 1023.2047.2047.-1 -1 0 210
+s -t 44.800083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
+s -t 44.900083958 -Hs 8 -Hd -2 -Ni 8 -Nx 300.00 -Ny 300.00 -Nz 0.00 -Ne -1.000000 -Nl MAC -Nw --- -Ma e7 -Md ffffffff -Ms 6 -Mt 0 
