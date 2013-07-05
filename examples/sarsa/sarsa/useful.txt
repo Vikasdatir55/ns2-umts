@@ -1,2 +1,0 @@
-http://artint.info/html/ArtInt_268.html#SARSA-learning-fig
-http://code.google.com/p/rl-library/source/browse/trunk/projects/packages/examples/mines-sarsa-matlab/sample_sarsa_agent.m
