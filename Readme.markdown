@@ -62,10 +62,12 @@ c.	Patch your ns2.29 with my real time performance monitor patch.
   You just only type some command in your TCL scripts then easy to get the performance value of real time network.
 
     set my_trace [new Agent/RealtimeTrace]
-	#set mean_delay [$my_trace GetMeanDelay “src_nodeaddr” “dst_nodeaddr” “packet_type”
+    #set mean_delay [$my_trace GetMeanDelay “src_nodeaddr” “dst_nodeaddr” “packet_type”
 Like.
-	set mean_delay [$my_trace GetMeanDelay “5.0.0” “3.0.2” “cbr” ]
-	puts “$mean_delay”
+
+	  set mean_delay [$my_trace GetMeanDelay “5.0.0” “3.0.2” “cbr” ]
+	  puts “$mean_delay”
+
   You can refer to a handover between UMTS and WLAN according to mean_delay simulation example in the example directory. Have fun!
 
 ##Trouble shooting
@@ -76,8 +78,8 @@ Like.
     $vim configure
 
   find the 
-     "# For an installed makeinfo, we require it to be from texinfo 4.2 or# higher, else we use the "missing" dummy.if ${MAKEINFO} --version \| egrep 'texinfo[^0-9]*([1-3][0-9]|4\.[2-9]|[5-9])' >/dev/null 2>&1; then:elseMAKEINFO="$MISSING makeinfo"fi;;"
-  and change the 
+    "# For an installed makeinfo, we require it to be from texinfo 4.2 or# higher, else we use the "missing" dummy.if ${MAKEINFO} --version \| egrep 'texinfo[^0-9]*([1-3][0-9]|4\.[2-9]|[5-9])' >/dev/null 2>&1; then:elseMAKEINFO="$MISSING makeinfo"fi;;"
+  and change the
     'texinfo[^0-9]*([1-3][0-9]|4\.[2-9]|[5-9])' to 'texinfo[^0-9]*([1-3][0-9]|4\.[2-9]|4\.[1-9][0-9]*|[5-9])'
 
 2 For ns2.29-allinone installaion
