@@ -8,8 +8,8 @@ this repo include a whole ns2.29-allinone and a simulation of handover between U
 
   Two choices for you
 
-	a. using the package I have compile and it works on my Fedora17.
-	b. download these two packages individully and make it works by yourself, what need to mention 	is both of choice are need you to recompile it. individule package of ns2.29-allinone and UMTS extension package is in the umts-extension-package directory.
+  a. using the package I have compile and it works on my Fedora17.
+  b. download these two packages individully and make it works by yourself, what need to mention is both of choice are need you to recompile it. individule package of ns2.29-allinone and UMTS extension package is in the umts-extension-package directory.
 
 2.Installation of ns2.29-allinone with UMTS enabled
 
@@ -17,65 +17,71 @@ this repo include a whole ns2.29-allinone and a simulation of handover between U
 
     $ yum install gcc
     $ yum install tcl-devel
-	  $ yum install autoconf
-		$ yum install automake
-		$ yum install gcc-c++
-		$ yum install libX11-devel
-		$ yum install xorg-x11-proto-devel
-		$ yum install libXt-devel
-		$ yum install libXmu-devel
-		$ yum install libtool
+	$ yum install autoconf
+    $ yum install automake
+	$ yum install gcc-c++
+	$ yum install libX11-devel
+	$ yum install xorg-x11-proto-devel
+	$ yum install libXt-devel
+	$ yum install libXmu-devel
+	$ yum install libtool
 
-	After that, what you have to do is install the gcc4.1(for my fedora15, 16 17, gcc4.1.2 works fins), the version of gcc is very important for ns2.29’s installation, so I recommend the gcc4.1.2. Download it here (http://gcc.gnu.org/mirrors.html). After your gcc4.1.2 installed, you have two version of gcc on your computer now, so you have to modify you path of gcc compile link to your gcc4.1.2. which can be done by this:
+  After that, what you have to do is install the gcc4.1(for my fedora15, 16 17, gcc4.1.2 works fins), the version of gcc is very important for ns2.29’s installation, so I recommend the gcc4.1.2. Download it here (http://gcc.gnu.org/mirrors.html). After your gcc4.1.2 installed, you have two version of gcc on your computer now, so you have to modify you path of gcc compile link to your gcc4.1.2. which can be done by this:
 
-		$which gcc 
+	$which gcc 
 
-	To get the symbol link of gcc location, the cd to the directory and do
+  To get the symbol link of gcc location, the cd to the directory and do
 
-		$sudo mv gcc gcc_bak
-		$sudo mv g++ g++_bak
-		$sudo mv cc cc_bak
-		$sudo other-gcc- other-gcc-bak
+	$sudo mv gcc gcc_bak
+	$sudo mv g++ g++_bak
+	$sudo mv cc cc_bak
+	$sudo other-gcc- other-gcc-bak
 
-	Then you have create the new symbol link to your new version of gcc4.1.2 by:
+  Then you have create the new symbol link to your new version of gcc4.1.2 by:
 
 	$sudo ln –s /directory/to/gcc4.1.2/bin/gcc gcc
 
-	And you should do that for all of them, like g++, cc, c++ or something more.
+  And you should do that for all of them, like g++, cc, c++ or something more.
 
 b.	Installation of ns2.29 with UMTS enabled.
 
-	First thing you have to do is extracting the UMTS package and mv it to ns2.29-allinone to over cover the original ns2.29 directory within ns2.29-allinone directory. Then you can make install it with the simple command now:
+  First thing you have to do is extracting the UMTS package and mv it to ns2.29-allinone to over cover the original ns2.29 directory within ns2.29-allinone directory. Then you can make install it with the simple command now:
 
-		$./install
-	There should be some troubles happen, and you can refer to
+	$./install
 
-	This troubles shooting notes here ()
+  There should be some troubles happen, and you can refer to end of this document.
 
 c.	Patch your ns2.29 with my real time performance monitor patch.
-	Actually, this version of ns2.29-umts-enabled have patched, but I think maybe a lot person may have troubles installing my own version, so if you install the brand new version of ns2.29-allinone and the UMTS extension package, you should patch it like following to make it has real time performance monitor feature.
-		$cd /to/ns2.29/trace/
-		$patch –p1 < trace.patch
-	Of cause you have to specify to location of patch file. After that you can remake your ns2.29 and have fun.
+  Actually, this version of ns2.29-umts-enabled have patched, but I think maybe a lot person may have troubles installing my own version, so if you install the brand new version of ns2.29-allinone and the UMTS extension package, you should patch it like following to make it has real time performance monitor feature.
 
+	$cd /to/ns2.29/trace/
+	$patch –p1 < trace.patch
+
+  Of cause you have to specify to location of patch file. After that you can remake your ns2.29 and have fun.
 3.	Usage of real time performance monitor function
-You just only type some command in your TCL scripts then easy to get the performance value of real time network.
-set my_trace [new Agent/RealtimeTrace]
+  You just only type some command in your TCL scripts then easy to get the performance value of real time network.
+
+    set my_trace [new Agent/RealtimeTrace]
 	#set mean_delay [$my_trace GetMeanDelay “src_nodeaddr” “dst_nodeaddr” “packet_type”
 Like.
 	set mean_delay [$my_trace GetMeanDelay “5.0.0” “3.0.2” “cbr” ]
 	puts “$mean_delay”
-You can refer to a handover between UMTS and WLAN according to mean_delay simulation example in the example directory. Have fun!
+  You can refer to a handover between UMTS and WLAN according to mean_delay simulation example in the example directory. Have fun!
 
-Trouble shooting
+##Trouble shooting
 
 1 For gcc4.1.2 installaion
-	open configure file with "$vim configure" find the "# For an installed makeinfo, we require it to be from texinfo 4.2 or# higher, else we use the "missing" dummy.if ${MAKEINFO} --version \| egrep 'texinfo[^0-9]*([1-3][0-9]|4\.[2-9]|[5-9])' >/dev/null 2>&1; then:elseMAKEINFO="$MISSING makeinfo"fi;;"
-	and change the 'texinfo[^0-9]*([1-3][0-9]|4\.[2-9]|[5-9])' to 'texinfo[^0-9]*([1-3][0-9]|4\.[2-9]|4\.[1-9][0-9]*|[5-9])'
+  open configure file
+
+    $vim configure
+
+  find the 
+     "# For an installed makeinfo, we require it to be from texinfo 4.2 or# higher, else we use the "missing" dummy.if ${MAKEINFO} --version \| egrep 'texinfo[^0-9]*([1-3][0-9]|4\.[2-9]|[5-9])' >/dev/null 2>&1; then:elseMAKEINFO="$MISSING makeinfo"fi;;"
+  and change the 
+    'texinfo[^0-9]*([1-3][0-9]|4\.[2-9]|[5-9])' to 'texinfo[^0-9]*([1-3][0-9]|4\.[2-9]|4\.[1-9][0-9]*|[5-9])'
 
 2 For ns2.29-allinone installaion
-
-	when compiling the ns2 source code, there are some problems I have met and solutions are as follow.
+  when compiling the ns2 source code, there are some problems I have met and solutions are as follow.
 
 	(1).
 	./sctp/sctp.h:705: error: extra qualification 'SctpAgent::' on member 'DumpSendBuffer'
